@@ -47,7 +47,7 @@ This SOP covers one lead, from the moment it enters the pipeline through the poi
    > 
    > The quickest way to work out the right next step is a short call. Are you free [day and time option 1] or [day and time option 2]? Reply here or call [your phone number].
    > 
-   > [Your name]
+   > [Your name]\
    > [Your company]
 
    *Why this matters:* A fast first reply is the part of follow-up you fully control. The longer the gap, the colder the lead gets.
@@ -94,7 +94,7 @@ This SOP covers one lead, from the moment it enters the pipeline through the poi
    > 
    > A one-line reply is plenty.
    > 
-   > [Your name]
+   > [Your name]\
    > [Your company]
 
    *Why this matters:* A question that is easy to answer invites a reply where a pitch does not, and it gives you something real to log about what the lead needs.
@@ -116,7 +116,7 @@ This SOP covers one lead, from the moment it enters the pipeline through the poi
    > 
    > No reply needed. If a question comes up, I'm at [your phone number].
    > 
-   > [Your name]
+   > [Your name]\
    > [Your company]
 
    *Why this matters:* A lead who gets value from you before you ask for anything is more open to the ask when it comes.
@@ -148,7 +148,7 @@ This SOP covers one lead, from the moment it enters the pipeline through the poi
    > 
    > If any of it fits, I'm glad to talk it through.
    > 
-   > [Your name]
+   > [Your name]\
    > [Your company]
 
    *Why this matters:* A short story about someone in a similar position lets the lead picture the outcome without you asking for anything.
@@ -168,7 +168,7 @@ This SOP covers one lead, from the moment it enters the pipeline through the poi
    > 
    > I've sent a few notes about [what they asked about] and want to respect your time. If you would still like to talk, reply with a day that works, or pick a time here: [scheduling link]. If now is not the right time, tell me and I'll leave it there.
    > 
-   > [Your name]
+   > [Your name]\
    > [Your company]
 
    *Why this matters:* A direct, clear last ask gets an answer from leads who were waiting to be asked, and it gives the ones who are not interested an easy way to say so.
@@ -203,7 +203,7 @@ This SOP covers one lead, from the moment it enters the pipeline through the poi
    > 
    > Understood. I have taken you off our list and you will not hear from us again. If that changes, you can reach us at [your contact details].
    > 
-   > [Your name]
+   > [Your name]\
    > [Your company]
 
    *Why this matters:* Contacting someone after they asked you to stop is a legal and reputation risk, and the only proof that the stop worked is checking the scheduled list yourself.

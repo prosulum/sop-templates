@@ -44,7 +44,7 @@ This procedure takes one vendor invoice from the day it arrives to a payment tha
    > 
    > We received your invoice [invoice number] for [amount]. Before we can pay it, we need [W-9 or equivalent / bank account details on your letterhead / the missing item]. Please send it to [your AP email address] by [date]. We will pay the invoice on the next payment run after we have it and have confirmed the details with you by phone.
    > 
-   > Thank you,
+   > Thank you,\
    > [AP Clerk name], [your company name]
 
    *Why this matters:* Vendor impersonation and fake-invoice fraud target this step; a legitimate-looking invoice can come from a spoofed vendor.
@@ -62,7 +62,7 @@ This procedure takes one vendor invoice from the day it arrives to a payment tha
    > 
    > Invoice [invoice number] for [amount] does not match our purchase order [PO number] for [PO amount]. The difference is [description of difference]. We have placed the invoice on hold. Please send a corrected invoice or a written explanation by [date], and we will process it on the next payment run after that.
    > 
-   > Thank you,
+   > Thank you,\
    > [AP Clerk name], [your company name]
 
    *Why this matters:* This three-way match is the standard control against paying for goods never received or being overbilled.
@@ -106,7 +106,7 @@ This procedure takes one vendor invoice from the day it arrives to a payment tha
    > 
    > We sent payment of [amount] for invoice [invoice number] on [payment date] by [payment method]. Reference: [confirmation ID]. Please tell us if it has not arrived by [date].
    > 
-   > Thank you,
+   > Thank you,\
    > [Bookkeeper name], [your company name]
 
    *Why this matters:* Unreconciled payments hide errors until the bank reconciliation, where they are harder to unwind.

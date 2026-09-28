@@ -56,7 +56,7 @@ This SOP covers one refund or return request, from the moment it arrives until i
    > 
    > Your return is authorized. Your RMA number is [RMA number]. Please send the item to [return address] using [shipping instructions] by [return deadline]. Include the RMA number on the package. When we receive the item we check it against our policy and will write to you with the result within [N] business days.
    > 
-   > [Your name]
+   > [Your name]\
    > [Your company]
 
    > **Use this wording: Return reminder**
@@ -67,7 +67,7 @@ This SOP covers one refund or return request, from the moment it arrives until i
    > 
    > We have not yet received the item for RMA [RMA number], which is due by [return deadline]. If you need help with the shipment, reply here or contact [support contact]. If we do not receive it by [date], we will close this request without a refund.
    > 
-   > [Your name]
+   > [Your name]\
    > [Your company]
 
    *Why this matters:* Refunding before the item is back in hand removes any way to enforce the return condition and invites the same customer to keep both the product and the money.
@@ -109,7 +109,7 @@ This SOP covers one refund or return request, from the moment it arrives until i
    > 
    > If it has not appeared by [date], reply to this email or contact [support contact] and we will look into it the same day.
    > 
-   > [Your name]
+   > [Your name]\
    > [Your company]
 
    > **Use this wording: Refund confirmation, change of mind**
@@ -122,7 +122,7 @@ This SOP covers one refund or return request, from the moment it arrives until i
    > 
    > If it has not appeared by [date], reply to this email or contact [support contact].
    > 
-   > [Your name]
+   > [Your name]\
    > [Your company]
 
    > **Use this wording: Partial refund**
@@ -135,7 +135,7 @@ This SOP covers one refund or return request, from the moment it arrives until i
    > 
    > If you have questions, reply here or contact [support contact].
    > 
-   > [Your name]
+   > [Your name]\
    > [Your company]
 
    > **Use this wording: Denial**
@@ -148,7 +148,7 @@ This SOP covers one refund or return request, from the moment it arrives until i
    > 
    > If you would like someone to look at this again, reply to this email or contact [support contact] and we will respond within [N] business days.
    > 
-   > [Your name]
+   > [Your name]\
    > [Your company]
 
    *Why this matters:* Silence after a decision often brings repeat inquiries and negative reviews, and a denial with a stated reason is easier to defend than an unexplained one.

@@ -67,7 +67,7 @@ This procedure takes one client invoice from a confirmed billing trigger to a pa
    > 
    > [Payment instructions.] If your team needs a PO number, reference code, or a different delivery address on the invoice, reply to this email and we will reissue it the same day.
    > 
-   > Thank you,
+   > Thank you,\
    > [Bookkeeper name], [your company name]
 
    *Why this matters:* Sending to the wrong contact or channel is a common cause of "we never received the invoice" delays.

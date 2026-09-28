@@ -38,7 +38,7 @@ This procedure runs one payroll cycle from the cutoff reminder through submissio
    > 
    > Hours that are estimated or not approved cannot be entered, and payment for them moves to the next pay period.
    > 
-   > Thank you,
+   > Thank you,\
    > [Payroll Admin name]
 
    *Why this matters:* A missed cutoff either delays pay or forces an expensive off-cycle correction; a reminder before the cutoff is the simplest way to prevent both.
@@ -59,7 +59,7 @@ This procedure runs one payroll cycle from the cutoff reminder through submissio
    > 
    > I have held [employee name]'s hours for [pay period] out of this payroll because [reason: a missing punch on a date, a duplicate entry on a date, or overtime above the limit, with the hours]. Please send corrected, approved hours by [cutoff date and time]. If they arrive after that, they will be paid in [next pay period or off-cycle payment].
    > 
-   > Thank you,
+   > Thank you,\
    > [Payroll Admin name]
 
    *Why this matters:* Unapproved or estimated hours are a common source of payroll errors, and they are harder to fix after money has moved.

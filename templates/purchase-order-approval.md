@@ -42,7 +42,7 @@ This procedure takes one purchase from a written request to an approved, numbere
    > 
    > I have returned your purchase request [request number] because it is missing [what is being purchased / the estimated amount / the vendor / the business reason]. Please add it and submit the request again. Nothing can be ordered until an approved PO is issued.
    > 
-   > Thank you,
+   > Thank you,\
    > [Bookkeeper name]
 
    *Why this matters:* Checking budget before approval catches overruns while there is still a decision to make, not at month end.
@@ -69,7 +69,7 @@ This procedure takes one purchase from a written request to an approved, numbere
    > 
    > Your purchase request [request number] for [description] at [amount] was not approved. Reason: [reason]. If you still need this, you can submit a new request with [what would change the decision]. Please do not order from the vendor.
    > 
-   > Thank you,
+   > Thank you,\
    > [Approver name]
 
    *Why this matters:* A recorded decision, whether yes or no, makes approval a control instead of a habit.
@@ -87,7 +87,7 @@ This procedure takes one purchase from a written request to an approved, numbere
    > 
    > Attached is purchase order [PO number] for [description], total [amount]. Please confirm you can supply this by [delivery date]. Put the PO number on your invoice and on the delivery paperwork. Please do not ship or start work until you have this PO.
    > 
-   > Thank you,
+   > Thank you,\
    > [Bookkeeper name], [your company name]
 
    *Why this matters:* An unnumbered or informally issued PO is a suggestion, not a control; vendors and your own AP team need a documented reference.
