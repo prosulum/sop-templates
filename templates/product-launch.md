@@ -18,7 +18,7 @@ This SOP runs one product, feature, or major offer launch from the launch tier a
 - [Escalation contact role] and [escalation path title and location], for anything that breaks on launch day
 - [Rollback plan title and location], the written plan to pause or roll back the launch
 - [Executive sponsor role], the person you tell when a tier is unclear
-- A named functional lead for each involved team: [sales lead role], [support lead role], [operations lead role] and [marketing lead role]
+- A named functional lead for each involved team: [sales lead role], [support lead role], [operations lead role], [marketing lead role] and [product lead role]
 
 ## Procedure
 
@@ -70,8 +70,8 @@ This SOP runs one product, feature, or major offer launch from the launch tier a
 5. **Schedule marketing assets and confirm launch-day logistics** (Owner: Marketing lead)
 
    - **a.** Schedule email, social, and any paid media assets to publish at the agreed launch time, and confirm each is in the correct account, not just drafted.
-   - **b.** Confirm the product or feature itself is set to go live at the matching time. Marketing going out before the product works is a common and avoidable error.
-   - **c.** Assign the launch-day monitoring rotation: write a named person and a time window on the launch checklist so someone is always watching.
+   - **b.** Confirm with [product lead role] that the product or feature is set to go live at the matching time. Marketing that goes out before the product works is an avoidable error.
+   - **c.** Ask the Launch lead to assign the launch-day monitoring rotation: a named person and a time window written on the launch checklist, so someone is always watching.
    - **d.** The Launch lead opens each scheduled asset and the go-live setting, checks the time on each, and initials the launch checklist. If a time does not match, fix it and check it again.
 
    *Why this matters:* Marketing and product need to go live in the right order and at the same time; a mismatch is visible to every customer.
