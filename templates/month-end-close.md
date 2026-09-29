@@ -88,7 +88,7 @@ This SOP is the operating checklist for the mechanical month-end close: cutting 
    > 
    > We are closing [month] and have [number] items that need your decision before we post them. Each is listed below with the account, amount, and source document attached.
    > 
-   > 1. [Account], [amount], [the question]\
+   > 1. [Account], [amount], [the question]
    > 2. [Account], [amount], [the question]
    > 
    > Could you reply by [date] so we can finish the close by [target close date]? Anything we have not heard back on by then stays open in the close file.

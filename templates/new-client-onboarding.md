@@ -46,9 +46,9 @@ This SOP covers one new client, from the moment their agreement is fully signed 
    > 
    > Thank you for choosing [your company]. Your signed agreement is on file and we are ready to start.
    > 
-   > Here is what happens next:\
-   > 1. Please complete this intake form by [date]: [intake form link]. It takes about [N] minutes and everything on it helps us start without back-and-forth.\
-   > 2. We will book your kickoff call for [date range]. The agenda comes ahead of time.\
+   > Here is what happens next:
+   > 1. Please complete this intake form by [date]: [intake form link]. It takes about [N] minutes and everything on it helps us start without back-and-forth.
+   > 2. We will book your kickoff call for [date range]. The agenda comes ahead of time.
    > 3. After the call you will get a written recap with goals, owners, and dates.
    > 
    > Your direct contact is [account lead name], [email] and [phone]. Reach out to them for anything.
@@ -98,7 +98,7 @@ This SOP covers one new client, from the moment their agreement is fully signed 
    > 
    > Thank you for sending your intake form. Before we start, we need a little more on these:
    > 
-   > 1. [Question or field name]\
+   > 1. [Question or field name]
    > 2. [Question or field name]
    > 
    > Could you reply with them by [date]? If a call is easier, I am free [day and time options].
@@ -140,8 +140,8 @@ This SOP covers one new client, from the moment their agreement is fully signed 
    > 
    > Goals: [goal 1], [goal 2]\
    > How we will measure success: [success metric]\
-   > Next steps, owners, and dates:\
-   > 1. [action], [owner], [date]\
+   > Next steps, owners, and dates:
+   > 1. [action], [owner], [date]
    > 2. [action], [owner], [date]
    > 
    > How we will communicate: [channel and cadence]\
