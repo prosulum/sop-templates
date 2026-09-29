@@ -133,11 +133,11 @@ HR runs this procedure for every employee or contractor separation, whether it i
 
 10. **Close the offboarding record** (Owner: HR)
 
-   - **a.** Walk the checklist top to bottom and confirm every line is filled: separation logged, inventory, handoff initials, exit interview (or "declined" or "no response"), revocation record, property log, final access audit, payroll confirmation, benefits notices.
-   - **b.** If any line is open, do not close the record. Assign the open line to its owner with a date and re-check it on that date.
-   - **c.** File the completed checklist and revocation record in [record location] and write the filing date on the checklist.
+    - **a.** Walk the checklist top to bottom and confirm every line is filled: separation logged, inventory, handoff initials, exit interview (or "declined" or "no response"), revocation record, property log, final access audit, payroll confirmation, benefits notices.
+    - **b.** If any line is open, do not close the record. Assign the open line to its owner with a date and re-check it on that date.
+    - **c.** File the completed checklist and revocation record in [record location] and write the filing date on the checklist.
 
-   *Why this matters:* A record closed with lines still open leaves "did we finish this?" unanswered months later.
+    *Why this matters:* A record closed with lines still open leaves "did we finish this?" unanswered months later.
 
 ## Exceptions and troubleshooting
 

@@ -199,30 +199,30 @@ This SOP covers one lead, from the moment it enters the pipeline through the poi
 
 10. **Hand off a lead who has booked a call** (Owner: SDR)
 
-   - **a.** Reach this step when a lead books a call or agrees to one. Cancel every remaining scheduled touch from this sequence in [your CRM] and [your email tool].
-   - **b.** Hand off to the [closer role] with the full record: source, the answers to the three qualification questions, every touch and the reply, and any objection raised. Nothing should have to be re-asked. The closer prepares for the call under the Sales Call Prep procedure.
-   - **c.** Ask the [closer role] to acknowledge the handoff in the CRM within [N] business hours. If they have not by then, message the [sales owner role]. The [sales owner role] reassigns the handoff and writes the new closer on the record. Then set the status to "Booked", and log the touch in [your CRM].
+    - **a.** Reach this step when a lead books a call or agrees to one. Cancel every remaining scheduled touch from this sequence in [your CRM] and [your email tool].
+    - **b.** Hand off to the [closer role] with the full record: source, the answers to the three qualification questions, every touch and the reply, and any objection raised. Nothing should have to be re-asked. The closer prepares for the call under the Sales Call Prep procedure.
+    - **c.** Ask the [closer role] to acknowledge the handoff in the CRM within [N] business hours. If they have not by then, message the [sales owner role]. The [sales owner role] reassigns the handoff and writes the new closer on the record. Then set the status to "Booked", and log the touch in [your CRM].
 
-   *Why this matters:* A lead who has already answered your questions should not be asked them again, and a scheduled touch landing after they booked makes the team look disorganized.
+    *Why this matters:* A lead who has already answered your questions should not be asked them again, and a scheduled touch landing after they booked makes the team look disorganized.
 
 11. **Stop the sequence for a no, an opt-out, or a lead who is not a fit, and confirm it stopped** (Owner: SDR)
 
-   - **a.** Reach this step from any touch when the lead says no, asks you to stop, or does not fit. Respect an opt-out the first time it is stated, on any channel.
-   - **b.** Set the status to "Do not contact" for a no or an opt-out, or "Closed, not a fit" if they do not fit, and write the reason and the date on the record. For a no or an opt-out, add them to [location of the do-not-contact list].
-   - **c.** Cancel every scheduled touch, task, and automated email for the lead in [your CRM] and [your email tool].
-   - **d.** Open the lead's scheduled activity list and confirm zero scheduled touches remain. Write "stopped, 0 scheduled touches", the date, and your initials on the record. Send the acknowledgement wording below if the lead asked to stop or said no.
-   - **e.** On the next business day, open the record again and confirm nothing was sent since the acknowledgement (or since the stop, if no acknowledgement was sent). If anything was sent, tell the [sales owner role] that day and write what was sent and why on the record.
+    - **a.** Reach this step from any touch when the lead says no, asks you to stop, or does not fit. Respect an opt-out the first time it is stated, on any channel.
+    - **b.** Set the status to "Do not contact" for a no or an opt-out, or "Closed, not a fit" if they do not fit, and write the reason and the date on the record. For a no or an opt-out, add them to [location of the do-not-contact list].
+    - **c.** Cancel every scheduled touch, task, and automated email for the lead in [your CRM] and [your email tool].
+    - **d.** Open the lead's scheduled activity list and confirm zero scheduled touches remain. Write "stopped, 0 scheduled touches", the date, and your initials on the record. Send the acknowledgement wording below if the lead asked to stop or said no.
+    - **e.** On the next business day, open the record again and confirm nothing was sent since the acknowledgement (or since the stop, if no acknowledgement was sent). If anything was sent, tell the [sales owner role] that day and write what was sent and why on the record.
 
-   > **Use this wording: Opt-out acknowledgement**
-   > 
-   > Hi [first name],
-   > 
-   > Understood. I have taken you off our list and you will not hear from us again. If that changes, you can reach us at [your contact details].
-   > 
-   > [Your name]\
-   > [Your company]
+    > **Use this wording: Opt-out acknowledgement**
+    > 
+    > Hi [first name],
+    > 
+    > Understood. I have taken you off our list and you will not hear from us again. If that changes, you can reach us at [your contact details].
+    > 
+    > [Your name]\
+    > [Your company]
 
-   *Why this matters:* Contacting someone after they asked you to stop can create legal and reputation problems, and the only proof that the stop worked is checking the scheduled list yourself.
+    *Why this matters:* Contacting someone after they asked you to stop can create legal and reputation problems, and the only proof that the stop worked is checking the scheduled list yourself.
 
 ## Exceptions and troubleshooting
 
