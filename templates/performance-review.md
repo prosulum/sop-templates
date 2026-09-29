@@ -2,16 +2,18 @@
 
 Updated September 28, 2026
 
-The manager runs this procedure once for each employee or contractor at every formal review, on [your review cadence, e.g. quarterly or annually]. It starts when HR opens the cycle and ends when the signed review is filed and the next check-in is calendared: send the self-assessment, read it against the feedback log, write the rubric-based assessment, hold the two-way review meeting, document and acknowledge, and file. Goals and the running feedback log are set and kept before the cycle opens, so this procedure assumes they exist. It gives every manager one fair, evidence-based way to run a review without reinventing it each cycle.
+The manager runs this procedure once for each employee or contractor at every formal review, on [your review cadence, e.g. quarterly or annually]. HR opens the cycle in step 1 and files the review in step 7. It ends when the signed review is filed and the next check-in is calendared: send the self-assessment, read it against the feedback log, write the rubric-based assessment, hold the two-way review meeting, document and acknowledge, and file. Goals and the running feedback log are set and kept before the cycle opens, so this procedure assumes they exist. It gives every manager one fair, evidence-based way to run a review without reinventing it each cycle.
+
+**What this gives you:** Reviews that are fair, specific, and two-way let you help people become better at their work than they thought they could be. That is the part of leading a team that makes it worth building one.
 
 **Primary owner:** Manager (direct supervisor)  
 **Runs:** Once per employee at every formal review, on [your review cadence, e.g. quarterly or annually]  
-**Time:** 2 to 3 hours of preparation plus a 45 to 60 minute review meeting
+**Time:** [2 to 3] hours of preparation plus a [45 to 60] minute review meeting per employee (example figures, replace with your own after your first cycle)
 
 ## Before you start
 
-- A documented rubric with core competencies, a [rating scale, e.g. 1 to 5], and a behavioral anchor for each rating level. HR keeps it current on [rubric review cadence], as its own routine outside this procedure.
-- Goals or outcomes agreed at the start of the review period, in writing, tied to the role's real responsibilities (for example, 3 to 5 specific goals), and stored in [your goal tracker]
+- A documented rubric with core competencies, a [rating scale, e.g. 1 to 5], and a behavioral anchor (a plain description of what that rating looks like in practice) for each rating level. HR keeps it current on [rubric review cadence], as its own routine outside this procedure.
+- Goals or outcomes agreed at the start of the review period, in writing, tied to the role's real responsibilities (for example, [number of goals, e.g. 3 to 5] specific goals), and stored in [your goal tracker]
 - A running feedback log kept by the manager through the whole review period, with both positive and constructive entries, updated at each check-in. It is a standing habit, not a step in this procedure.
 - A self-assessment form and a manager assessment form
 - A private meeting space, in person or video, with enough time blocked and not squeezed between other meetings
@@ -51,30 +53,31 @@ The manager runs this procedure once for each employee or contractor at every fo
 
 3. **Read the self-assessment against the feedback log** (Owner: Manager)
 
-   - **a.** Read the returned self-assessment in full before you write any rating. If it was not returned, skip this action and action c below.
+   - **a.** Read the returned self-assessment in full before you write any rating. If it was not returned, skip this action and the action that lists where the self-assessment and the log disagree.
    - **b.** Read the feedback log for the whole period, oldest entry first, so the last few weeks do not outweigh the rest.
    - **c.** List each place the self-assessment and the log disagree, and each win in the self-assessment that is not in the log, so you can discuss them in the meeting.
    - **d.** If the log has no entries for part of the period, note the gap on the review record and go to step 4 with the evidence you have.
 
-   *Why this matters:* Recency bias, judging the whole period by the last few weeks, is an easy review error to fall into. Reading the log first is the fix.
+   *Why this matters:* Recency bias, judging the whole period by the last few weeks, is an easy review error to fall into. Reading the log first puts the whole period in front of you before you write a rating.
 
 4. **Write the manager assessment from the rubric and the log** (Owner: Manager)
 
    - **a.** Score each competency against the documented rubric using the [rating scale], with the feedback log and goal outcomes as evidence, not general impressions.
    - **b.** Write specific, evidence-based comments for both strengths and growth areas: what happened, its impact, and the pattern it reflects.
    - **c.** If a goal was missed because of factors outside the employee's control, write the context next to that goal and rate what the person controlled.
-   - **d.** Draft [number of goals, e.g. 2 to 3] goals for the next period, so the meeting ends with a forward plan, not just a look backward.
+   - **d.** Draft [number of goals, e.g. 3 to 5] goals for the next period, so the meeting ends with a forward plan, not just a look backward.
 
-   *Why this matters:* Evidence-based, rubric-anchored assessments make reviews defensible if a rating is ever challenged.
+   *Why this matters:* Evidence-based, rubric-anchored assessments make reviews easier to defend if a rating is ever challenged.
 
 5. **Run the review meeting as a two-way conversation** (Owner: Manager)
 
-   - **a.** Open with the opening line below, then go through specific strengths and wins from the period, each grounded in evidence.
-   - **b.** Walk through growth areas the same way (behavior, impact, and the change expected) and invite the employee's perspective before moving on.
-   - **c.** Agree on goals for the next period together, and note any support or resources the employee needs from you.
-   - **d.** If the employee disagrees with a rating, go through the evidence behind it against the rubric.
-   - **e.** If new evidence changes the picture, change the rating and write down why. If it does not, keep the rating and record the employee's disagreement in their own words on the review record. Then continue to step 6.
-   - **f.** If the conversation surfaces a larger performance or conduct concern, tell HR the same day and start [your formal improvement or conduct procedure] as a separate documented track. Finish this review, then go to step 6.
+   - **a.** If the employee completed the self-assessment at the meeting, read it with them first and note on the review record anything that changes a rating.
+   - **b.** Open with the opening line below, then go through specific strengths and wins from the period, each grounded in evidence.
+   - **c.** Walk through growth areas the same way (behavior, impact, and the change expected) and invite the employee's perspective before moving on.
+   - **d.** Agree on goals for the next period together, and note any support or resources the employee needs from you.
+   - **e.** If the employee disagrees with a rating, go through the evidence behind it against the rubric.
+   - **f.** If new evidence changes the picture, change the rating and write down why. If it does not, keep the rating and record the employee's disagreement in their own words on the review record. Then continue to step 6.
+   - **g.** If the conversation surfaces a larger performance or conduct concern, tell HR the same day and start [your formal improvement or conduct procedure] as a separate documented track. Finish this review, then go to step 6.
 
    > **Use this wording: Opening line for the meeting**
    > 
@@ -84,7 +87,7 @@ The manager runs this procedure once for each employee or contractor at every fo
    > 
    > One area I want to talk about is [competency]. What I saw was [specific behavior and date]. The impact was [impact]. What I would like to see is [expected change]. How does that match your view?
 
-   *Why this matters:* A review the employee only listens to, rather than participates in, produces compliance, not real improvement or buy-in.
+   *Why this matters:* A review the employee only listens to, rather than participates in, tends to produce compliance more than improvement or buy-in.
 
 6. **Document the review and get acknowledgment** (Owner: Manager)
 
@@ -105,7 +108,7 @@ The manager runs this procedure once for each employee or contractor at every fo
    - **c.** Calendar the next check-in for [N] weeks from now, so agreed goals are revisited before the next formal review and not only at it.
    - **d.** Send the manager and the employee the calendar invitation and close the cycle record.
 
-   *Why this matters:* Goals agreed verbally and never revisited teach employees the process does not matter, and a review that is not filed cannot be referenced later.
+   *Why this matters:* Goals agreed verbally and never revisited can teach employees the process does not matter, and a review that is not filed cannot be referenced later.
 
 ## Exceptions and troubleshooting
 

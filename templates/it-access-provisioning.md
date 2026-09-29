@@ -2,19 +2,22 @@
 
 Updated September 28, 2026
 
-The IT admin runs this one sequence for three kinds of request: a new hire, a role change, and an ad hoc access request. It starts when a written request with the requesting manager's approval arrives, and it ends when the grant is logged and the requester has confirmed their logins. Each step says what differs by request type, including removing the old role's access on a role change. It uses a role-based access matrix and least-privilege defaults, so IT can act on a clear, approved request without guessing what a role needs.
+The IT admin runs this one sequence for three kinds of request: a new hire, a role change, and an ad hoc access request. It starts when a written request arrives that the requesting manager submitted (the hiring manager, for a new hire) and [approver role, e.g. department head or owner] approved, and it ends when the grant is logged and the requester has confirmed their logins, or the ticket records that they did not. Each step says what differs by request type, including removing the old role's access on a role change. It uses a role-based access matrix and least-privilege defaults, so IT can act on a clear, approved request without guessing what a role needs.
+
+**What this gives you:** Access that matches the role and is granted the same way each time lets you hand responsibility to a growing team on your terms. It is how a company grows past the person who holds every key.
 
 **Primary owner:** IT admin  
 **Runs:** Every approved new-hire request, role change, or ad hoc access request  
-**Time:** 1 to 2 hours of setup per new hire; 15 to 30 minutes for most ad hoc requests
+**Time:** [1 to 2] hours of setup per new hire; [15 to 30] minutes per ad hoc request (example figures, replace with your own after three timed runs)
 
 ## Before you start
 
 - A documented role-based access matrix defining default access per role
-- Single sign-on (SSO) through [your identity provider], covering as many core systems as possible, with MFA enforced
+- Single sign-on (SSO) through [your identity provider], covering as many core systems as possible, with multi-factor authentication (MFA, a second check at sign-in) enforced
 - An access request and approval workflow ([your request form or ticketing system]) with one form or ticket type each for a new hire, a role change, and an ad hoc request, not verbal or hallway requests
 - A current access registry showing who has access to what
-- The name of the [exception approver role, e.g. IT lead] and the [backup approver role], and the response time for each, [N] business hours
+- The requester for each request type (the hiring manager submits a new-hire request; the requesting manager submits a role-change or ad hoc request) and the named approver for each request ([approver role, e.g. department head or owner]) with a [backup approver role]
+- The [exception approver role, e.g. IT lead] with a [backup exception approver role], and the response time for each approver, [N] business hours
 - A device management (MDM) process for company hardware, [your device management tool], if applicable
 - Access reviews run as their own routine on [your access review cadence, e.g. quarterly] and are not part of this sequence
 
@@ -23,7 +26,7 @@ The IT admin runs this one sequence for three kinds of request: a new hire, a ro
 1. **Receive the request and confirm it is approved** (Owner: IT admin)
 
    - **a.** Open the request and mark its type on the ticket: new hire, role change, or ad hoc. Every later step says what differs by type.
-   - **b.** Confirm the approver's approval is recorded on the request (a status or a signature), and that the approver is the requester's manager or the [backup approver role].
+   - **b.** Confirm the approver's approval is recorded on the request (a status or a signature), and that the approval comes from the [approver role] or the [backup approver role].
    - **c.** If the request is not approved, do not provision. Send the return message below, set the ticket to "awaiting approval", and stop. If the approver denies it, record the denial on the ticket, tell the requester, and stop.
    - **d.** If the approver has not answered within [N] business hours, send the request to the [backup approver role]. If neither answers within [N] more business hours, tell the requester the request is on hold and keep the ticket open.
    - **e.** New hire: confirm start date, role, department, and reporting manager. Role change: confirm the old role, the new role, and the effective date. Ad hoc: confirm the specific system, the reason, and whether it is temporary or standing.
@@ -32,16 +35,16 @@ The IT admin runs this one sequence for three kinds of request: a new hire, a ro
    > 
    > Hi [requester name], I cannot start on your request [ticket number] yet because it has no recorded approval from [approver name]. Please ask them to approve it in [request form or ticketing system]. I will pick it up as soon as I see the approval.
 
-   *Why this matters:* Provisioning off a verbal request or a hallway conversation is how access sprawl happens. A written, approved request is the first control in the chain.
+   *Why this matters:* Provisioning off a verbal request or a hallway conversation is one way access sprawl starts. A written, approved request is the first control in the chain.
 
 2. **Apply the role-based access matrix, not an ad hoc list** (Owner: IT admin)
 
    - **a.** New hire: look up the new role's default access in the matrix. Role change: look up both the old role and the new role. Ad hoc: look up whether the matrix already gives the requested system to the requester's role.
-   - **b.** Grant only what the matrix specifies for the role. This is the least-privilege default, not a starting point to negotiate up from.
+   - **b.** List only what the matrix specifies for the role. This is the least-privilege default, not a starting point to negotiate up from. The granting happens in step 4.
    - **c.** If the request asks for access beyond the role's default, treat it as an exception: write the business reason on the ticket and send it to the [exception approver role].
-   - **d.** If the exception approver approves, record the approver and the reason on the ticket and go on to step 3.
-   - **e.** If the approver denies it, tell the requester and the requesting manager and record the denial on the ticket. Then go to step 3 with the matrix defaults only. If the whole request was the exception (a typical ad hoc request), there is nothing to grant, so go to step 8 to log the denial.
-   - **f.** If the exception approver has not answered within [N] business hours, tell the requester the exception is on hold, grant the matrix defaults only, and go to step 3.
+   - **d.** If the [exception approver role] approves, record the approver and the reason on the ticket, add the excepted access to the list to be granted in step 4, and go on to step 3.
+   - **e.** If the [exception approver role] denies it, tell the requester and the requesting manager and record the denial on the ticket. Then carry the matrix defaults only into step 3. If the whole request was the exception (a typical ad hoc request), there is nothing to grant, so go to step 8 to log the denial.
+   - **f.** If the [exception approver role] has not answered within [N] business hours, ask the [backup exception approver role]. If neither answers within [N] more business hours, tell the requester the exception is on hold, and carry the matrix defaults only into step 3.
 
    *Why this matters:* Least privilege means starting minimal and expanding only on documented justification. A role-based matrix keeps that consistent instead of dependent on who asks loudest.
 
@@ -50,9 +53,10 @@ The IT admin runs this one sequence for three kinds of request: a new hire, a ro
    - **a.** New hire: create the identity in [your identity provider] first, because it is the fastest way to grant or revoke access to every connected system at once.
    - **b.** Role change or ad hoc: confirm the person's existing identity is active in [your identity provider] and the department, title, and manager fields match the request.
    - **c.** Confirm MFA enrollment in the admin console of [your identity provider] and write the enrollment status and date on the ticket. Grant nothing until it shows enrolled. If it does not, tell the requester to enroll and hold the request.
-   - **d.** For systems not connected to SSO, create individual accounts and log each one in the access registry so it is not missed later.
+   - **d.** When it shows enrolled, continue with step 4. If it still does not show enrolled after [N] business days, tell the requester's manager and keep the ticket open.
+   - **e.** For systems not connected to SSO, create individual accounts and log each one in the access registry so it is not missed later.
 
-   *Why this matters:* Centralizing identity through SSO (one login that opens your other tools) with MFA (a second check at sign-in) enforced makes both provisioning and, later, offboarding fast and reliable instead of a scavenger hunt across every tool.
+   *Why this matters:* Centralizing identity through SSO (one login that opens your other tools) with MFA enforced can make both provisioning and, later, offboarding fast and reliable, not a hunt across every tool.
 
 4. **Grant system-specific permissions at the least-privilege level** (Owner: IT admin)
 
@@ -71,11 +75,11 @@ The IT admin runs this one sequence for three kinds of request: a new hire, a ro
    - **d.** If the manager asks to keep an old-role access for a handover, treat it as a temporary ad hoc exception: send it to the [exception approver role] as in step 2, give it an expiry of [N] days, and log it.
    - **e.** Open each affected system's user list and confirm the person's access shows the change, then update the access registry to match.
 
-   *Why this matters:* Without this step a role change only adds access, and over the years a person collects every permission they have ever had. Removing the old role's access keeps least privilege true.
+   *Why this matters:* Without this step a role change only adds access, and a person can collect permissions over the years. Removing the old role's access keeps least privilege true.
 
 6. **Set up hardware and remote access** (Owner: IT admin)
 
-   - **a.** Ad hoc requests that need no new device: skip this step and go to step 7.
+   - **a.** Ad hoc requests and role changes that need no new device or software: skip this step and go to step 7.
    - **b.** For in-office roles, image and prepare the workstation with the required software before the start date or effective date.
    - **c.** For remote roles, configure [your VPN or remote access method] and confirm the required tools are reachable from outside the office network.
    - **d.** Enroll company hardware in [your device management tool] so it can be locked or wiped if lost, or at offboarding.
@@ -93,7 +97,7 @@ The IT admin runs this one sequence for three kinds of request: a new hire, a ro
    > 
    > Hi [name], your access is ready as of [date]. You can log in to [system list] with your [identity provider] account. Guides are in [documentation location]. Please log in to each system and reply to me by [date] to tell me it works or what failed. If you get stuck, contact [IT contact].
 
-   *Why this matters:* Confirming access works before it is needed is the difference between a smooth first day and a morning lost to password resets.
+   *Why this matters:* Confirming access works before it is needed can be the difference between a smooth first day and a morning lost to password resets.
 
 8. **Log the grant, set the review, and close the ticket** (Owner: IT admin)
 
@@ -128,7 +132,7 @@ The IT admin runs this one sequence for three kinds of request: a new hire, a ro
 ## Common mistakes
 
 - **Mistake:** Provisioning access based on a verbal request or what the employee asks for, instead of the documented role matrix. **Fix:** Require a written, approved request, and grant exactly what the matrix specifies for that role.
-- **Mistake:** Defaulting new accounts to admin or elevated permissions because it is faster than scoping them correctly. **Fix:** Default to least privilege for every system and require a separate, documented approval for anything beyond the role's baseline.
+- **Mistake:** Defaulting new accounts to admin or higher-level permissions because it is faster than scoping them correctly. **Fix:** Default to least privilege for every system and require a separate, documented approval for anything beyond the role's baseline.
 - **Mistake:** Adding the new role's access on a role change without removing the old role's. **Fix:** Run step 5 on every role change: list what the old role has that the new one does not, and remove it on the effective date.
 - **Mistake:** Creating accounts outside SSO without logging them in the access registry. **Fix:** Log every account, SSO-connected or not, in the registry the moment it is created.
 - **Mistake:** Granting temporary or ad hoc access with no expiration or review date. **Fix:** Set an expiry on every temporary grant at the time it is created (step 4) and log it.

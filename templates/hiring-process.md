@@ -4,14 +4,16 @@ Updated September 28, 2026
 
 This SOP is the full hiring cycle for one open role, from defining the role to an accepted offer and a handoff to onboarding, run by the hiring manager. It exists so every candidate is judged on the same evidence and every outcome, including a rejection or a declined offer, has a next step. The hiring manager defines and posts the role, screens applications, runs a phone screen and a structured panel interview, selects a finalist, checks references, and extends a written offer. It applies to any open headcount, employee or contractor, and it starts when the headcount is approved.
 
+**What this gives you:** Hiring on the same evidence every time lets you build a team you chose on purpose, people who share the work you care about and can carry it further than you could alone. That team is part of what you leave behind.
+
 **Primary owner:** Hiring manager  
 **Runs:** Once per open role, starting when the headcount request is approved  
-**Time:** 3 to 5 hours of active work spread across a 2 to 4 week hiring cycle
+**Time:** [3 to 5] hours of active work spread across a [2 to 4] week hiring cycle (example, replace with your own)
 
 ## Before you start
 
 - Approved headcount and budget for the role, signed off by [approver role, e.g. the owner]
-- [Your applicant tracking system], or a structured tracking sheet at [tracking sheet location] if you do not have one yet
+- [Your applicant tracking system (ATS)], or a structured tracking sheet at [tracking sheet location] if you do not have one yet
 - [Your job description template], built around outcomes, not just tasks
 - [Your interview scorecard] with [4 to 6] weighted competencies agreed before the role is posted, stored at [scorecard location]
 - Your minimum score to advance a candidate from the phone screen: [advance score]. Your minimum weighted total to be a finalist: [finalist minimum]
@@ -26,7 +28,7 @@ This SOP is the full hiring cycle for one open role, from defining the role to a
    - **a.** Write what success looks like at 30, 60, and 90 days before listing required skills or years of experience.
    - **b.** Confirm the approved compensation range and the reporting manager with [approver role].
    - **c.** Build the scorecard now: [4 to 6] weighted competencies the role needs ([competency 1], [competency 2], and so on), each with a one-line description of what a strong answer looks like.
-   - **d.** Write the pass or fail checklist for step 3 from the required qualifications: [5 to 7] items, with the ones that are must-haves marked.
+   - **d.** Write the pass, fail, or maybe checklist for step 3 from the required qualifications: [5 to 7] items, with the ones that are must-haves marked.
    - **e.** Write [4 to 5] opening questions for the phone screen ([question 1], [question 2], and so on) and the core interview questions, one or two per competency.
 
    *Why this matters:* A role defined by outcomes tells candidates what they will own, and a scorecard written before you post the role keeps the evaluation criteria from drifting to match whoever you liked best.
@@ -39,16 +41,17 @@ This SOP is the full hiring cycle for one open role, from defining the role to a
    - **d.** Post to [2 to 3] channels that match the role: [a general job board], [a niche board, for specialized roles], and [your network or referral channel].
    - **e.** Write the closing date for applications in the ATS: [closing date].
 
-   *Why this matters:* A tightly written posting on the right channels keeps the applicant pool to a size you can screen properly.
+   *Why this matters:* A tightly written posting on the right channels can keep the applicant pool to a size you can screen properly.
 
 3. **Screen applications against a pass, fail, or maybe checklist** (Owner: Hiring manager)
 
-   - **a.** Open each application only after the checklist from step 1 is written.
-   - **b.** Score every applicant against the same checklist: pass, fail, or maybe. No subjective read at this stage.
-   - **c.** Pass means every must-have item is met. Fail means a must-have item is missing. Maybe means no must-have item is missing, but at least one cannot be confirmed from the application.
-   - **d.** For a fail, send the rejection notice below and close the candidate in the ATS.
-   - **e.** For a maybe, send the clarifying question below with a reply date of [N] business days. If the answer confirms the item, mark pass. If the answer does not, or there is no reply by that date, mark fail and send the rejection notice.
-   - **f.** Move every pass into the pipeline with a status and a next action, then go to step 4.
+   - **a.** Start screening on [the closing date, or on a rolling basis if you choose that].
+   - **b.** Open each application only after the checklist from step 1 is written.
+   - **c.** Score every applicant against the same checklist: pass, fail, or maybe. No subjective read at this stage.
+   - **d.** Pass means every must-have item is met. Fail means a must-have item is missing. Maybe means no must-have item is missing, but at least one cannot be confirmed from the application.
+   - **e.** For a fail, send the rejection notice below and close the candidate in the ATS.
+   - **f.** For a maybe, send the clarifying question below with a reply date of [N] business days. If the answer confirms the item, mark pass. If the answer does not, or there is no reply by that date, mark fail and send the rejection notice.
+   - **g.** Move every pass into the pipeline with a status and a next action, then go to step 4. If no applicant passes by [N business days after the closing date], go back to step 2 and widen the posting (see troubleshooting).
 
    > **Use this wording: Rejection notice (after screening)**
    > 
@@ -58,16 +61,20 @@ This SOP is the full hiring cycle for one open role, from defining the role to a
    > 
    > Hi [candidate first name], thank you for applying for the [role title] position. Before we decide on next steps, could you tell us [the one thing to confirm, for example whether you have done X]? A short reply by [reply date] is enough.
 
-   *Why this matters:* A consistent checklist removes first-look bias and keeps screening time proportional to the role, not the applicant volume.
+   *Why this matters:* A consistent checklist can reduce first-look bias and keeps screening time proportional to the role, not the applicant volume.
 
 4. **Run a structured phone or video screen** (Owner: Hiring manager)
 
    - **a.** Ask every candidate the same opening questions from step 1, in the same order, so answers are comparable across the pool.
    - **b.** Confirm compensation expectations, start-date availability, and work classification (employee or contractor) before investing more time.
-   - **c.** If the candidate's compensation expectation is outside [range], the start date is later than [latest acceptable start date], or the classification does not match the role, tell the candidate plainly, send the rejection notice from step 3, and close the candidate.
+   - **c.** If the candidate's compensation expectation is outside [range], the start date is later than [latest acceptable start date], or the classification does not match the role, send the candidate the rejection notice below and close the candidate.
    - **d.** If you want to proceed anyway, get [approver role]'s written OK first and record it in the ATS.
    - **e.** Score the call on the scorecard immediately after, while the conversation is fresh.
-   - **f.** If the score is at or above [advance score], schedule the panel interview in step 5. If it is below, send the rejection notice from step 3 and close the candidate.
+   - **f.** If the score is at or above [advance score], schedule the panel interview in step 5. If it is below, send the rejection notice below and close the candidate. If no candidate reaches the panel interview, go back to step 2.
+
+   > **Use this wording: Rejection notice (after phone screen)**
+   > 
+   > Hi [candidate first name], thank you for talking with us about the [role title] position. We have decided not to move forward. We appreciate your time and wish you well in your search.
 
    *Why this matters:* Structured screens catch mismatches early and keep the comparison fair across every candidate, not just the ones interviewed last.
 
@@ -84,9 +91,9 @@ This SOP is the full hiring cycle for one open role, from defining the role to a
 
    - **a.** Total the scorecards for each candidate into one weighted score.
    - **b.** Name the candidate with the highest weighted score that is at or above [finalist minimum] as the finalist. Name the next highest, also above the minimum, as the runner-up.
-   - **c.** If two candidates tie, hold a focused follow-up conversation on the one competency where their scores diverge, then choose. See troubleshooting.
+   - **c.** If two candidates tie, hold a focused follow-up conversation on the one competency where their scores diverge, then re-score that one competency for both candidates and take the higher weighted total. If they still tie, [approver role] decides and the reason is written in the ATS. See troubleshooting.
    - **d.** If no candidate is at or above [finalist minimum], tell [approver role] and go back to step 2 with a revised posting.
-   - **e.** Send every other candidate who was interviewed the notice below and close them in the ATS. Keep the runner-up open and tell them only when an offer is accepted or the finalist is out.
+   - **e.** Send every other candidate who was interviewed the notice below and close them in the ATS. Keep the runner-up open and do not tell them yet. Send them the notice only after an offer is accepted.
    - **f.** Write the reasons for the choice in the ATS, citing scorecard evidence.
 
    > **Use this wording: Non-selected notice (after interviews)**
@@ -107,17 +114,17 @@ This SOP is the full hiring cycle for one open role, from defining the role to a
    > 
    > Hi [reference name], this is [your name] from [your company]. [Candidate name] gave your name as a reference for a [role title] position, and said you would expect my call. Do you have [10 minutes]? First, how do you know [candidate name], and what was the role? How would you describe their performance? What was the reason they left? Would you work with them again?
 
-   *Why this matters:* A consistent reference-check script surfaces real signal instead of a rubber-stamp formality, and it protects you if a hire does not work out.
+   *Why this matters:* A consistent reference-check script surfaces real signal instead of a rubber-stamp formality, and gives you a record if a hire does not work out.
 
 8. **Extend the offer and hand off to onboarding** (Owner: Hiring manager)
 
-   - **a.** Before anything is sent, have [approver role] check the offer letter against the approved headcount: title, compensation and pay frequency, start date, classification, and reporting manager. Have them initial the check in [offer check location] and date it. That initialed check is the artifact for this step.
+   - **a.** Before you make the verbal offer or send anything, have [approver role] check the offer letter against the approved headcount: title, compensation and pay frequency, start date, classification, and reporting manager. Have them initial the check in [offer check location] and date it. That initialed check is the artifact for this step.
    - **b.** Make a verbal offer first, using the wording below, then send the written offer letter the same business day. Do not wait.
    - **c.** Set an acceptance window of [N hours, e.g. 48 to 72] and stay reachable for questions during it.
    - **d.** If the candidate accepts, save the signed letter in the candidate record and tell the runner-up and any candidates still open, using the non-selected notice from step 6.
-   - **e.** Then start [your new-hire onboarding procedure] and the IT Access Provisioning procedure so the new hire is fully set up before day one.
+   - **e.** Then submit the new-hire access request for IT Access Provisioning (start date, role, department, reporting manager, and the approval IT Access Provisioning requires) and start [your new-hire onboarding procedure] so the new hire is fully set up before day one.
    - **f.** If the candidate declines, ask why, record it in the ATS, and go back to step 7 with the runner-up. If there is no runner-up, tell [approver role] and go back to step 2.
-   - **g.** If the acceptance window closes with no answer, send one reminder. If there is still no answer [N hours] later, treat the offer as declined and follow the decline branch above.
+   - **g.** If the candidate has not answered [N hours] before the window closes, send the reminder below. If there is still no answer when the window closes, treat the offer as declined and follow the decline branch above.
 
    > **Use this wording: Verbal offer**
    > 
@@ -127,7 +134,7 @@ This SOP is the full hiring cycle for one open role, from defining the role to a
    > 
    > Hi [candidate first name], a quick note on the offer letter I sent on [date]. The acceptance date is [acceptance deadline]. Do you have any questions I can answer before then?
 
-   *Why this matters:* A prompt, complete written offer reaches the candidate before a competing offer does, and the handoff keeps day one from becoming a scramble.
+   *Why this matters:* A prompt, complete written offer can reach the candidate before a competing offer does, and the handoff keeps day one from becoming a scramble.
 
 ## Exceptions and troubleshooting
 

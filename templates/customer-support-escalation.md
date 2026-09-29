@@ -2,11 +2,13 @@
 
 Updated September 28, 2026
 
-This SOP is the path one support ticket follows from first classification to a closed, customer-confirmed resolution when it crosses an escalation trigger. It exists so every escalated ticket has one named owner and a response clock nobody can miss unseen. The Tier 1 agent classifies and routes the ticket, the Tier 2 owner acknowledges the customer, works the issue on a fixed update cadence, escalates to the support lead if the SLA is at risk, closes with the customer's confirmation, and documents the root cause. It applies to any business running tiered support, from two people sharing an inbox to a formal multi-tier structure, and it starts each time a ticket meets a trigger in your matrix.
+This SOP is the path one support ticket follows from first classification to a closed resolution, confirmed by the customer or closed under your unresponsive-customer rule, when it crosses an escalation trigger. It exists so every escalated ticket has one named owner and a response clock nobody can miss without it showing. The Tier 1 agent classifies and routes the ticket, the Tier 2 owner acknowledges the customer, works the issue on a fixed update cadence, escalates to the support lead if the SLA (service level agreement, the response and resolution times you promise) is at risk, closes with the customer's confirmation, and documents the root cause. It applies to any business running tiered support, from two people sharing an inbox to a formal multi-tier structure, and it starts each time a ticket meets a trigger in your matrix.
+
+**What this gives you:** Every hard ticket has an owner and a finish line, so keeping your word to customers is something the company does now, not something you carry. You get to run a company that shows up when things go wrong, and be known for it.
 
 **Primary owner:** Support lead  
 **Runs:** Once for every ticket that meets an escalation trigger  
-**Time:** 15 to 30 minutes of active handling per escalation, plus resolution time that varies by issue
+**Time:** [15 to 30] minutes of active handling per escalation (example, replace with your own), plus resolution time that varies by issue
 
 ## Before you start
 
@@ -27,18 +29,18 @@ This SOP is the path one support ticket follows from first classification to a c
 
    - **a.** Set the ticket severity from your closed list, using the written definitions, at first contact.
    - **b.** Set the customer tier on the ticket so routing and the SLA clock start correctly.
-   - **c.** Check the trigger matrix: does this ticket exceed the front-line resolution authority or access, or has it passed the first-response window? If no trigger is met, handle it through [your standard Tier 1 ticket procedure] and stop here.
-   - **d.** If the severity is [severity 1] or [severity 2], ask the Tier 2 owner to confirm the severity in the ticket within [N minutes]. Record the confirmation with initials in the ticket. If they change it, use their level.
+   - **c.** Check the trigger matrix (for example: beyond front-line authority or access, past the first-response or resolution window, the customer asks for escalation, or a billing error, data loss, or security concern). If no trigger is met, handle it through [your standard Tier 1 ticket procedure] and stop here.
 
    *Why this matters:* Consistent classification at intake makes the rest of the process predictable. An under-classified ticket sits in the wrong queue and misses its SLA.
 
 2. **Route to the correct tier with a complete context handoff** (Owner: Tier 1 agent)
 
    - **a.** Look up the receiving tier for this severity and customer tier in your trigger matrix.
-   - **b.** Write the handoff in the ticket: ticket history, every prior troubleshooting attempt and its outcome, account tier, current customer sentiment, and the customer's expected timeline.
+   - **b.** Write the handoff in the ticket: ticket history, every prior troubleshooting attempt and its outcome, account tier, how the customer describes their frustration (quoted in their own words), and the customer's expected timeline.
    - **c.** Assign a single named owner at the receiving tier. Do not leave the ticket in a shared queue.
-   - **d.** Check that the SLA clock and severity carried over. They do not reset when a ticket changes tier.
-   - **e.** If the ticket involves a refund or return, also start the Refund and Return Processing procedure and link it in the ticket.
+   - **d.** If the severity is [severity 1] or [severity 2], ask that owner to confirm the severity in the ticket within [N minutes]. Record the confirmation with initials in the ticket. If they change it, use their level.
+   - **e.** Check that the SLA clock and severity carried over. They do not reset when a ticket changes tier.
+   - **f.** If the ticket involves a refund or return, also start the Refund and Return Processing procedure and link it in the ticket.
 
    *Why this matters:* A handoff without context forces the customer to re-explain their problem, which is how a fixable issue becomes a churn risk.
 
@@ -46,18 +48,18 @@ This SOP is the path one support ticket follows from first classification to a c
 
    - **a.** Send a personal message using the wording below. Confirm the issue is being escalated, name yourself as the owner, and give a realistic timeline.
    - **b.** Send it inside the first-response time in your SLA table for this severity and customer tier.
-   - **c.** Check that the ticket shows more than the automated "we received your message" reply. If it does not, send the personal message now.
+   - **c.** After you send it, check that the ticket shows your personal message and not only the automated "we received your message" reply. If it shows only the automated reply, send the personal message again.
    - **d.** Record the time you sent it in the ticket. That entry is the proof the first-response SLA was met.
 
    > **Use this wording: Acknowledgment**
    > 
    > Hi [customer name], this is [your name]. I have taken ownership of your issue ([ticket number]) and am working on it now. Here is what I understand so far: [one-line summary]. My next update to you will be by [time of next update]. If anything changes on your side before then, reply here.
 
-   *Why this matters:* A fast, human acknowledgment lowers frustration even before the fix is ready.
+   *Why this matters:* A fast, human acknowledgment can lower frustration even before the fix is ready.
 
 4. **Work the issue and update the customer on a fixed cadence** (Owner: Tier 2 owner)
 
-   - **a.** Send a status update every [N hours] for [severity 1], every [N hours] for [severity 2], and at each meaningful change for [severity 3], using the wording below. Hold the cadence even with no news.
+   - **a.** Send a status update every [N hours] for [severity 1], every [N hours] for [severity 2], and for [severity 3] every [N hours] or at each meaningful change, whichever comes first, using the wording below. Hold the cadence even with no news.
    - **b.** If the fix depends on engineering, a vendor, or a specialist outside support, note the dependency and the expected timeline in the ticket. If the dependency owner has not given an estimate within [N hours], go to step 5.
    - **c.** If the fix requires a refund or return, follow the Refund and Return Processing procedure, note the result in the ticket, and continue here.
    - **d.** Check the SLA clock at every update. When the ticket reaches the "at risk" point in your SLA table, go to step 5 before the deadline passes.
@@ -65,7 +67,7 @@ This SOP is the path one support ticket follows from first classification to a c
 
    > **Use this wording: Status update**
    > 
-   > Hi [customer name], an update on [ticket number]: [what we have done since the last update]. What is left: [next action and who is doing it]. My next update will be by [time of next update]. Nothing has changed if you do not hear otherwise from me before then.
+   > Hi [customer name], an update on [ticket number]: [what we have done since the last update]. What is left: [next action and who is doing it]. My next update will be by [time of next update]. If anything changes before then, I will tell you right away.
 
    *Why this matters:* Regular updates keep the customer's trust intact while the real work happens in the background, and they create a paper trail if the issue needs further escalation.
 
@@ -74,7 +76,7 @@ This SOP is the path one support ticket follows from first classification to a c
    - **a.** Check this step every time you check the SLA clock in step 4. Start it the moment the ticket reaches the "at risk" point, or when you have no path to a resolution.
    - **b.** Escalate to [support lead] in the ticket before the deadline is missed, not after. State what has been tried, what is blocking, and the time left on the clock.
    - **c.** If the severity is [severity 1] (for example data loss or a security issue) or the account is a [customer tier 1] account at risk, also tell the [account owner role] straight away. Outside business hours, use the on-call schedule.
-   - **d.** If the Tier 2 owner is unavailable, [support lead] reassigns the ticket to a named person within [N minutes] and records the new owner in the ticket.
+   - **d.** If anyone sees that the Tier 2 owner is unavailable, they tell [support lead], who reassigns the ticket to a named person within [N minutes] and records the new owner in the ticket.
    - **e.** Log every escalation hop in the ticket so the full chain is visible to anyone who picks it up later. Then return to step 4.
 
    *Why this matters:* Escalating proactively at the risk point, rather than reactively after a miss, protects the SLA and the relationship.
@@ -84,7 +86,7 @@ This SOP is the path one support ticket follows from first classification to a c
    - **a.** Ask the customer to confirm the fix using the wording below. Do not close on an internal assumption that it is fixed.
    - **b.** If the customer says it is not fixed, keep the same ticket open and go back to step 4.
    - **c.** If the customer confirms, set the ticket to resolved or closed.
-   - **d.** If the customer does not reply, follow your unresponsive-customer rule: make [N] attempts over [N] business days using the second wording below, log each attempt in the ticket, then close the ticket with a note that customer confirmation was not received.
+   - **d.** If the customer does not reply, follow your unresponsive-customer rule: make [N] attempts over [N] business days. Use the closure question for the first attempt and the final-attempt wording for the last. Log each attempt in the ticket, then close the ticket with a note that customer confirmation was not received.
 
    > **Use this wording: Closure question**
    > 
@@ -94,7 +96,7 @@ This SOP is the path one support ticket follows from first classification to a c
    > 
    > Hi [customer name], I have not heard back on [ticket number], so I am going to close it on [date]. If the issue is not fully fixed, reply to this message and I will reopen it right away.
 
-   *Why this matters:* A ticket closed without customer confirmation is not closed; it is just off your dashboard until the customer reopens it, frustrated.
+   *Why this matters:* A ticket closed without customer confirmation can still be open for the customer; it is off your dashboard until they reopen it, frustrated.
 
 7. **Document the root cause and resolution** (Owner: Tier 2 owner)
 

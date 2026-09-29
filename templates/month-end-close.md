@@ -2,32 +2,47 @@
 
 Updated September 28, 2026
 
-This SOP is the operating checklist for the mechanical month-end close: cutting off the period, reconciling every account, recording standard accruals, getting an independent review, and locking the books. It applies to any small service business closing its books monthly. The bookkeeper runs it on the close calendar, starting on the last business day of the period, and a reviewer who did not prepare the reconciliations signs it off. It is not accounting or tax advice. Anything outside the standard checklist goes to [your CPA] using the list in step 5.
+This SOP is the operating checklist for the mechanical month-end close: cutting off the period, reconciling every account, recording standard accruals, getting an independent review, and locking the books. It exists so every month's books are reconciled, reviewed by someone other than the preparer, and locked on the same schedule. It applies to any small service business closing its books monthly. The bookkeeper runs it on the close calendar, starting on the last business day of the period, and a reviewer who did not prepare the reconciliations signs it off. It is not accounting or tax advice. Anything outside the standard checklist goes to [your CPA] using the list in step 5.
+
+**What this gives you:** When every month ends with books that are reconciled, independently reviewed, and locked, you can see the company as it is and decide what to build next from facts you trust, not a feeling in your gut.
 
 **Primary owner:** Bookkeeper  
 **Runs:** Monthly, on a fixed close calendar tied to the last business day of the period  
-**Time:** 1 to 2 days across close week, plus the reviewer's sign-off
+**Time:** [e.g. 1 to 2] days across close week, plus the reviewer's sign-off; replace with your own after three timed closes
 
 ## Before you start
 
 - [Your accounting software] with bank and credit card feeds connected
 - A published close calendar listing every task, its owner, and its due time, kept at [location of the close calendar]
-- The prior month's reconciled statements and trial balance, kept in [location of the close files] for comparison
+- The prior month's reconciled statements and trial balance (the list of every account and its ending balance), kept in [location of the close files] for comparison
 - Access to bank and credit card statements for the closing period
 - A standard list of recurring accruals and prepaid items (rent, insurance, subscriptions) with amounts and schedules
 - A named reviewer: [name or role of the reviewer], who did not prepare any reconciliation in the period. If the reviewer prepared one, the reviewer for that close is [name of the second reviewer]
 - Your CPA's contact: [your CPA], and the address where the CPA question list in step 5 is sent: [CPA contact]
-- Thresholds set by the Owner: [variance threshold, e.g. $X] for an unexplained change in an account, and [materiality threshold, e.g. $X] for a late item that reopens a closed period
+- Thresholds set by the Owner: [variance threshold, e.g. $X] for an unexplained change in an account, and [materiality threshold, e.g. $X] for a late item that arrives after the cutoff or after the period is locked
+- A backup for the Owner's decisions: [backup decision-maker], asked when the Owner has not answered within [N] business days
 
 ## Procedure
 
-1. **Publish the close calendar and lock the cutoff date** (Owner: Bookkeeper)
+1. **Confirm the close calendar and announce the cutoff** (Owner: Bookkeeper)
 
-   - **a.** Confirm the cutoff date and the target close date on the close calendar, and message everyone who submits expenses, invoices, or approvals with the cutoff date and time. Name each person on the calendar.
-   - **b.** Stop entering new transactions dated in the closing period once the cutoff passes, except for the accruals in step 5.
-   - **c.** If an item arrives after the cutoff, either move it to next period or log it as an exception with the date, amount, and reason in the close file. Go to step 2.
+   - **a.** Confirm the cutoff date and the target close date on the close calendar, and send the cutoff notice below to everyone who submits expenses, invoices, or approvals. Check that every task on the calendar has one named owner.
+   - **b.** Stop accepting new expenses, invoices, and approvals dated in the closing period once the cutoff passes.
+   - **c.** The only entries allowed after the cutoff are the fixes you make in steps 2 to 4 (for example an unrecorded bank fee, or a vendor bill that arrived before the cutoff) and the accruals in step 5. Write each one in the close file with the date, amount, and reason.
+   - **d.** If an item arrives after the cutoff and is below [materiality threshold, e.g. $X], move it to next period and note it in next month's close file.
+   - **e.** If an item that arrives after the cutoff is at or above that threshold, ask the Owner whether it goes in this period, and log the Owner's decision as an exception with the date, amount, and reason in the close file. Go to step 2.
 
-   *Why this matters:* A close without a firm cutoff never finishes. Something new always shows up, and the checklist has to hold the line somewhere.
+   > **Use this wording: Cutoff notice to submitters**
+   > 
+   > Subject: [Month] close: cutoff [cutoff date] at [time]
+   > 
+   > Hello [name],
+   > 
+   > We are closing [month]. Please send every expense, invoice, and approval dated in [month] to [where to send] by [cutoff date and time]. Anything that arrives later goes into next month unless [Owner name] says otherwise.
+   > 
+   > [Your name]
+
+   *Why this matters:* A close without a firm cutoff has no finish line, because new items keep arriving. The checklist has to set the cutoff.
 
 2. **Reconcile bank and credit card accounts** (Owner: Bookkeeper)
 
@@ -35,9 +50,9 @@ This SOP is the operating checklist for the mechanical month-end close: cutting 
    - **b.** Investigate each unmatched transaction, duplicate, or timing difference. Check for a transaction dated in the wrong period, a duplicate entry, and an unrecorded bank fee, in that order.
    - **c.** Confirm the reconciled ending balance in the software matches the statement balance exactly, and save the reconciliation report in the close file.
    - **d.** If a difference is still open [N] business days after the cutoff, log it in the close file under "Open differences" with the account, the amount, the statement date, and what you checked. Message the Owner the same day, and continue with steps 3 to 6.
-   - **e.** The Owner then records in the close file either that the difference is resolved, or that the period closes with it as a documented open item. The period cannot be signed off in step 7 until the Owner has recorded one of the two.
+   - **e.** The Owner then records in the close file either that the difference is resolved, or that the period closes with it as a documented open item. The period cannot be signed off in step 7 until the Owner has recorded one of the two. If the Owner has not recorded a decision within [N] business days, ask [backup decision-maker].
 
-   *Why this matters:* Every other number in the books rests on the bank and card reconciliation, so an unreconciled account makes them unreliable.
+   *Why this matters:* The bank and card reconciliation is the first check that the books match reality, so an unreconciled account makes later numbers unreliable.
 
 3. **Reconcile accounts receivable** (Owner: Bookkeeper)
 
@@ -59,8 +74,8 @@ This SOP is the operating checklist for the mechanical month-end close: cutting 
 
 5. **Record accruals and prepaid adjustments, and list what goes to the CPA** (Owner: Bookkeeper)
 
-   - **a.** Post the standard recurring accruals from the documented list, such as unbilled revenue, expenses incurred but not yet invoiced, and prepaid items amortizing this period.
-   - **b.** Write the source next to each accrual in the close file (a contract, a prior invoice, or an amortization schedule). If you cannot name the source, do not post it.
+   - **a.** Post the standard recurring accruals from the documented list, such as unbilled revenue, expenses incurred but not yet invoiced, and the part of each prepaid item that belongs to this period.
+   - **b.** Write the source next to each accrual in the close file (a contract, a prior invoice, or an amortization schedule, which is a table that spreads a prepaid cost over the months it covers). If you cannot name the source, do not post it.
    - **c.** Do not post anything that is not on the standard list. Add it to the CPA question list in the close file with the account, the amount, the source document, and the question.
    - **d.** The CPA question list is for an accrual or adjustment not on the standard list, a classification question, the accounting treatment of an unusual transaction, a payroll tax notice, and anything with a tax consequence.
    - **e.** Send the CPA question list to [your CPA] at [CPA contact] before step 7, write the date sent in the close file, and go to step 6. An item stays on the list as open until the CPA's written answer is filed in the close file.
@@ -95,7 +110,7 @@ This SOP is the operating checklist for the mechanical month-end close: cutting 
 
    - **a.** Give the reviewer the trial balance, the reconciliation summary for bank, AR, AP, and accruals, the "Open differences" list, and the CPA question list. The reviewer must be the person named in the prerequisites, never the person who prepared a reconciliation.
    - **b.** The reviewer compares the trial balance to the prior period and investigates any account that moved by more than [variance threshold, e.g. $X] without a known reason. Anything unexplained goes back to the bookkeeper, and the review restarts when it is answered.
-   - **c.** The reviewer writes their initials and the date next to the sign-off line in the close file. If they have not signed by [N] business days after the summary was ready, the bookkeeper messages the Owner.
+   - **c.** The reviewer writes their initials and the date next to the sign-off line in the close file. If they have not signed by [N] business days after the summary was ready, the bookkeeper messages the Owner, and asks [backup decision-maker] if the Owner has not answered within [N] business days.
    - **d.** Do not go to step 8 until every open difference has an Owner decision recorded, and every open CPA item is either answered or marked by the Owner as a documented open item.
 
    *Why this matters:* The reviewer sees errors the preparer no longer can, and it is the same control used in payroll and invoicing.
@@ -106,14 +121,14 @@ This SOP is the operating checklist for the mechanical month-end close: cutting 
    - **b.** Save the reconciliation summary, the trial balance, the sign-off, the "Open differences" list, and the CPA question list together in the close file for the period at [location of the close files].
    - **c.** Copy each open item, with its owner and next action, to the top of next month's close file so it does not disappear.
 
-   *Why this matters:* With a locked, archived close, next year's tax prep, a loan application, or an audit is a quick pull instead of a rebuild.
+   *Why this matters:* With a locked, archived close, next year's tax prep, a loan application, or an audit starts from a file you already have instead of a rebuild.
 
 ## Exceptions and troubleshooting
 
-- **If** A bank or credit card account will not reconcile to the statement balance. **Then:** Check for a transaction dated in the wrong period, a duplicate entry, or an unrecorded bank fee, in that order. If it is still open [N] business days after the cutoff, log it under "Open differences" and message the Owner as in step 2. Do not sign off the period until the Owner has recorded a decision.
-- **If** An account balance moved sharply from the prior period with no obvious cause. **Then:** The reviewer sends it back in step 7. Pull the transaction detail for that account and write the explanation in the close file before sign-off. An unexplained swing often points to a miscoded entry or a duplicate.
+- **If** A bank or credit card account will not reconcile to the statement balance. **Then:** Check for a transaction dated in the wrong period, a duplicate entry, or an unrecorded bank fee, in that order. If it is still open [N] business days after the cutoff, log it under "Open differences" and message the Owner as in step 2. Do not sign off the period until the Owner (or [backup decision-maker], after [N] business days without an answer) has recorded a decision.
+- **If** An account balance moved sharply from the prior period with no obvious cause. **Then:** The reviewer sends it back in step 7. Pull the transaction detail for that account and write the explanation in the close file before sign-off. An unexplained swing can point to a miscoded entry or a duplicate.
 - **If** A late transaction or invoice arrives after the period is locked. **Then:** Log it in the close file with the date, amount, and reason. If it is at or above [materiality threshold, e.g. $X], the Owner decides in writing whether to reopen the period, and the reviewer signs off again. If it is below, roll it into next month and note it on next month's close file.
-- **If** The CPA has not answered by the date in the email. **Then:** Leave the item open on the list, message the Owner, and let the Owner decide whether to close with it as a documented open item or hold the close. Do not post the item yourself.
+- **If** The CPA has not answered by the date in the email. **Then:** Leave the item open on the list, message the Owner, and let the Owner decide whether to close with it as a documented open item or hold the close. If the Owner has not answered within [N] business days, ask [backup decision-maker]. Do not post the item yourself.
 
 ## Quality checklist
 
@@ -141,7 +156,7 @@ This SOP is the operating checklist for the mechanical month-end close: cutting 
 - The close finishes by the same target date every month, without depending on one specific person being available.
 - A reviewer who did not prepare the reconciliations signs off on the trial balance every period, with initials and a date.
 - Every item outside the standard checklist reaches your CPA on the question list and is answered or carried forward, never decided ad hoc inside the checklist.
-- The close file for any period can be pulled and understood in minutes, not rebuilt from scratch.
+- The close file for any period can be pulled and understood without rebuilding it from scratch.
 
 | Metric | Target |
 | --- | --- |

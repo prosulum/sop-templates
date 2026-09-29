@@ -4,6 +4,8 @@ Updated September 28, 2026
 
 The Social manager runs this procedure once for every post on the content calendar. It starts when the post's calendar slot comes up and ends when its results are logged: write the post and one variant per platform, send every variant to the Approver, lock what is approved, schedule it, confirm it went live, answer the comments on it, and log engagement at 24 and 72 hours. Building the calendar itself runs weekly and is its own routine, so this procedure assumes the calendar already exists. It is written so a Social manager can take a post from slot to results without the owner reviewing every post.
 
+**What this gives you:** Every post moves from calendar slot to logged results the same way, so your voice goes out on a steady rhythm without you writing every word. You stay free to make the next idea worth sharing.
+
 **Primary owner:** Social manager  
 **Runs:** Every post on the content calendar, starting when its slot comes up  
 **Time:** [N] minutes of active work per post, plus the approval wait
@@ -24,7 +26,7 @@ The Social manager runs this procedure once for every post on the content calend
 
    - **a.** Open the calendar and pick the next post whose slot has come up. Read its date, platforms, format, and topic.
    - **b.** Check the content type against [your content mix, e.g. education, proof, offer, engagement] so the week does not skew all-promotional. If it does, tell the calendar owner and go to step 2 with the slot unchanged.
-   - **c.** Mark the post as "campaign", "sensitive", or "routine" using the written list in the prerequisites. If you cannot decide, treat it as sensitive.
+   - **c.** Mark the post as "campaign", "sensitive", or "routine" using the written list in the prerequisites. If a post is both campaign and sensitive, mark it "sensitive". If you cannot decide, treat it as sensitive.
    - **d.** If the slot has no topic or format, write to [calendar owner role] and stop until they fill it in.
 
    *Why this matters:* Deciding the review tier and the brief before you write stops a sensitive post from being discovered halfway through approval.
@@ -32,9 +34,9 @@ The Social manager runs this procedure once for every post on the content calend
 2. **Draft the post and a variant for each platform** (Owner: Social manager)
 
    - **a.** Write the core copy using the approved brand voice guide, not one caption copy-pasted across platforms.
-   - **b.** For each platform on the slot, write that platform's own variant: length and tone (shorter for X, more context for LinkedIn, for example) and hashtags where the platform rewards them.
+   - **b.** For each platform on the slot, write that platform's own variant of the copy. Check each platform's current norms for length, tone, and hashtags.
    - **c.** Resize images and video to each platform's current specifications from [your asset library]. Do not reuse one crop everywhere. Brief [your design contact] if you need something new, and wait for it before continuing.
-   - **d.** Build every link with its tracking tags in [your UTM builder], and list every @mention. Open each link and confirm it goes to the right page.
+   - **d.** Build every link with its tracking tags (UTM tags, which tell your analytics which post sent the visitor) in [your UTM builder], and list every @mention. Open each link and confirm it goes to the right page.
    - **e.** Attach all variants to the calendar slot and set the status to "In Draft".
 
    *Why this matters:* Platform variants are made here, before approval, so the approver signs off on exactly what will be posted and nothing has to change afterward.
@@ -43,7 +45,7 @@ The Social manager runs this procedure once for every post on the content calend
 
    - **a.** Send every variant, with its images and links, to the Approver using the request below, with the review tier you set in step 1.
    - **b.** Write the decision deadline in the request, [N] hours from now (e.g. 24 to 48), and set the status to "Awaiting approval".
-   - **c.** Routine posts get one light review. Campaign and sensitive posts need full sign-off from the Approver before you go on.
+   - **c.** Routine posts get one light review. Campaign and sensitive posts need full sign-off from the Approver before you go on. A light review checks the wording, links, and images. A full sign-off also checks the post against [your sensitive list] and the brand voice guide.
 
    > **Use this wording: Approval request to the Approver**
    > 
@@ -70,7 +72,7 @@ The Social manager runs this procedure once for every post on the content calend
    - **e.** If only a setting is wrong (time, account), fix the setting here.
    - **f.** Set the calendar status to "Scheduled".
 
-   *Why this matters:* Consistent timing builds an audience habit, and a wrong-account mistake is damaging and easy to prevent. Keeping this step to checks, not edits, protects the approval.
+   *Why this matters:* Consistent timing can build an audience habit, and a wrong-account mistake is damaging and easy to prevent. Keeping this step to checks, not edits, protects the approval.
 
 6. **Verify the post went live correctly** (Owner: Social manager)
 
@@ -81,13 +83,13 @@ The Social manager runs this procedure once for every post on the content calend
    - **e.** If the post did not appear at all, note it on the calendar slot and go to step 5 to schedule it again.
    - **f.** Set the calendar status to "Live".
 
-   *Why this matters:* Scheduling tools occasionally fail silently, a stripped link or a cropped image, and catching it fast limits the damage.
+   *Why this matters:* Scheduling tools can fail without warning, a stripped link or a cropped image, and catching it fast limits the damage.
 
 7. **Respond to comments and messages on the post** (Owner: Social manager)
 
    - **a.** Check the comments and messages on the post during business hours and reply within [N] business hours, and within [N] hours for a complaint, using the wording below.
    - **b.** If a comment is negative, reply once using "Reply to a complaint", offer to continue in a private message, and do not delete it unless it violates the platform's policy.
-   - **c.** If the complaint continues after [N] replies, or it involves a legal threat, a safety concern, or a claim about the business you cannot answer, stop replying and tell the [crisis contact role] with a link to the thread.
+   - **c.** If the complaint continues after your reply, or it involves a legal threat, a safety concern, or a claim about the business you cannot answer, stop replying and tell the [crisis contact role] with a link to the thread.
    - **d.** If a message asks for something you cannot answer, reply with the holding line, forward it to [routing role], and record the date you forwarded it.
 
    > **Use this wording: Reply to a comment**
@@ -106,9 +108,9 @@ The Social manager runs this procedure once for every post on the content calend
 
 8. **Log engagement at 24 and 72 hours** (Owner: Social manager)
 
-   - **a.** At 24 hours after the post went live, record impressions, engagement, and click-throughs in the tracking sheet.
+   - **a.** At 24 hours after the post went live, record impressions, engagement ([your definition, e.g. reactions, comments, and shares added together]), and click-throughs in the tracking sheet.
    - **b.** Record the same figures at 72 hours.
-   - **c.** Compare the post to the [baseline]. If it is well above or well below, flag it on the calendar slot for the next content review, and write the one thing that differed (topic, format, time).
+   - **c.** Compare the post to the [baseline]. If it is more than [N percent] above or below, flag it on the calendar slot for the next content review, and write the one thing that differed (topic, format, time).
    - **d.** If a figure is missing because the platform does not show it, write "not available" in that cell and do not estimate.
 
    *Why this matters:* Metrics left uncollected mean the next calendar gets built on guesses instead of data.
@@ -131,7 +133,7 @@ The Social manager runs this procedure once for every post on the content calend
 - [ ] Post confirmed live and rendering correctly on the native platform within [N] hours of publish time
 - [ ] Comments and messages answered within the documented response times, with complaints escalated as step 7 says
 - [ ] Engagement metrics logged at 24 and 72 hours
-- [ ] Calendar status accurately reflects each post's stage (draft, awaiting approval, approved, scheduled, live)
+- [ ] Calendar status accurately reflects each post's stage (draft, awaiting approval, changes requested, rejected, approved, scheduled, live)
 
 ## Common mistakes
 
@@ -143,7 +145,7 @@ The Social manager runs this procedure once for every post on the content calend
 
 ## How to know it is working
 
-- Every post in the current cycle was drafted, approved, scheduled, and verified live without owner involvement.
+- Every post in the current cycle was drafted, approved, scheduled, and verified live without the owner reviewing every post.
 - No post went out with a broken link, wrong account, or off-brand copy, and no approved post was edited after approval.
 - Engagement metrics are logged consistently and used to inform the next calendar.
 - Comments and messages are answered within the documented response times, every time.

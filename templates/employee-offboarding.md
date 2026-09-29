@@ -2,11 +2,13 @@
 
 Updated September 28, 2026
 
-HR runs this procedure for every employee or contractor separation, whether it is a resignation, a termination, or a layoff. It starts the day the separation is confirmed and runs in time order: log the separation, inventory access, transfer knowledge while the person is still reachable, hold the exit interview, revoke access, recover property, audit that access is gone, hand final pay to Payroll Processing, and close the record. It exists so HR, IT, and the manager can each run their piece without waiting on the others or relying on memory.
+HR runs this procedure for every employee or contractor separation, whether it is a resignation, a termination, or a layoff. It starts the day the separation is confirmed and runs in time order: log the separation, inventory access, transfer knowledge while the person is still reachable, hold the exit interview, confirm the handoff is complete before access is cut, revoke access, recover property, audit that access is gone, and close the record. Final pay goes to Payroll Processing as soon as the last day is confirmed, so it never waits on the access audit. It exists so HR, IT, and the manager can each run their piece without waiting on the others or relying on memory.
+
+**What this gives you:** Every departure runs the same careful way, so people leave treated with respect and what you built stays secure. How someone leaves shows what your company stands for, and now you decide what it shows.
 
 **Primary owner:** HR  
 **Runs:** Every employee or contractor separation, starting the day a resignation notice is received or a termination or layoff decision is made  
-**Time:** 2 to 4 hours of active work across the notice period, plus same-day access revocation on the last day
+**Time:** [2 to 4] hours of active work across the notice period, plus same-day access revocation on the last day (example figures, replace with your own after your first few departures)
 
 ## Before you start
 
@@ -33,12 +35,12 @@ HR runs this procedure for every employee or contractor separation, whether it i
    > 
    > [Employee first name], we have decided to end your employment, effective [date]. Your access to company systems ends now. [HR name] will walk you through final pay, benefits, and returning company property.
 
-   *Why this matters:* A shared checklist with named owners prevents a common offboarding failure: everyone assumes someone else is handling access or the final paycheck, and the separation type decides which steps come first.
+   *Why this matters:* A shared checklist with named owners prevents the failure where no one owns a step: everyone assumes someone else is handling access or the final paycheck, and the separation type decides which steps come first.
 
 2. **Inventory every system the employee can access** (Owner: IT admin)
 
    - **a.** Pull the employee's row from the access registry. If no registry exists, build the list from their role's access matrix and ask the manager to add anything the matrix does not cover.
-   - **b.** List every system: email, SSO, CRM, cloud storage, communication tools, billing platforms, admin panels, and any client-facing accounts.
+   - **b.** List every system: email, single sign-on (SSO, one login that opens your other tools), CRM, cloud storage, communication tools, billing platforms, admin panels, and any client-facing accounts.
    - **c.** Flag every shared or service-account credential the employee knew, because those need rotation, not just individual revocation.
    - **d.** Copy the list into the revocation record on the checklist, one row per system, with the revoke columns blank.
 
@@ -47,7 +49,7 @@ HR runs this procedure for every employee or contractor separation, whether it i
 3. **Start the knowledge transfer at notice** (Owner: Manager)
 
    - **a.** List every open project, pending task, and client or vendor relationship the employee owns, using [your project management tool] and [your CRM] as the source, not the employee's memory.
-   - **b.** If the separation is involuntary or has no notice, skip c and d: the employee is not asked for notes, and you write the handoff from those records as f describes.
+   - **b.** If the separation is involuntary or has no notice, skip sending the handoff request and skip asking for files on personal devices. Write the handoff from those records, as the last action in this step describes.
    - **c.** Send the employee the handoff request below and set the due date at [N] business days before the last day.
    - **d.** Ask the employee to move any company files or client data stored on a personal device or personal account into [your company cloud storage] now, before access is cut.
    - **e.** As each item is handed over, reassign its owner in [your project management tool] and [your CRM] so nothing sits orphaned.
@@ -86,12 +88,12 @@ HR runs this procedure for every employee or contractor separation, whether it i
 6. **Revoke access** (Owner: IT admin)
 
    - **a.** Revoke at [time, e.g. end of business] on the last day for a resignation with notice, and at the start of the separation conversation for any other separation type.
-   - **b.** Disable the SSO or primary identity account first. On most stacks this cuts access to every connected app at once.
+   - **b.** Disable the SSO or primary identity account first. For every app connected to it, this cuts access at once.
    - **c.** Confirm each high-risk system separately, because not every tool connects to SSO: email forwarding rules, billing and financial tools, client CRM, and every admin-level account.
    - **d.** Rotate every shared credential flagged in step 2 and remove the employee from distribution lists and shared mailboxes.
    - **e.** For each system on the revocation record, write the date, time, and your initials.
    - **f.** Have [a second person, e.g. HR] compare the revocation record to the step 2 inventory, confirm every row is filled, and initial it.
-   - **g.** If you cannot confirm a revocation for any system, tell [IT lead role] the same day and keep that row open on the checklist. Steps 7 and 8 can continue, but do not go to step 9 until every row is closed.
+   - **g.** If you cannot confirm a revocation for any system, tell [IT lead role] the same day and keep that row open on the checklist. Steps 7 and 8 can continue, but do not go to step 10 until every row is closed. Step 9 does not wait on this row.
 
    *Why this matters:* Same-day revocation limits what a departed person can still reach. Access left open, even briefly, can be used, and the second-person check catches the row someone skipped.
 
@@ -102,7 +104,7 @@ HR runs this procedure for every employee or contractor separation, whether it i
    - **c.** Confirm where company files and client data live. Anything still stored locally goes into [your company cloud storage] before the device is wiped.
    - **d.** Wipe and re-image returned devices before reissue, following [your device retirement process].
    - **e.** If an item is not returned by [N] business days after the last day, send the return reminder below.
-   - **f.** If it is still not returned [N] business days later, mark it "not returned" in the property log, lock or wipe the device remotely through [your device management tool] if it is enrolled, and tell [HR lead role] so they can decide on next steps.
+   - **f.** If it is still not returned [N] business days later, mark it "not returned" in the property log, lock the device remotely through [your device management tool] if it is enrolled, tell [HR lead role], and wipe it only after [HR lead role] confirms.
 
    > **Use this wording: Return reminder for unreturned property**
    > 
@@ -115,16 +117,17 @@ HR runs this procedure for every employee or contractor separation, whether it i
    - **a.** [N] business days after the last day, open the user list of every system on the revocation record and confirm the departed employee's account is disabled or removed.
    - **b.** Search email, shared mailboxes, and distribution lists for the employee's address and confirm nothing still delivers to it unless it is an approved forward to the manager.
    - **c.** Write the audit date and your initials on the checklist, and have [a second reviewer, e.g. the IT lead] check the same rows and initial.
-   - **d.** If any account still shows access, revoke it now, tell [IT lead role], add the system to the access registry and the role's access matrix, and note it on the checklist. Then re-run this audit for that system before you go to step 9.
+   - **d.** If any account still shows access, revoke it now, tell [IT lead role], add the system to the access registry and the role's access matrix, and note it on the checklist. Then re-run this audit for that system before you go to step 10.
 
    *Why this matters:* The step 6 revocation shows what you did. The audit shows what is true a few days later, after restored accounts, forgotten integrations, and delayed syncs have had a chance to appear.
 
 9. **Send final pay and benefits details to payroll and the benefits provider** (Owner: HR)
 
-   - **a.** Give the payroll owner the last day, the separation type, and the accrued time off figure from [your written policy], and ask them to run the final pay through Payroll Processing.
-   - **b.** Record the payroll confirmation (date and confirmation number or receipt location) on the checklist.
-   - **c.** Send the benefits termination and continuation notices through [benefits provider contact] and record the date sent.
-   - **d.** If the payroll confirmation is not received by [N] business days after the last day, tell [payroll owner role] and record the follow-up date on the checklist.
+   - **a.** Start this step as soon as the last day is confirmed, not after step 8, so final pay follows [your written policy] and not the audit schedule.
+   - **b.** Give the payroll owner the last day, the separation type, and the accrued time off figure from [your written policy], and ask them to run the final pay through Payroll Processing.
+   - **c.** Record the payroll confirmation (date and confirmation number or receipt location) on the checklist.
+   - **d.** Send the benefits termination and continuation notices through [benefits provider contact] and record the date sent.
+   - **e.** If the payroll confirmation is not received by [N] business days after the last day, tell [payroll owner role] and record the follow-up date on the checklist.
 
    *Why this matters:* Final pay and benefit notices carry compliance exposure. A confirmation number turns "we think it was paid" into a fact you can point to months later.
 

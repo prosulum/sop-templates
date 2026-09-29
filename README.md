@@ -25,7 +25,7 @@ Each template is a Markdown file you can copy into your own docs, wiki, or Googl
 - [New Client Onboarding](templates/new-client-onboarding.md) ([online version](https://www.prosulum.com/sops/templates/new-client-onboarding/)): Once per new client, starting the moment the agreement is fully signed
 - [Lead Follow-Up](templates/lead-follow-up.md) ([online version](https://www.prosulum.com/sops/templates/lead-follow-up/)): Every new lead, from the moment it arrives, with seven touches at set intervals until the lead books, opts out, or moves to nurture
 - [Sales Call Prep](templates/sales-call-prep.md) ([online version](https://www.prosulum.com/sops/templates/sales-call-prep/)): Once for every scheduled sales call, discovery call, or client conversation, starting when the call is booked
-- [Contract Renewal](templates/contract-renewal.md) ([online version](https://www.prosulum.com/sops/templates/contract-renewal/)): Once per contract, starting when the contract enters its [renewal window, e.g. 90 days] before the end date
+- [Contract Renewal](templates/contract-renewal.md) ([online version](https://www.prosulum.com/sops/templates/contract-renewal/)): Once per contract, starting when the contract first appears on the monthly renewal report, which is at least [renewal window, e.g. 90 days] before the end date
 - [Customer Support Escalation](templates/customer-support-escalation.md) ([online version](https://www.prosulum.com/sops/templates/customer-support-escalation/)): Once for every ticket that meets an escalation trigger
 
 ## People & HR

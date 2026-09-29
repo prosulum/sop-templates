@@ -2,16 +2,19 @@
 
 Updated September 28, 2026
 
-This SOP covers one monthly cycle, from the first business day after a calendar month ends through the report going out and being archived. The report preparer (for example an ops lead or a trained team member) pulls the full closed month from each approved source, checks every metric against prior periods, writes the analysis, and formats it in the standing template. A reviewer who is not the preparer then checks the numbers before the report goes to the distribution list by the send date, [day] of the following month. It exists so the report keeps the same shape and the same source of truth every month, and so it does not depend on one person.
+This SOP covers one monthly cycle, from the first business day after a calendar month ends through the report going out and being archived. The report preparer (a trained team member) pulls the full closed month from each approved source, checks every metric against prior periods, writes the analysis, and formats it in the standing template. A reviewer who is not the preparer then checks the numbers before the report goes to the distribution list by the send date, [day] of the following month. It exists so the report keeps the same shape and the same source of truth every month, and so it does not depend on one person.
+
+**What this gives you:** You steer by a report that arrives the same way every month, so the hours that went into rebuilding it go into deciding where the company goes next, the work only you can do.
 
 **Primary owner:** Report preparer  
 **Runs:** Monthly, starting on the first business day after each calendar month ends  
-**Time:** 3-5 hours, from the first business day after month end through the send date
+**Time:** [your hands-on time, e.g. 3 to 5 hours], spread from the first business day after month end to the send date; replace the example with your own after three timed runs
 
 ## Before you start
 
-- A metric table with one row per KPI: the single source of truth for that number ([your CRM], [your accounting software], [your marketing platform], [your ops dashboard], or another system), the calculation, the target, and the metric owner (the person who explains a movement in that number)
+- A metric table with one row per KPI: the single source of truth for that number ([your CRM], [your accounting software], [your marketing platform], [your ops dashboard], or another system), the calculation, the target, the metric owner (the person who explains a movement in that number), and a mark showing which KPIs are headline metrics
 - A named backup preparer with access already granted to every source in the metric table
+- [ops lead role], who receives every "stop and tell" message in this procedure and is not the preparer
 - A standing report template with fixed sections and documented metric definitions, saved at [template location]
 - A KPI cap of [N] metrics (e.g. 5 to 10) that drive a decision
 - A distribution list and the channel used to send the finished report, both saved at [distribution list location]
@@ -30,15 +33,16 @@ This SOP covers one monthly cycle, from the first business day after a calendar 
    - **c.** Count the rows. If the count is above the cap of [N], remove a metric before you add or keep another one.
    - **d.** If a metric has no named owner or source, stop and notify [ops lead role] before you pull data, then go to step 2 once the row is complete.
 
-   *Why this matters:* A KPI list that grows every month is how reports stop getting read.
+   *Why this matters:* A KPI list that keeps growing makes the report harder to read.
 
 2. **Pull the full closed month from every source on the first business day after month end** (Owner: Report preparer)
 
    - **a.** Wait until the month has closed. A pull before the last day of the month covers only part of it, so do not use it in the report.
-   - **b.** Export or refresh each source in the metric table for the whole calendar month, from [first day] to [last day], using the same window for every source.
-   - **c.** Pull the prior month and the same month last year from the same source, with the same calculation, so the comparison in step 3 matches.
-   - **d.** Paste each figure into the standing template and write the source name and the pull date next to it.
-   - **e.** If a source cannot be reached, ask the backup preparer to pull it. If neither of you can pull it by the end of the first business day, tell [ops lead role] and go to step 3 with that figure marked as pending.
+   - **b.** For figures from [your accounting software], pull only after the books for the month are locked (see Month-End Close). If they are not locked by the end of the first business day, tell [ops lead role], mark those figures "pending" in the template, and skip the step 3 comparison for them.
+   - **c.** Export or refresh each source in the metric table for the whole calendar month, from [first day] to [last day], using the same window for every source.
+   - **d.** Pull the prior month and the same month last year from the same source, with the same calculation, so the comparison in step 3 matches.
+   - **e.** Paste each figure into the standing template and write the source name and the pull date next to it.
+   - **f.** If a source cannot be reached, ask the backup preparer to pull it. If neither of you can pull it by the end of the first business day, tell [ops lead role], mark the figure "pending", and go to step 3. In step 3, skip the comparison for any pending figure.
 
    *Why this matters:* Full-month figures pulled from a defined set of sources make the report one source of truth instead of several conflicting numbers, and they match the full-month figures you compare against.
 
@@ -55,13 +59,13 @@ This SOP covers one monthly cycle, from the first business day after a calendar 
    > 
    > [Metric] for [month] came in at [figure], which is [change] against [prior month or same month last year]. The source is [source]. Can you tell me what drove the movement, and whether the figure is right, by [date]?
 
-   *Why this matters:* An anomaly caught in prep gets explained. An anomaly caught by a recipient reading the report looks like an error.
+   *Why this matters:* An anomaly caught in prep can be explained before anyone reads it. An anomaly first caught by a recipient can look like an error.
 
 4. **Write a short analysis for each headline metric** (Owner: Report preparer)
 
    - **a.** For every headline metric, write two to three sentences covering what happened, the most likely reason, and what it means going into next month.
    - **b.** Use the pattern under "Use this wording: Headline metric analysis" below, so every metric reads the same way.
-   - **c.** Take the reason from the metric owner's reply where you have one. If you have no reason, write "reason not yet confirmed" rather than guessing.
+   - **c.** Take the reason from the metric owner's reply where you have one. If you have no reason, mark the figure "unconfirmed", the same mark as step 3, rather than guessing.
 
    > **Use this wording: Headline metric analysis**
    > 
@@ -82,15 +86,15 @@ This SOP covers one monthly cycle, from the first business day after a calendar 
 
    - **a.** The reviewer is [reviewer role], and must not be the person who prepared the report.
    - **b.** Compare each figure in the draft to the source named next to it. Check that every flagged anomaly has an explanation or an "unconfirmed" mark in the report.
-   - **c.** If every figure matches, write your initials and the date at [sign-off location] on the draft, then go to step 6.
+   - **c.** If every figure matches, write your initials and the date at [sign-off location] on the draft, then go to step 7.
    - **d.** If a figure does not match, return the draft to the preparer with the figure and the source value. The preparer corrects it and hands it back, and you repeat the comparison for that figure.
-   - **e.** If the figure still does not match by the end of [N] business days, mark it "pending" in the report and go to step 6 with the follow-up date set by the preparer.
+   - **e.** If the figure still does not match by the end of [N] business days, mark it "pending" in the report and go to step 7 with the follow-up date set by the preparer.
 
-   *Why this matters:* A second reviewer catches transcription errors and unexplained swings before a stakeholder does, and the initials show that someone other than the preparer checked.
+   *Why this matters:* A second reviewer can catch transcription errors and unexplained swings before a stakeholder does, and the initials show that someone other than the preparer checked.
 
 7. **Distribute by the send date** (Owner: Report preparer)
 
-   - **a.** Confirm the reviewer's initials are on the draft. If they are not, do not send. Go back to step 5.
+   - **a.** Confirm the reviewer's initials are on the draft. If they are not, do not send. Go back to step 6.
    - **b.** Send the report through [distribution channel] to the full list at [distribution list location] on or before [day] of the following month, using the wording under "Use this wording: Report cover message" below.
    - **c.** If one figure is still pending, send the report with the figure marked "pending" and the follow-up date in the message, using the wording under "Use this wording: Pending figure notice". Do not hold the whole report.
    - **d.** Open the sent copy and confirm the list, the attachment or link, and the date are correct. Write the send time on the draft.
@@ -104,7 +108,7 @@ This SOP covers one monthly cycle, from the first business day after a calendar 
    > 
    > [Metric] is marked "pending" in this report because [reason]. We will send the confirmed figure on [follow-up date].
 
-   *Why this matters:* A late report loses relevance before it is even read. Consistency in timing builds the habit of reading it.
+   *Why this matters:* A late report is less useful by the time it is read. Consistent timing helps readers build the habit of reading it.
 
 8. **Archive the report and log any changes** (Owner: Report preparer)
 
@@ -121,12 +125,13 @@ This SOP covers one monthly cycle, from the first business day after a calendar 
 - **If** Two data sources disagree on the same metric. **Then:** Use the source listed in the metric table, note the difference in the report, and tell [ops lead role] so the disagreement is fixed at the source before next cycle.
 - **If** The report keeps growing every month with more metrics and sections. **Then:** Enforce the cap of [N] metrics. Remove a metric before adding one, and ask whether each addition changes a decision.
 - **If** The preparer is out on the first business day after month end. **Then:** The backup preparer runs steps 1 to 4 from the same metric table. If nobody can pull the data, tell [ops lead role] and give recipients a revised send date before the original one passes.
+- **If** The books in [your accounting software] are not locked by the first business day after month end. **Then:** Do not pull accounting figures from an open month. Tell [ops lead role], mark those figures "pending" in the template, and send the report by the send date with the pending notice. When the books lock (see Month-End Close), pull the figures and send the corrected page on the follow-up date.
 - **If** You want to confirm source access before the month ends. **Then:** Run a test export from each source a few business days before month end to confirm the logins work. Treat it as an access check only, and do the real pull in step 2 after the month has closed.
 
 ## Quality checklist
 
 - [ ] Metric table reviewed and the KPI count is at or under [N] before the data pull started
-- [ ] Data pulled on the first business day after month end, for the full closed month, from the source named in the metric table
+- [ ] Data pulled on the first business day after month end (accounting figures once the books were locked), for the full closed month, from the source named in the metric table
 - [ ] Every metric compared to both the prior month and the same month last year
 - [ ] Every metric that moved more than [x]% or [$y] has an explanation or an "unconfirmed" mark
 - [ ] Every headline metric has a short written explanation, not just a number
@@ -166,6 +171,7 @@ This SOP covers one monthly cycle, from the first business day after a calendar 
 - Performance Review
 - Client Invoicing
 - Project Kickoff
+- Month-End Close
 
 ## Make it your procedure
 

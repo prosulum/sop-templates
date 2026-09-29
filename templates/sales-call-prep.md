@@ -4,9 +4,11 @@ Updated September 28, 2026
 
 This SOP is the routine a sales rep runs once for each scheduled sales call, from the moment the call lands on the calendar to the first minute of the conversation. It exists so the rep walks in knowing the history and the goal. The rep reviews the CRM record, researches the company, sets a goal, prepares questions and proof points, sends the agenda, and sets up the call space, with the depth of prep scaled to whether the call is higher-stakes. It applies to first discovery calls and later-stage calls alike.
 
+**What this gives you:** Walking into each call already knowing the person, the problem, and the next step frees you to do what you came to do: listen well, help someone solve something that matters to them, and get better at it every time.
+
 **Primary owner:** Sales rep  
 **Runs:** Once for every scheduled sales call, discovery call, or client conversation, starting when the call is booked  
-**Time:** 15 to 20 minutes for a routine call; 45 to 60 minutes for a higher-stakes call (see step 2)
+**Time:** [15 to 20] minutes for a routine call; [45 to 60] minutes for a higher-stakes call (example figures, replace with your own; see step 2)
 
 ## Before you start
 
@@ -23,10 +25,11 @@ This SOP is the routine a sales rep runs once for each scheduled sales call, fro
 
 1. **Review the CRM record first** (Owner: Sales rep)
 
-   - **a.** Open the prospect or client record in [your CRM] and read the source, every prior touchpoint, notes from previous calls, and anything already promised.
-   - **b.** If there is no record, create one from the booking details (name, company, source, date booked), write "no prior history" in the notes, and go to step 2.
-   - **c.** Confirm who is on the call and their role (economic buyer, influencer, end user) so you know who you are talking to.
-   - **d.** Write down the stated reason they reached out or booked this call. That is the trigger you open with.
+   - **a.** Open a new notes document from [your notes template] with the prospect name, company, and date. Everything you write down in steps 1 to 5 goes in it.
+   - **b.** Open the prospect or client record in [your CRM] and read the source, every prior touchpoint, notes from previous calls, and anything already promised.
+   - **c.** If there is no record, create one from the booking details (name, company, source, date booked), write "no prior history" in your notes document, and go to step 2.
+   - **d.** Confirm who is on the call and their role: the economic buyer (the person who approves the spend), an influencer (someone who shapes the decision), or an end user (someone who will use what you sell), so you know who you are talking to.
+   - **e.** Write down the stated reason they reached out or booked this call. That is the trigger you open with.
 
    *Why this matters:* Starting from what you already know instead of asking again keeps a call from feeling like a cold restart.
 
@@ -43,8 +46,8 @@ This SOP is the routine a sales rep runs once for each scheduled sales call, fro
 3. **Set your goal and desired outcome for this specific call** (Owner: Sales rep)
 
    - **a.** Decide, before the call, what a successful outcome looks like: a next meeting booked, a specific question answered, a clear yes or no.
-   - **b.** Identify your relative strengths for this prospect (a directly relevant case study, a unique fit) and any vulnerabilities you should be ready to address (a gap, a past miss, a tough comparison).
-   - **c.** Write the single next step you will ask for at the end of the call in your notes template, before the call starts.
+   - **b.** Identify your relative strengths for this prospect (a directly relevant case study, a unique fit) and any vulnerabilities you should be ready to address (a gap, a past miss, a tough comparison). Write one line for each in your notes document.
+   - **c.** Write the single next step you will ask for at the end of the call in your notes document, before the call starts.
 
    *Why this matters:* A call without a defined outcome tends to end with "let me follow up," which is not a real next step.
 
@@ -59,10 +62,10 @@ This SOP is the routine a sales rep runs once for each scheduled sales call, fro
 5. **Queue relevant proof points** (Owner: Sales rep)
 
    - **a.** Identify one or two client stories where you solved a problem similar to what this prospect likely faces, based on their industry or what they have said.
-   - **b.** If no story fits, write "none fits" in your notes and plan to ask more questions about the problem instead of offering proof.
+   - **b.** If no story fits, write "none fits" in your notes document and plan to ask more questions about the problem instead of offering proof.
    - **c.** Have the case study link, a one-paragraph summary, or a short clip ready to share at the moment it answers a doubt, not as a scripted pitch slide.
 
-   *Why this matters:* Proof shown at the exact moment it answers a doubt does more than the same proof presented up front as a credential.
+   *Why this matters:* Proof shown at the exact moment it answers a doubt can land better than the same proof presented up front as a credential.
 
 6. **Send the agenda and reminder, and confirm the logistics** (Owner: Sales rep)
 
@@ -76,27 +79,27 @@ This SOP is the routine a sales rep runs once for each scheduled sales call, fro
    > 
    > Hi [prospect first name], a quick note ahead of our call on [call date and time]. Here is what I would like to cover: [agenda point 1], [agenda point 2], [agenda point 3]. It would help if you could [prep you are asking of them, or delete this line]. The link is [meeting link]. Reply here if the time no longer works.
 
-   *Why this matters:* A confirmed, agenda-bearing reminder can cut no-shows and gets the prospect thinking about the topic before the call starts.
+   *Why this matters:* A confirmed reminder with an agenda gives the prospect a reason to arrive ready to talk about the topic.
 
-7. **Set up the call environment and notes doc** (Owner: Sales rep)
+7. **Set up the call environment and check the notes document** (Owner: Sales rep)
 
    - **a.** Starting [N minutes, e.g. 15] before the call, test your video, audio, and screen share, especially on a new platform or with a first-time prospect.
    - **b.** If the test fails, switch to the backup channel from your prerequisites and send that link or number to the prospect before the start time.
-   - **c.** Open a fresh notes document from [your notes template] with the prospect name, company, date, and the goal you set in step 3.
+   - **c.** Open the notes document you started in step 1 and confirm it shows the prospect name, company, date, and the goal you set in step 3.
    - **d.** Keep the agenda visible and open the call with the wording below.
 
    > **Use this wording: Call opener**
    > 
    > Thanks for making the time, [prospect first name]. We have [call length]. I would like to cover [agenda point 1] and [agenda point 2], and leave with [the next step you set in step 3]. Does that work for you?
 
-   *Why this matters:* A clean setup and a live notes doc mean nothing gets lost to a bad connection or a memory gap after the call ends.
+   *Why this matters:* A clean setup and a live notes document mean nothing gets lost to a bad connection or a memory gap after the call ends.
 
 ## Exceptions and troubleshooting
 
 - **If** You cannot find much public information about the prospect company. **Then:** Fall back on the CRM record and the inquiry itself; ask more open discovery questions early in the call to build the picture live instead of guessing.
 - **If** A last-minute attendee joins who was not on the original invite. **Then:** Take 60 seconds at the start to learn their role and what they hope to get from the call before continuing your planned agenda.
 - **If** The call is running short on time with key questions unanswered. **Then:** Protect the single most important question, cut the rest, and offer to continue by email or a follow-up call rather than rushing the close.
-- **If** Technical issues (bad connection, screen share failure) disrupt the call. **Then:** Switch to the backup channel from your prerequisites, as in step 7 so a technical failure does not become a rescheduled call.
+- **If** Technical issues (bad connection, screen share failure) disrupt the call. **Then:** Switch to the backup channel from your prerequisites, as in step 7, so a technical failure does not become a rescheduled call.
 - **If** You want someone else to assemble part of the prep packet. **Then:** Hand off the research in step 2 and the proof points in step 5 to [the person who assists you]. Keep the goal in step 3, the questions in step 4, and the message in step 6 with the rep, because those depend on how the rep runs the call.
 
 ## Quality checklist
@@ -109,7 +112,7 @@ This SOP is the routine a sales rep runs once for each scheduled sales call, fro
 - [ ] One or two relevant proof points queued, or "none fits" noted
 - [ ] Agenda and reminder sent and logged in the CRM, with the meeting link checked against the invite
 - [ ] Video, audio, and screen share tested, and a backup channel ready
-- [ ] Fresh notes doc open with prospect name, company, date, and goal
+- [ ] Notes document open (started in step 1) with prospect name, company, date, and goal
 
 ## Common mistakes
 
