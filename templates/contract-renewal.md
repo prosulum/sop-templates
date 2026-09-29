@@ -119,7 +119,7 @@ This SOP is the cycle an account lead runs for one contract, from the day it ent
 - **If** The client wants to renew but at a lower price with no change in scope. **Then:** Hold the line with a scope trade (shorter term, fewer deliverables, or a paid add-on) rather than a straight discount. Ask [approver role] if the client will not move off price alone.
 - **If** Legal or procurement on the client side is holding up signature past the end date. **Then:** Put a short written bridge agreement or month-to-month extension in place, if your written rule allows it, so service does not lapse while paperwork finishes. If your no-response policy is a lapse notice, do not send it to a client who is still working toward signature; use a written extension instead. Do not let the account run unpaid while waiting.
 - **If** The account has real unresolved issues heading into the renewal window. **Then:** Address and document the resolution before sending the proposal (step 1). A renewal proposal sent over an open issue reads as tone-deaf and can raise churn risk.
-- **If** Monthly review of declined and at-risk renewals. **Then:** This is its own recurring procedure, not a step here. Write it as [your monthly renewal review procedure]: on [day of month], [role] reads the declined and at-risk outcomes logged in step 7 and looks for patterns across accounts.
+- **If** You want to see the patterns behind declined and at-risk renewals. **Then:** This is its own recurring procedure, not a step here. Write it as [your monthly renewal review procedure]: on [day of month], [role] reads the declined and at-risk outcomes logged in step 7 and looks for patterns across accounts.
 
 ## Quality checklist
 
