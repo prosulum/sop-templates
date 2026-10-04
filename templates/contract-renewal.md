@@ -1,8 +1,8 @@
 # Contract Renewal
 
-Updated September 28, 2026
+Updated October 4, 2026
 
-This SOP is the cycle an account lead runs for one contract, from the day it enters the renewal window to a signed agreement, a documented decline, or a documented no response, so no renewal lapses without a logged attempt to reach the client. The account lead reviews account health, builds a value recap, sends the proposal, follows up on a fixed calendar, handles price pushback with scope, executes the renewal, and records the outcome. It applies to any service business managing recurring contracts, retainers, or subscriptions, and it starts each time a contract appears on the monthly renewal report.
+This SOP is the cycle an account lead runs for one contract, from the day it enters the renewal window to a signed agreement, a documented decline, or a documented no response, so no renewal lapses without a logged attempt to reach the client. The account lead reviews account health, builds a value recap, sends the proposal, follows up on a fixed calendar, handles price pushback with scope, executes the renewal, and records the outcome. It applies to any service business managing recurring contracts, retainers, or subscriptions, and it starts each time a contract appears on the monthly renewal report. This template covers process only and is not legal advice. Renewal, notice, and automatic-renewal terms come from your contract and sometimes from local law, so have an attorney review yours.
 
 **What this gives you:** A renewal that opens with what your work changed for the client gives you a record of the difference you make. You keep serving the clients you want to keep, without renegotiating your worth every cycle.
 

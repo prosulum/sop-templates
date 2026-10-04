@@ -1,8 +1,8 @@
 # Performance Review
 
-Updated September 28, 2026
+Updated October 4, 2026
 
-The manager runs this procedure once for each employee or contractor at every formal review, on [your review cadence, e.g. quarterly or annually]. HR opens the cycle in step 1 and files the review in step 7. It ends when the signed review is filed and the next check-in is calendared: send the self-assessment, read it against the feedback log, write the rubric-based assessment, hold the two-way review meeting, document and acknowledge, and file. Goals and the running feedback log are set and kept before the cycle opens, so this procedure assumes they exist. It gives every manager one fair, evidence-based way to run a review without reinventing it each cycle.
+The manager runs this procedure once for each employee or contractor at every formal review, on [your review cadence, e.g. quarterly or annually]. HR opens the cycle in step 1 and files the review in step 7. It ends when the signed review is filed and the next check-in is calendared: send the self-assessment, read it against the feedback log, write the rubric-based assessment, hold the two-way review meeting, document and acknowledge, and file. Goals and the running feedback log are set and kept before the cycle opens, so this procedure assumes they exist. It gives every manager one fair, evidence-based way to run a review without reinventing it each cycle. This template is process guidance, not legal advice. Review records can matter in an employment dispute, and employment rules differ by country and state, so an HR adviser or employment attorney should look over your rubric and review form once.
 
 **What this gives you:** Reviews that are fair, specific, and two-way let you help people become better at their work than they thought they could be. That is the part of leading a team that makes it worth building one.
 

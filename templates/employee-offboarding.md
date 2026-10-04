@@ -1,8 +1,8 @@
 # Employee Offboarding
 
-Updated September 28, 2026
+Updated October 4, 2026
 
-HR runs this procedure for every employee or contractor separation, whether it is a resignation, a termination, or a layoff. It starts the day the separation is confirmed and runs in time order: log the separation, inventory access, transfer knowledge while the person is still reachable, hold the exit interview, confirm the handoff is complete before access is cut, revoke access, recover property, audit that access is gone, and close the record. Final pay goes to Payroll Processing as soon as the last day is confirmed, so it never waits on the access audit. It exists so HR, IT, and the manager can each run their piece without waiting on the others or relying on memory.
+HR runs this procedure for every employee or contractor separation, whether it is a resignation, a termination, or a layoff. It starts the day the separation is confirmed and runs in time order: log the separation, inventory access, transfer knowledge while the person is still reachable, hold the exit interview, confirm the handoff is complete before access is cut, revoke access, recover property, audit that access is gone, and close the record. Final pay goes to Payroll Processing as soon as the last day is confirmed, so it never waits on the access audit. It exists so HR, IT, and the manager can each run their piece without waiting on the others or relying on memory. This is a workflow, not legal advice. Final pay deadlines, accrued-leave payout, notice periods, and benefits-continuation notices are set by law in many places, so confirm yours with an employment attorney or your payroll provider before you rely on this template.
 
 **What this gives you:** Every departure runs the same careful way, so people leave treated with respect and what you built stays secure. How someone leaves shows what your company stands for, and now you decide what it shows.
 

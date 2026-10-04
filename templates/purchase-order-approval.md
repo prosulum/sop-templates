@@ -1,6 +1,6 @@
 # Purchase Order Approval
 
-Updated September 28, 2026
+Updated October 4, 2026
 
 This procedure takes one purchase from a written request to an approved, numbered purchase order that the vendor holds before they ship or start work. It exists so spend is checked against budget and approved by the right person before money is committed, not after the invoice arrives. The Requester submits the request, the Bookkeeper checks it, routes it, issues the purchase order and files it, and the Approver named for the amount approves or denies it. Start it every time someone wants to buy something at or above your no-PO threshold.
 
@@ -16,7 +16,7 @@ This procedure takes one purchase from a written request to an approved, numbere
 - A written approval matrix: no PO needed below [amount 1, e.g. $500]; the Manager tier from [amount 1] up to [amount 2, e.g. $5,000], the Manager approves; the Owner tier at or above [amount 2], the Owner approves. "Approver" below means whoever the matrix names for the request amount.
 - A list of purchase types that always go to the Owner whatever the amount: [always-Owner purchase types, e.g. software subscriptions, legal services, or contracts longer than a set number of months]
 - Current department or project budgets to check requests against, and the Budget Holder named for each, plus a [backup Budget Holder] for each
-- An approved vendor list with a W-9 and verified banking details on file for each vendor
+- An approved vendor list with a W-9 or equivalent and verified banking details on file for each vendor
 - Roles used below (rename to match your team): Requester (anyone who asks to buy), Bookkeeper (checks, routes, issues, and files), Budget Holder (signs off on over-budget requests), Approver (Manager or Owner per the matrix)
 - A backup Approver for each tier, named on your worksheet
 - Approval wait limits set in advance: the Approver responds within [N1] business days, and the backup Approver is asked after that; the Budget Holder responds within [N4] business days, and the [backup Budget Holder] is asked after that

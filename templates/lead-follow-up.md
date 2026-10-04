@@ -1,8 +1,8 @@
 # Lead Follow-Up
 
-Updated September 28, 2026
+Updated October 4, 2026
 
-This SOP covers one lead, from the moment it enters the pipeline through the point the lead books a call, is handed off, opts out, or moves to nurture. It applies to inbound leads (form fills, calls, chat) and outbound-sourced leads alike. The SDR (whoever follows up new leads) runs it for every new lead: a first response as fast as the lead's channel allows (minutes for a live inbound lead), then the remaining touches of a seven-touch sequence at stated intervals, each one closed by logging it in the CRM. It is written so anyone trained on it can run the full sequence without the sales owner chasing status.
+This SOP covers one lead, from the moment it enters the pipeline through the point the lead books a call, is handed off, opts out, or moves to nurture. It applies to inbound leads (form fills, calls, chat) and outbound-sourced leads alike. The SDR (whoever follows up new leads) runs it for every new lead: a first response as fast as the lead's channel allows (minutes for a live inbound lead), then the remaining touches of a seven-touch sequence at stated intervals, each one closed by logging it in the CRM. It is written so anyone trained on it can run the full sequence without the sales owner chasing status. The template sets out a process; it does not give legal advice. Rules on cold email, calls, texts, and consent differ by country and state, so check with an attorney before you run any sequence.
 
 **What this gives you:** How your company treats people before they buy stops being luck and becomes a standard you set. Every lead is answered and none is dropped or pestered, which is the start of a reputation you earn one conversation at a time.
 

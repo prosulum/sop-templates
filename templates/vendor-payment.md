@@ -1,8 +1,8 @@
 # Vendor Payment
 
-Updated September 28, 2026
+Updated October 4, 2026
 
-This procedure takes one vendor invoice from the day it arrives to a payment that is released, reconciled, and filed. It exists so you pay only invoices that are real, matched to what you ordered and received, and approved at the right level, and so vendors are paid on time. The AP Clerk logs, verifies, matches, codes, and pays each invoice, the Approver named for the invoice amount approves it, and the Bookkeeper reconciles it. Start it every time a vendor invoice is received; payments are released on your [weekly or biweekly] payment run, or earlier when the due date falls before the next run.
+This procedure takes one vendor invoice from the day it arrives to a payment that is released, reconciled, and filed. It exists so you pay only invoices that are real, matched to what you ordered and received, and approved at the right level, and so vendors are paid on time. The AP Clerk logs, verifies, matches, codes, and pays each invoice, the Approver named for the invoice amount approves it, and the Bookkeeper reconciles it. Start it every time a vendor invoice is received; payments are released on your [weekly or biweekly] payment run, or earlier when the due date falls before the next run. A W-9 is a U.S. tax form, so use the equivalent form for your country. It covers process only and is not tax advice. Your accountant can confirm the vendor tax-reporting rules that apply to you.
 
 **What this gives you:** A payment verified before it leaves lets you extend trust to your team and your vendors, because the check does the doubting. That trust is what lets you build a company people are glad to work with and glad to be paid by.
 
@@ -135,7 +135,7 @@ This procedure takes one vendor invoice from the day it arrives to a payment tha
 
 - [ ] Every invoice logged the day it is received, with a search for duplicates recorded
 - [ ] Vendor found on the approved vendor list; sender domain and remit-to details compared to the vendor record
-- [ ] New vendors have a W-9 and callback-verified banking on file before payment
+- [ ] New vendors have a W-9 or equivalent and callback-verified banking on file before payment
 - [ ] Three-way match completed (purchase order, receiving confirmation, invoice), or the reason for no purchase order noted
 - [ ] Expense coded to the correct account and the Approver named per the approval matrix
 - [ ] Approval recorded as a workflow stamp before payment is released

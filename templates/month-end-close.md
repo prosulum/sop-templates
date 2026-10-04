@@ -1,6 +1,6 @@
 # Month-End Close
 
-Updated September 28, 2026
+Updated October 2, 2026
 
 This SOP is the operating checklist for the mechanical month-end close: cutting off the period, reconciling every account, recording standard accruals, getting an independent review, and locking the books. It exists so every month's books are reconciled, reviewed by someone other than the preparer, and locked on the same schedule. It applies to any small service business closing its books monthly. The bookkeeper runs it on the close calendar, starting on the last business day of the period, and a reviewer who did not prepare the reconciliations signs it off. It is not accounting or tax advice. Anything outside the standard checklist goes to [your CPA] using the list in step 5.
 

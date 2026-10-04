@@ -1,8 +1,8 @@
 # Ecommerce Order Fulfillment
 
-Updated September 28, 2026
+Updated October 4, 2026
 
-This SOP covers one customer order from the moment it is placed through delivery, for a business shipping physical product directly to customers. The fulfillment lead runs the desk steps (risk review, stock allocation, customer notification, delivery monitoring), which any trained team member can run, and warehouse staff do the physical picking, packing, and label handoff. It starts every time an order arrives, with pick, pack, and ship runs at [fixed daily times]. Exceptions such as holds, backorders, and address problems are handled in the troubleshooting section, and the weekly review of exception reason codes is its own procedure, which this template set does not include.
+This SOP covers one customer order from the moment it is placed through delivery, for a business shipping physical product directly to customers. The fulfillment lead runs the desk steps (risk review, stock allocation, customer notification, delivery monitoring), which any trained team member can run, and warehouse staff do the physical picking, packing, and label handoff. It starts every time an order arrives, with pick, pack, and ship runs at [fixed daily times]. Exceptions such as holds, backorders, and address problems are handled in the troubleshooting section, and the weekly review of exception reason codes is its own procedure, which this template set does not include. Nothing in this template is legal advice. Shipping-delay, cancellation, and consumer-protection rules differ by country and state, so ask an attorney what applies to your store.
 
 **What this gives you:** The customers you never meet get the experience you meant to give them, because every order is checked, packed, and followed home the same way. You get back to the products and brand you started this business for.
 

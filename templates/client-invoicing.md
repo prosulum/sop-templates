@@ -1,6 +1,6 @@
 # Client Invoicing
 
-Updated September 28, 2026
+Updated October 4, 2026
 
 This procedure takes one client invoice from a confirmed billing trigger to a payment matched in the books. It exists so each invoice goes out accurate and on time, and so a late payer gets the same follow-up every time. The Bookkeeper creates the invoice, a Reviewer checks and initials it, and the Bookkeeper then sends it, posts it, follows up if it is late, and matches the payment when it arrives. Run it each time a billing trigger occurs: a deliverable or milestone is complete, or a billing period closes.
 

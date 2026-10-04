@@ -1,6 +1,6 @@
 # New Client Onboarding
 
-Updated September 28, 2026
+Updated October 4, 2026
 
 This SOP covers one new client, from the moment their agreement is fully signed through the kickoff recap and the booking of the 30-day check-in. It applies to any service business handing a new client from sales to delivery. The onboarding specialist opens the file, sends the welcome, collects the intake form, and sets up the tools, and the account lead reviews the intake, runs the kickoff, and sends the recap. It is written so a trained team member can run it end to end without the owner in the loop, and the trigger is always a signed agreement, so nothing here sends or collects the agreement.
 

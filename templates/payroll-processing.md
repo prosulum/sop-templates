@@ -1,8 +1,8 @@
 # Payroll Processing
 
-Updated September 28, 2026
+Updated October 4, 2026
 
-This procedure runs one payroll cycle from the hours cutoff reminder through submission and filing of the records, for both W-2 employees and 1099 contractors. It exists so people are paid the right amount on the right day, and so no one person both enters the pay data and approves the submission. The Payroll Admin collects and enters the data, a named Second Reviewer checks the payroll register and signs off, and the Payroll Admin submits and files. Run it once every pay period, starting on the reminder date on your payroll calendar (weekly, biweekly, semimonthly, or monthly).
+This procedure runs one payroll cycle from the hours cutoff reminder through submission and filing of the records, for both W-2 employees and 1099 contractors. It exists so people are paid the right amount on the right day, and so no one person both enters the pay data and approves the submission. The Payroll Admin collects and enters the data, a named Second Reviewer checks the payroll register and signs off, and the Payroll Admin submits and files. Run it once every pay period, starting on the reminder date on your payroll calendar (weekly, biweekly, semimonthly, or monthly). W-2 and 1099 are U.S. worker classifications, so use the equivalent terms for your country. This template describes a process and is not tax or legal advice. Your payroll provider or accountant can confirm the filing, deposit, and record-keeping rules that apply to you.
 
 **What this gives you:** Payday runs the same checked way every pay period, so the people who depend on you are paid right and on time and can plan their lives around it. That makes you an employer people can trust with their livelihood.
 

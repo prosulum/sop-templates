@@ -1,8 +1,8 @@
 # Hiring Process
 
-Updated September 28, 2026
+Updated October 4, 2026
 
-This SOP is the full hiring cycle for one open role, from defining the role to an accepted offer and a handoff to onboarding, run by the hiring manager. It exists so every candidate is judged on the same evidence and every outcome, including a rejection or a declined offer, has a next step. The hiring manager defines and posts the role, screens applications, runs a phone screen and a structured panel interview, selects a finalist, checks references, and extends a written offer. It applies to any open headcount, employee or contractor, and it starts when the headcount is approved.
+This SOP is the full hiring cycle for one open role, from defining the role to an accepted offer and a handoff to onboarding, run by the hiring manager. It exists so every candidate is judged on the same evidence and every outcome, including a rejection or a declined offer, has a next step. The hiring manager defines and posts the role, screens applications, runs a phone screen and a structured panel interview, selects a finalist, checks references, and extends a written offer. It applies to any open headcount, employee or contractor, and it starts when the headcount is approved. Treat this as a process template rather than legal advice. Rules on pay-range disclosure, interview questions, background and reference checks, and offer-letter contents vary by country and state, so have an employment attorney or HR adviser review your posting, question set, and offer letter once.
 
 **What this gives you:** Hiring on the same evidence every time lets you build a team you chose on purpose, people who share the work you care about and can carry it further than you could alone. That team is part of what you leave behind.
 

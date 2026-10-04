@@ -1,8 +1,8 @@
 # Refund and Return Processing
 
-Updated September 28, 2026
+Updated October 4, 2026
 
-This SOP covers one refund or return request, from the moment it arrives until it is refunded or denied, the customer is told in writing, and the record is tagged and closed. It applies to any business selling a physical product, a digital product, or a service with a stated refund policy. The support lead runs it every time a request arrives, and it is written so a trained team member can resolve a standard request without escalating to the owner. The monthly reason-code review runs on its own cadence, so it is described as a separate procedure in the troubleshooting section, not in the numbered steps.
+This SOP covers one refund or return request, from the moment it arrives until it is refunded or denied, the customer is told in writing, and the record is tagged and closed. It applies to any business selling a physical product, a digital product, or a service with a stated refund policy. The support lead runs it every time a request arrives, and it is written so a trained team member can resolve a standard request without escalating to the owner. The monthly reason-code review runs on its own cadence, so it is described as a separate procedure in the troubleshooting section, not in the numbered steps. The template gives you a process, not legal advice. Consumer refund, cancellation, and return rights differ by country and state, and a written policy generally cannot take away rights the law gives your customers, so have an attorney check your policy once.
 
 **What this gives you:** Every customer gets the same fair answer, and each refund leaves a written reason behind it. Complaints stop being something you react to and become something you can see, which keeps what you sell worth putting your name on.
 
