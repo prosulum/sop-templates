@@ -1,8 +1,8 @@
 # IT Access Provisioning
 
-Updated September 28, 2026
+Updated November 22, 2026
 
-The IT admin runs this one sequence for three kinds of request: a new hire, a role change, and an ad hoc access request. It starts when a written request arrives that the requesting manager submitted (the hiring manager, for a new hire) and [approver role, e.g. department head or owner] approved, and it ends when the grant is logged and the requester has confirmed their logins, or the ticket records that they did not. Each step says what differs by request type, including removing the old role's access on a role change. It uses a role-based access matrix and least-privilege defaults, so IT can act on a clear, approved request without guessing what a role needs.
+The IT admin runs this one sequence for three kinds of request: a new hire, a role change, and an ad hoc access request. It starts when a written request arrives that the requesting manager submitted (the hiring manager, for a new hire) and [approver role, e.g. department head or owner] approved, and it ends when the grant is logged and the requester has confirmed their logins, or the ticket records that they did not. Each step says what differs by request type, including removing the old role's access on a role change. It uses a role-based access matrix, so IT can act on a clear, approved request without guessing what a role needs.
 
 **What this gives you:** Access that matches the role and is granted the same way each time lets you hand responsibility to a growing team on your terms. It is how a company grows past the person who holds every key.
 
@@ -13,7 +13,7 @@ The IT admin runs this one sequence for three kinds of request: a new hire, a ro
 ## Before you start
 
 - A documented role-based access matrix defining default access per role
-- Single sign-on (SSO) through [your identity provider], covering as many core systems as possible, with multi-factor authentication (MFA, a second check at sign-in) enforced
+- Single sign-on (SSO) through [your identity provider], covering as many core systems as possible, with multi-factor authentication (MFA, a second check at sign-in) switched on
 - An access request and approval workflow ([your request form or ticketing system]) with one form or ticket type each for a new hire, a role change, and an ad hoc request, not verbal or hallway requests
 - A current access registry showing who has access to what
 - The requester for each request type (the hiring manager submits a new-hire request; the requesting manager submits a role-change or ad hoc request) and the named approver for each request ([approver role, e.g. department head or owner]) with a [backup approver role]
@@ -35,18 +35,18 @@ The IT admin runs this one sequence for three kinds of request: a new hire, a ro
    > 
    > Hi [requester name], I cannot start on your request [ticket number] yet because it has no recorded approval from [approver name]. Please ask them to approve it in [request form or ticketing system]. I will pick it up as soon as I see the approval.
 
-   *Why this matters:* Provisioning off a verbal request or a hallway conversation is one way access sprawl starts. A written, approved request is the first control in the chain.
+   *Why this matters:* A written, approved request gives IT one clear instruction, so every grant starts from the same place and the same way.
 
 2. **Apply the role-based access matrix, not an ad hoc list** (Owner: IT admin)
 
    - **a.** New hire: look up the new role's default access in the matrix. Role change: look up both the old role and the new role. Ad hoc: look up whether the matrix already gives the requested system to the requester's role.
-   - **b.** List only what the matrix specifies for the role. This is the least-privilege default, not a starting point to negotiate up from. The granting happens in step 4.
+   - **b.** List only what the matrix specifies for the role. This is the default for the role. The granting happens in step 4.
    - **c.** If the request asks for access beyond the role's default, treat it as an exception: write the business reason on the ticket and send it to the [exception approver role].
    - **d.** If the [exception approver role] approves, record the approver and the reason on the ticket, add the excepted access to the list to be granted in step 4, and go on to step 3.
    - **e.** If the [exception approver role] denies it, tell the requester and the requesting manager and record the denial on the ticket. Then carry the matrix defaults only into step 3. If the whole request was the exception (a typical ad hoc request), there is nothing to grant, so go to step 8 to log the denial.
    - **f.** If the [exception approver role] has not answered within [N] business hours, ask the [backup exception approver role]. If neither answers within [N] more business hours, tell the requester the exception is on hold, and carry the matrix defaults only into step 3.
 
-   *Why this matters:* Least privilege means starting minimal and expanding only on documented justification. A role-based matrix keeps that consistent instead of dependent on who asks loudest.
+   *Why this matters:* A role-based matrix keeps grants consistent, so every request gets a quick, predictable answer.
 
 3. **Create or confirm the account through SSO** (Owner: IT admin)
 
@@ -56,16 +56,16 @@ The IT admin runs this one sequence for three kinds of request: a new hire, a ro
    - **d.** When it shows enrolled, continue with step 4. If it still does not show enrolled after [N] business days, tell the requester's manager and keep the ticket open.
    - **e.** For systems not connected to SSO, create individual accounts and log each one in the access registry so it is not missed later.
 
-   *Why this matters:* Centralizing identity through SSO (one login that opens your other tools) with MFA enforced can make both provisioning and, later, offboarding fast and reliable, not a hunt across every tool.
+   *Why this matters:* Centralizing identity through SSO (one login that opens your other tools) makes both provisioning and, later, offboarding fast and reliable, not a hunt across every tool.
 
-4. **Grant system-specific permissions at the least-privilege level** (Owner: IT admin)
+4. **Grant system-specific permissions from the role matrix** (Owner: IT admin)
 
    - **a.** In each system (your CRM, billing, cloud storage, admin panels), set the permission level, not just whether the account exists, per the access matrix and any approved exception.
    - **b.** Default to read or standard-user permissions unless the role specifically requires admin or write access to that system.
    - **c.** For temporary ad hoc access, set an expiry of [N] days (e.g. 30) or the end date the approver gave, whichever is sooner, and write it on the ticket.
    - **d.** Log every grant in the access registry with the date, system, permission level, expiry if any, and who approved it.
 
-   *Why this matters:* An account that exists but has the wrong permission level is still a gap, either blocking legitimate work or exposing more than the role needs.
+   *Why this matters:* The right permission level in each system means the person can do the whole job from the first login.
 
 5. **Remove access the old role no longer needs (role change only)** (Owner: IT admin)
 
@@ -75,7 +75,7 @@ The IT admin runs this one sequence for three kinds of request: a new hire, a ro
    - **d.** If the manager asks to keep an old-role access for a handover, treat it as a temporary ad hoc exception: send it to the [exception approver role] as in step 2, give it an expiry of [N] days, and log it.
    - **e.** Open each affected system's user list and confirm the person's access shows the change, then update the access registry to match.
 
-   *Why this matters:* Without this step a role change only adds access, and a person can collect permissions over the years. Removing the old role's access keeps least privilege true.
+   *Why this matters:* Removing the old role's access on a role change keeps each person's tools matched to their current job.
 
 6. **Set up hardware and remote access** (Owner: IT admin)
 
@@ -84,7 +84,7 @@ The IT admin runs this one sequence for three kinds of request: a new hire, a ro
    - **c.** For remote roles, configure [your VPN or remote access method] and confirm the required tools are reachable from outside the office network.
    - **d.** Enroll company hardware in [your device management tool] so it can be locked or wiped if lost, or at offboarding.
 
-   *Why this matters:* Hardware and remote access are easy to leave until last and can block a new hire's first morning if they are skipped.
+   *Why this matters:* Hardware and remote access set up early mean a new hire's first morning starts with real work.
 
 7. **Send the access guide and confirm logins before they are needed** (Owner: IT admin)
 
@@ -97,7 +97,7 @@ The IT admin runs this one sequence for three kinds of request: a new hire, a ro
    > 
    > Hi [name], your access is ready as of [date]. You can log in to [system list] with your [identity provider] account. Guides are in [documentation location]. Please log in to each system and reply to me by [date] to tell me it works or what failed. If you get stuck, contact [IT contact].
 
-   *Why this matters:* Confirming access works before it is needed can be the difference between a smooth first day and a morning lost to password resets.
+   *Why this matters:* Confirming access works before it is needed gives a new hire a smooth first day instead of a morning of password resets.
 
 8. **Log the grant, set the review, and close the ticket** (Owner: IT admin)
 
@@ -106,9 +106,9 @@ The IT admin runs this one sequence for three kinds of request: a new hire, a ro
    - **c.** Add the new or changed access to the list for the next scheduled access review ([your access review cadence]).
    - **d.** Close the ticket only when the registry matches the systems. If it does not, fix the registry or the system now and check again.
 
-   *Why this matters:* Access that is never reviewed again is how "temporary" turns into a permanent, forgotten security gap.
+   *Why this matters:* Reviewing access on a schedule keeps the registry accurate, so offboarding starts from a complete list.
 
-## Exceptions and troubleshooting
+## When something comes up
 
 - **If** A new hire cannot log into a required system on day one. **Then:** Check the access registry against the role matrix to confirm the grant was completed, not only requested, and resolve the specific system's login issue immediately rather than routing them to wait.
 - **If** A manager requests access beyond what the role matrix specifies. **Then:** Treat it as an exception request as in step 2: document the specific business reason, get it approved in writing by the [exception approver role], and log it as an exception rather than expanding the role's default matrix without approval.
@@ -123,19 +123,17 @@ The IT admin runs this one sequence for three kinds of request: a new hire, a ro
 - [ ] Access granted per the documented role-based matrix, not an ad hoc list
 - [ ] Any exception approved by the [exception approver role] in writing, or denied and logged
 - [ ] Account created or confirmed through SSO, with MFA enrollment status written on the ticket before any grant
-- [ ] Permission levels set to least privilege for each system, not default admin
+- [ ] Permission levels set from the role matrix for each system
 - [ ] On a role change, the old role's access removed on the effective date and the user lists checked
 - [ ] Every grant logged in the access registry with date, system, level, expiry if any, and approver
 - [ ] Hardware and remote access configured and tested before the start date or need date
 - [ ] Requester confirmed logins, or "logins unconfirmed" recorded, and the registry matches the systems
 
-## Common mistakes
+## What a clean run looks like
 
-- **Mistake:** Provisioning access based on a verbal request or what the employee asks for, instead of the documented role matrix. **Fix:** Require a written, approved request, and grant exactly what the matrix specifies for that role.
-- **Mistake:** Defaulting new accounts to admin or higher-level permissions because it is faster than scoping them correctly. **Fix:** Default to least privilege for every system and require a separate, documented approval for anything beyond the role's baseline.
-- **Mistake:** Adding the new role's access on a role change without removing the old role's. **Fix:** Run step 5 on every role change: list what the old role has that the new one does not, and remove it on the effective date.
-- **Mistake:** Creating accounts outside SSO without logging them in the access registry. **Fix:** Log every account, SSO-connected or not, in the registry the moment it is created.
-- **Mistake:** Granting temporary or ad hoc access with no expiration or review date. **Fix:** Set an expiry on every temporary grant at the time it is created (step 4) and log it.
+- **What it looks like:** Access is provisioned from a written, approved request and the documented role matrix. **How:** Require a written, approved request, and grant exactly what the matrix specifies for that role.
+- **What it looks like:** On a role change, the old role's access comes off the same day the new role's goes on. **How:** Run step 5 on every role change: list what the old role has that the new one does not, and remove it on the effective date.
+- **What it looks like:** Every account, SSO-connected or not, is logged in the access registry when created. **How:** Log every account, SSO-connected or not, in the registry the moment it is created.
 
 ## How to know it is working
 
@@ -150,7 +148,6 @@ The IT admin runs this one sequence for three kinds of request: a new hire, a ro
 | New-hire access readiness (all systems working by start date) | 100% |
 | Access requests provisioned from the role matrix vs. ad hoc | Track toward 100% matrix-based |
 | Role changes with old-role access removed by the effective date | 100% |
-| Access review findings (unexplained or orphaned access) | Zero |
 
 ## Related procedures
 

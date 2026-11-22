@@ -1,8 +1,8 @@
 # Refund and Return Processing
 
-Updated October 4, 2026
+Updated November 22, 2026
 
-This SOP covers one refund or return request, from the moment it arrives until it is refunded or denied, the customer is told in writing, and the record is tagged and closed. It applies to any business selling a physical product, a digital product, or a service with a stated refund policy. The support lead runs it every time a request arrives, and it is written so a trained team member can resolve a standard request without escalating to the owner. The monthly reason-code review runs on its own cadence, so it is described as a separate procedure in the troubleshooting section, not in the numbered steps. The template gives you a process, not legal advice. Consumer refund, cancellation, and return rights differ by country and state, and a written policy generally cannot take away rights the law gives your customers, so have an attorney check your policy once.
+This SOP covers one refund or return request, from the moment it arrives until it is refunded or denied, the customer is told in writing, and the record is tagged and closed. It applies to any business selling a physical product, a digital product, or a service with a stated refund policy. The support lead runs it every time a request arrives, and it is written so a trained team member can resolve a standard request without escalating to the owner. The monthly reason-code review runs on its own cadence, so it is described as a separate procedure in the troubleshooting section.
 
 **What this gives you:** Every customer gets the same fair answer, and each refund leaves a written reason behind it. Complaints stop being something you react to and become something you can see, which keeps what you sell worth putting your name on.
 
@@ -28,28 +28,28 @@ This SOP covers one refund or return request, from the moment it arrives until i
 
    - **a.** The moment the request arrives, open a case in [your CRM or support system] and record the date and time received and how the customer asked (email, phone, chat).
    - **b.** Find the original order in [your order system]. Write the order ID, order date, product or service, and amount paid on the case.
-   - **c.** If you cannot find the order, or the name on the request does not match the order, ask the customer for the order confirmation email or the last four digits of the payment card. Do not go to step 2 until the order ID is on the case.
-   - **d.** If the customer has not sent the order confirmation email or card digits [N] business days after your request, go to step 6 and send the denial wording with "we could not match your request to an order" as the reason, then go to step 7 and tag the case "other, no order found".
+   - **c.** If you cannot find the order, or the name on the request does not match the order, ask the customer for the order confirmation email.
+   - **d.** If the customer has not sent the order confirmation email [N] business days after your request, go to step 6 and send the denial wording with "we could not match your request to an order" as the reason, then go to step 7 and tag the case "other, no order found".
    - **e.** When the order ID is on the case, go to step 2.
 
-   *Why this matters:* Logging immediately creates a timestamp that matters if the request later escalates to a dispute, and an order ID on the case ties every later action to a real purchase.
+   *Why this matters:* Logging immediately timestamps the request, and an order ID on the case ties every later action to a real purchase.
 
 2. **Check the request against the policy and get an exception decision if it is outside it** (Owner: Support lead)
 
-   - **a.** Compare the order date and the reason given with the policy window of [N] days and the eligibility rules. Write "in policy" or "out of policy" and the rule you applied on the case. Do not decide from memory or from what you usually do.
+   - **a.** Compare the order date and the reason given with the policy window of [N] days and the eligibility rules. Write "in policy" or "out of policy" and the rule you applied on the case. Decide from the written policy.
    - **b.** If the request is in policy and a physical item must come back, go to step 3. If it is in policy and nothing needs to come back (digital product, service, billing error), go to step 5.
    - **c.** If the request is out of policy, send it to [approver role] with the reason for the exception request, the customer's order history, and the refund amount you would issue. Write the date and time you sent it on the case.
    - **d.** If [approver role] has not answered within [N] business hours, send the same message to [second approver role] and note it on the case. If neither answers by the end of the next business day, follow the approver entry in the troubleshooting section.
    - **e.** When an approver answers, write their decision, the refund amount they approve, and their reasoning on the case.
    - **f.** If the approver approves, follow the in-policy path from the start of this step (step 3 for a physical item, step 5 for anything else). If the approver denies it, go to step 6 and send the denial wording.
 
-   *Why this matters:* Checking the policy before anything is authorized stops an out-of-policy return from getting an RMA first, and a written decision keeps exceptions from becoming precedent.
+   *Why this matters:* Checking the policy first means only in-policy or approved requests get an RMA, and a written decision means the same call is made the same way next time.
 
 3. **Authorize the return of a physical item** (Owner: Support lead)
 
    - **a.** Issue a return authorization number (RMA) in [your RMA or return-label tool], with shipping instructions, and set a return deadline of [N] days from today (for example 14).
    - **b.** Write the RMA number and the return deadline on the case and send both to the customer using the return instructions wording below.
-   - **c.** Do not refund until the item arrives. If the item has not arrived by the return deadline, send the return reminder wording below.
+   - **c.** Refund once the item arrives. If the item has not arrived by the return deadline, send the return reminder wording below.
    - **d.** If it has not arrived [N] days after the reminder, close the case as "item not returned" with no refund, go to step 6 and send the denial wording, then go to step 7.
    - **e.** When the item arrives, go to step 4.
 
@@ -75,7 +75,7 @@ This SOP covers one refund or return request, from the moment it arrives until i
    > [Your name]\
    > [Your company]
 
-   *Why this matters:* Refunding before the item is back in hand removes any way to enforce the return condition and lets the customer keep both the product and the money.
+   *Why this matters:* Refunding once the item is back in hand means the refund and the returned product move together.
 
 4. **Inspect the returned item against the condition requirements** (Owner: Support lead)
 
@@ -85,17 +85,17 @@ This SOP covers one refund or return request, from the moment it arrives until i
    - **d.** If it failed and the policy provides a partial refund, calculate it using [your partial refund rule from the policy], write the amount on the case, and go to step 5 with that amount.
    - **e.** If the policy provides no partial refund, go to step 6 and send the denial wording with the failed condition stated.
 
-   *Why this matters:* An inspection recorded with photos and initials gives you evidence if the customer disputes the outcome, and it keeps the decision tied to the written policy.
+   *Why this matters:* An inspection recorded with photos and initials keeps the decision tied to the written policy, so the customer gets a clear, fair answer.
 
 5. **Check the amount and issue the refund** (Owner: Support lead)
 
-   - **a.** Write the refund amount on the case: the full order amount for an in-policy request, the amount the approver wrote in step 2, or the partial amount from step 4. Never enter an amount higher than the amount paid on the original order.
-   - **b.** If the amount is above [approval limit, e.g. $500], stop and get the Owner's initials and the date on the case before you continue. If the Owner declines, write the Owner's reason on the case and go to step 6 to send the denial wording.
+   - **a.** Write the refund amount on the case: the full order amount for an in-policy request, the amount the approver wrote in step 2, or the partial amount from step 4. Enter an amount no higher than the amount paid on the original order.
+   - **b.** If the amount is above [approval limit, e.g. $500], get the Owner's initials and the date on the case before you continue. If the Owner declines, write the Owner's reason on the case and go to step 6 to send the denial wording.
    - **c.** Issue the refund in [your payment processor] to the original payment method. Use store credit only if the policy specifies it or the customer agrees in writing. Issue it within [N] hours of the decision.
    - **d.** Compare the amount and the status shown in the processor to the amount on the case. If they match, write the transaction ID, amount, and date on the case and go to step 6.
-   - **e.** If they do not match, stop, do not issue a second refund, and send the transaction ID and both amounts to the Owner.
+   - **e.** If they do not match, hold off on a second refund and send the transaction ID and both amounts to the Owner.
 
-   *Why this matters:* Money leaves the business in this step, so the amount is checked before it is sent and again against the processor afterward, and the transaction ID is the proof the refund posted.
+   *Why this matters:* The refund is checked before it is sent and again against the processor afterward, so the right amount reaches the customer, and the transaction ID shows it posted.
 
 6. **Send the written confirmation or denial to the customer** (Owner: Support lead)
 
@@ -156,7 +156,7 @@ This SOP covers one refund or return request, from the moment it arrives until i
    > [Your name]\
    > [Your company]
 
-   *Why this matters:* Silence after a decision leaves the customer to ask again, and a denial with a stated reason is easier to defend than an unexplained one.
+   *Why this matters:* A written decision answers the customer's question the first time, and a denial with a stated reason is clear and fair.
 
 7. **Tag the reason code and close the case** (Owner: Support lead)
 
@@ -164,35 +164,35 @@ This SOP covers one refund or return request, from the moment it arrives until i
    - **b.** Attach the supporting evidence to the case: photos, correspondence, the RMA, the approver's decision, and the transaction ID if a refund was issued.
    - **c.** Close the case in [your CRM or support system] only after the tag, the outcome, and the evidence are on it.
 
-   *Why this matters:* An untagged case is one you cannot learn from. The reason code shows the pattern across individual requests.
+   *Why this matters:* A tagged case is one you learn from. The reason code shows the pattern across individual requests.
 
-## Exceptions and troubleshooting
+## When something comes up
 
 - **If** The customer disputes the charge with their bank before contacting you. **Then:** Respond to the dispute immediately with your evidence: the order record, delivery confirmation, and correspondence from the case. If the underlying request is legitimate and in policy, refund directly through step 5 rather than contest it. If it is not, send your evidence and keep the case open until the bank decides.
-- **If** A returned item fails inspection. **Then:** Follow step 4. Issue the partial refund your policy provides, or send the denial wording in step 6 with the specific failed condition. Do not decide in the moment or offer a different amount than the policy sets.
+- **If** A returned item fails inspection. **Then:** Follow step 4. Issue the partial refund your policy provides, or send the denial wording in step 6 with the specific failed condition. Use the amount the policy sets.
 - **If** The approver in step 2 does not answer. **Then:** After [N] business hours, send the request to [second approver role] and note it on the case. If neither answers by the end of the next business day, tell the customer in writing when to expect a decision and notify the Owner.
-- **If** A customer requests a refund well outside the policy window and threatens a chargeback. **Then:** Send it through step 2 like any out-of-policy request, and tell the approver about the chargeback threat. The approver weighs the cost of the exception against the cost and reputational risk of a dispute, and writes the decision and reasoning on the case either way.
-- **If** It is time for the monthly reason-code review (a separate monthly procedure, run on [day of the month] by the support lead). **Then:** Pull every closed case for the month and total them by reason code and by product or SKU. Flag any code that reaches [N] or more cases (for example 3) as a sign that a product, listing, or process needs correction, not just the individual refund. Send the monthly total, the refund rate, and each flagged pattern to the Owner and to the person responsible for that product, and note next month whether the fix reduced the code.
+- **If** A customer requests a refund well outside the policy window and threatens a chargeback. **Then:** Send it through step 2 like any out-of-policy request, and tell the approver about the chargeback threat. The approver weighs the cost of the exception against the cost of a dispute, and writes the decision and reasoning on the case either way.
+- **If** It is time for the monthly reason-code review (a separate monthly procedure, run on [day of the month] by the support lead). **Then:** Pull every closed case for the month and total them by reason code and by product or SKU. Flag any code that reaches [N] or more cases (for example 3) as a sign that a product, listing, or process needs correcting at the source. Send the monthly total, the refund rate, and each flagged pattern to the Owner and to the person responsible for that product, and note next month whether the fix reduced the code.
 
 ## Quality checklist
 
 - [ ] Case opened at the moment the request arrived, with the order ID on it
 - [ ] Request checked against the written policy, with "in policy" or "out of policy" and the rule written on the case
 - [ ] Out-of-policy requests decided by the approver in writing, with the amount and reasoning on the case
-- [ ] RMA issued only after the policy check, and the item inspected with photos and initials before any refund
+- [ ] RMA issued after the policy check, and the item inspected with photos and initials before any refund
 - [ ] Refund amount checked against the original order and the approval limit before it was issued
 - [ ] Processor status and amount match the case, with the transaction ID recorded
 - [ ] Confirmation or denial sent using the matching wording, with the time sent recorded
 - [ ] Reason code and outcome tagged, evidence attached, and the case closed only after both
 
-## Common mistakes
+## What a clean run looks like
 
-- **Mistake:** Making case-by-case exceptions to the refund policy without documenting them. **Fix:** Send every out-of-policy request to the approver in step 2 and write the decision on the case, so the same call is made the same way next time.
-- **Mistake:** Issuing an RMA before checking whether the request is inside the policy. **Fix:** Do the policy check in step 2 first. Only an in-policy or approved request gets an RMA in step 3.
-- **Mistake:** Waiting to respond until the customer escalates to their bank. **Fix:** Respond inside your stated window every time, so the customer has less reason to go to their bank.
-- **Mistake:** Refunding a physical return before the item is received and inspected. **Fix:** Hold the refund until step 4 is recorded as passed, or until the partial amount is calculated.
-- **Mistake:** Issuing the refund without comparing the processor to the case. **Fix:** Do the amount check in step 5 every time. A refund entered twice or for the wrong amount is hard to reverse.
-- **Mistake:** Skipping the reason code because the refund itself is "handled." **Fix:** Tag the reason code in step 7 before you close the case. It is how you catch a defective product or a billing bug before it repeats.
+- **What it looks like:** Every exception to the refund policy is documented on the case. **How:** Send every out-of-policy request to the approver in step 2 and write the decision on the case, so the same call is made the same way next time.
+- **What it looks like:** An RMA is issued after the request is checked against the policy. **How:** Do the policy check in step 2 first. An in-policy or approved request gets an RMA in step 3.
+- **What it looks like:** Every request gets a response inside the stated window. **How:** Respond inside your stated window every time, so the customer has a clear answer and less reason to go to their bank.
+- **What it looks like:** A physical return is refunded after the item is received and inspected. **How:** Hold the refund until step 4 is recorded as passed, or until the partial amount is calculated.
+- **What it looks like:** The processor is compared to the case on every refund. **How:** Do the amount check in step 5 every time, so the right amount goes out once.
+- **What it looks like:** Every case gets a reason code before it closes. **How:** Tag the reason code in step 7 before you close the case. It is how you catch a defective product or a billing bug early.
 
 ## How to know it is working
 

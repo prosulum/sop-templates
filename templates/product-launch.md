@@ -1,6 +1,6 @@
 # Product Launch
 
-Updated September 28, 2026
+Updated November 22, 2026
 
 This SOP runs one product, feature, or major offer launch from the launch tier and checklist through the go/no-go decision, the internal briefing, launch day, and the 24-hour recap. The Launch lead runs it once per launch, starting when a product or feature is approved for release, and it applies to any launch that touches more than one team (marketing, sales, support, and product). The 30-day post-launch review runs on a different schedule, so it is a separate procedure, and its steps are in the last troubleshooting entry.
 
@@ -28,11 +28,11 @@ This SOP runs one product, feature, or major offer launch from the launch tier a
 
    - **a.** Classify the launch using [launch tier criteria]. Major means full cross-functional coordination, press and customer communication. Moderate means a marketing announcement, sales enablement and support documentation. Minor means release notes and support awareness only.
    - **b.** Write the tier at the top of [launch checklist title and location]. Write the launch goal below it, for example the adoption or revenue result you expect at 30 days. The tier sets how deep each later step goes, using [your rule for what each tier changes, e.g. who attends the go/no-go and how long monitoring lasts]. Every tier still runs every step.
-   - **c.** Name a single Launch lead accountable for the overall timeline and cross-team coordination. This is not a shared responsibility.
+   - **c.** Name a single Launch lead accountable for the overall timeline and cross-team coordination.
    - **d.** Set the launch date and work backward to date each step of this SOP on the launch checklist.
    - **e.** If you cannot decide between two tiers, use the higher one and tell [executive sponsor role].
 
-   *Why this matters:* The tier determines how much coordination is needed; treating every launch like a major one burns effort, and treating a major launch like a minor one leaves gaps.
+   *Why this matters:* The tier sets how much coordination a launch gets, so every launch gets the right amount of effort.
 
 2. **Confirm the launch checklist is complete [5] business days before launch** (Owner: Launch lead)
 
@@ -43,18 +43,18 @@ This SOP runs one product, feature, or major offer launch from the launch tier a
    - **e.** If any item is open, the Launch lead decides the same day: slip the date or proceed with the item open.
    - **f.** If you slip, set the new date, tell every involved team, and repeat this step for the new date. If you proceed, write the open item, its owner and its due date on the launch checklist before step 3.
 
-   *Why this matters:* A checklist with open items this close to launch is a signal to slip the date, not to rush the remaining work.
+   *Why this matters:* Open items this close to launch prompt one decision: slip the date, or proceed with an owner and a due date on each item.
 
 3. **Hold the go/no-go meeting [4] business days before launch** (Owner: Launch lead)
 
    - **a.** Meet with all functional leads and review the launch checklist against actual readiness, not assumed readiness.
    - **b.** Ask each functional lead to say "ready" or "not ready" and give a reason if not ready. Write each answer next to the lead's name on the launch checklist. A function with no answer by the end of the meeting is recorded as "not ready".
-   - **c.** Make an explicit decision and record it with the date, the reasoning and who decided. Silence is not a decision.
+   - **c.** Make an explicit decision and record it with the date, the reasoning and who decided.
    - **d.** If the decision is proceed, tell every involved team the same day and go to step 4.
    - **e.** If the decision is delay, set the new launch date, tell every involved team the same day, and return to step 2 for the new date.
    - **f.** If the decision is scope down, remove the items that are not ready, update the launch checklist, tell every involved team the same day, and return to step 2 for the reduced scope.
 
-   *Why this matters:* A go/no-go meeting forces a real readiness check instead of assuming everything is fine because no one raised a flag.
+   *Why this matters:* The go/no-go meeting gives every function a turn to say ready or not ready, so readiness is confirmed.
 
 4. **Brief the internal teams [2 to 3] business days before launch** (Owner: Launch lead)
 
@@ -68,26 +68,26 @@ This SOP runs one product, feature, or major offer launch from the launch tier a
    > 
    > [Product or feature] launches on [date] at [time]. The reference sheet is at [location]. If something goes wrong, contact [escalation contact role] at [contact method]. Please reply "ready" or "not ready, because [reason]" by [time].
 
-   *Why this matters:* A support or sales rep caught flat-footed by a launch they did not know about damages trust, and a briefing prevents it.
+   *Why this matters:* A briefed support and sales team answers customer questions with confidence from the first hour.
 
 5. **Schedule marketing assets and confirm launch-day logistics [1 to 2] business days before launch** (Owner: Marketing lead)
 
    - **a.** After the go decision in step 3, schedule email, social, and any paid media assets to publish at the agreed launch time, and confirm each is in the correct account, not just drafted.
-   - **b.** Confirm with [product lead role] that the product or feature is set to go live at the matching time. Marketing that goes out before the product works is an avoidable error.
+   - **b.** Confirm with [product lead role] that the product or feature is set to go live at the matching time. Marketing and product go live at matching times.
    - **c.** The Launch lead assigns the launch-day monitoring rotation: a named person and a time window written on the launch checklist, so someone is always watching.
    - **d.** The Launch lead opens each scheduled asset and the go-live setting, checks the time on each, and initials the launch checklist. If a time does not match, fix it and check it again.
 
-   *Why this matters:* Marketing and product need to go live in the right order and at the same time; a mismatch is visible to every customer.
+   *Why this matters:* Matching go-live times mean customers see a working product the moment they see the message.
 
 6. **Launch and monitor through the monitoring window** (Owner: Launch lead)
 
    - **a.** At launch time, verify the product or feature is live and accessible from a customer's perspective, not just from an internal admin view.
    - **b.** Monitor [your support queue], [your error and monitoring dashboard], social channels and reviews for at least the monitoring window of [monitoring window, in hours] hours (for example 4), and longer for major launches.
    - **c.** Write the time of the first monitoring check on the launch checklist.
-   - **d.** If something breaks, tell [escalation contact role] immediately and follow [escalation path title and location]. For a critical bug or outage, follow [rollback plan title and location] and go to the troubleshooting entry "A critical bug or outage is discovered shortly after launch." Do not wait to see if it resolves itself.
+   - **d.** If something breaks, tell [escalation contact role] immediately and follow [escalation path title and location]. For a critical bug or outage, follow [rollback plan title and location] and go to the troubleshooting entry "A critical bug or outage is discovered shortly after launch."
    - **e.** If everything is stable at the end of the monitoring window, go to step 7.
 
-   *Why this matters:* Launch problems can surface in the first few hours, and fast detection and escalation keep a glitch from becoming a public incident.
+   *Why this matters:* Launch problems can surface in the first few hours, and fast detection and escalation keep launch day on track.
 
 7. **Send the 24-hour launch recap** (Owner: Launch lead)
 
@@ -101,12 +101,12 @@ This SOP runs one product, feature, or major offer launch from the launch tier a
 
    *Why this matters:* A recap tells stakeholders how it went and leaves a record in the launch file for the next launch.
 
-## Exceptions and troubleshooting
+## When something comes up
 
 - **If** A critical bug or outage is discovered shortly after launch. **Then:** Follow the rollback or pause plan immediately, tell [escalation contact role], notify affected customers proactively, and hold the post-mortem after the issue is resolved, not during.
-- **If** One team says they are ready at the go/no-go meeting but clearly is not. **Then:** Push back in the meeting itself; the Launch lead's job is to verify readiness, not just collect a yes. Ask what specifically is done, and record "not ready" if the answer is vague. A short delay is cheaper than a public failure.
+- **If** One team says they are ready at the go/no-go meeting but clearly is not. **Then:** Ask in the meeting itself what specifically is done, and record "not ready" if the answer is vague. The Launch lead verifies readiness with specifics. A short delay keeps the launch the way you pictured it.
 - **If** Early metrics are far below expectations. **Then:** Wait until the monitoring window from step 6 has ended, then check the tracking and attribution setup for errors before assuming the launch itself failed.
-- **If** Support is getting the same question repeatedly that was not covered in the briefing. **Then:** Update the internal FAQ and support reference sheet immediately; do not wait for the 30-day review to fix a live gap.
+- **If** Support is getting the same question repeatedly that was not covered in the briefing. **Then:** Update the internal FAQ and support reference sheet immediately, so the next customer gets the answer.
 - **If** It is 30 days after go-live and the post-launch review is due. **Then:** This is its own procedure, not part of the numbered steps above. The Launch lead reviews adoption, support ticket volume tied to the launch, and any revenue or churn impact against the launch goal written on the launch checklist, writes what worked and what to change in the launch file at [launch file location], and sends the result to leadership and the involved teams. Fold the metrics into Monthly Reporting after the first month.
 
 ## Quality checklist
@@ -120,13 +120,13 @@ This SOP runs one product, feature, or major offer launch from the launch tier a
 - [ ] Launch-day monitoring rotation assigned, active for the first monitoring window, and first check time recorded
 - [ ] 24-hour recap sent, filed in the launch file, and the 30-day review put on the calendar
 
-## Common mistakes
+## What a clean run looks like
 
-- **Mistake:** Launching without a single named Launch lead, so no one is accountable for coordination. **Fix:** Name one Launch lead at the start, even for smaller launches; shared ownership becomes no ownership under time pressure.
-- **Mistake:** Marketing assets go live before the product itself is live. **Fix:** Confirm both go-live times against each other in step 5, and have the Launch lead personally verify the product is accessible before marketing fires.
-- **Mistake:** Skipping the internal team briefing because "it is a small launch." **Fix:** Every launch tier gets some level of briefing; a support rep blindsided by a customer question is a bad experience regardless of launch size.
-- **Mistake:** No one is actively watching in the hours right after launch. **Fix:** Assign a specific person and time window to the monitoring rotation; assuming someone will notice is not a plan.
-- **Mistake:** Treating a missing reply from a team as a yes. **Fix:** A function with no written reply is recorded as "not ready" until its lead answers.
+- **What it looks like:** One named Launch lead owns the coordination. **How:** Name one Launch lead at the start, even for smaller launches, so one person owns coordination under time pressure.
+- **What it looks like:** Marketing assets go live at the same moment as the product. **How:** Confirm both go-live times against each other in step 5, and have the Launch lead personally verify the product is accessible before marketing fires.
+- **What it looks like:** Every launch tier gets an internal team briefing. **How:** Every launch tier gets some level of briefing, so a support rep is ready for the customer question whatever the launch size.
+- **What it looks like:** A named person watches the hours right after launch. **How:** Assign a specific person and time window to the monitoring rotation so someone is always watching.
+- **What it looks like:** A missing reply from a team is recorded as "not ready". **How:** A function with no written reply is recorded as "not ready" until its lead answers.
 
 ## How to know it is working
 
@@ -137,7 +137,7 @@ This SOP runs one product, feature, or major offer launch from the launch tier a
 
 | Metric | Target |
 | --- | --- |
-| Launch-day critical incidents | [Your target, e.g. zero] |
+| Launch-day critical issues | [Your target, e.g. zero] |
 | Time from launch to first monitoring check | [Your target, e.g. under 1 hour] |
 | 30-day adoption rate (eligible users or customers), measured in the 30-day review | Tracked against the launch goal |
 | Support tickets tied to launch confusion | Trending down after week 1 |

@@ -1,6 +1,6 @@
 # Client Invoicing
 
-Updated October 4, 2026
+Updated November 22, 2026
 
 This procedure takes one client invoice from a confirmed billing trigger to a payment matched in the books. It exists so each invoice goes out accurate and on time, and so a late payer gets the same follow-up every time. The Bookkeeper creates the invoice, a Reviewer checks and initials it, and the Bookkeeper then sends it, posts it, follows up if it is late, and matches the payment when it arrives. Run it each time a billing trigger occurs: a deliverable or milestone is complete, or a billing period closes.
 
@@ -31,14 +31,14 @@ This procedure takes one client invoice from a confirmed billing trigger to a pa
    - **a.** Check [your project record or time log] to confirm the deliverable or milestone is complete, or that the billing period has closed.
    - **b.** Open the signed contract or SOW and note the rate, what is covered, the payment terms, and any reimbursable expenses to pass through.
    - **c.** Check the client billing profile for anything that changed since the last invoice: a scope change, an agreed discount, or a credit owed.
-   - **d.** If the trigger is not confirmed, do not create the invoice. Tell the Account Manager exactly what is missing, then stop. Restart at step 1 when the Account Manager confirms in writing.
+   - **d.** If the trigger is not confirmed yet, tell the Account Manager exactly what is missing and hold the invoice. Restart at step 1 when the Account Manager confirms in writing.
 
-   *Why this matters:* If the trigger is not confirmed, the client can dispute the invoice and you have to reissue it.
+   *Why this matters:* A confirmed trigger means the invoice is right the first time, so the client pays it without a back and forth.
 
 2. **Create and number the invoice** (Owner: Bookkeeper)
 
-   - **a.** In [your accounting software], open the client billing profile and start a new invoice. Save it as a draft; do not send it.
-   - **b.** Give it the next unused number under the standing convention (e.g. INV-2026-014). Do not reuse or skip a number.
+   - **a.** In [your accounting software], open the client billing profile and start a new invoice. Save it as a draft and hold it for review.
+   - **b.** Give it the next unused number under the standing convention (e.g. INV-2026-014), so the numbers run in order with no gaps.
    - **c.** Add one line per service or item with a description, quantity, and amount that match the contract, so the client can match each line to the work performed.
    - **d.** Set the payment terms and due date from the contract, and add the PO number or reference code if the client requires one.
 
@@ -49,9 +49,9 @@ This procedure takes one client invoice from a confirmed billing trigger to a pa
    - **a.** Check the invoice total against the contract or the approved scope for the period.
    - **b.** Check the client legal name, billing address, billing contact, and required reference numbers against the billing profile.
    - **c.** If everything matches, enter your initials and the date in [where the Reviewer initials an invoice].
-   - **d.** If you find an error, write it in the invoice notes and return the invoice to the Bookkeeper. The Bookkeeper corrects it, and the Reviewer repeats this step from the first check. Do not send an invoice that has no Reviewer initials.
+   - **d.** If you find an error, write it in the invoice notes and return the invoice to the Bookkeeper. The Bookkeeper corrects it, and the Reviewer repeats this step from the first check. Send each invoice once it carries the Reviewer's initials.
 
-   *Why this matters:* A second person checks the amount and every line before the client sees the invoice.
+   *Why this matters:* A second person confirms the amount and every line, so the client receives an invoice they can pay right away.
 
 4. **Send the invoice through the client's required channel and log it** (Owner: Bookkeeper)
 
@@ -74,7 +74,7 @@ This procedure takes one client invoice from a confirmed billing trigger to a pa
    > Thank you,\
    > [Bookkeeper name], [your company name]
 
-   *Why this matters:* If the invoice goes to the wrong contact or channel, the client may never see it and the due date passes unnoticed.
+   *Why this matters:* Sending through the client's required channel puts the invoice in front of the right person, so the due date starts counting on day one.
 
 5. **Post the invoice in the books** (Owner: Bookkeeper)
 
@@ -129,18 +129,18 @@ This procedure takes one client invoice from a confirmed billing trigger to a pa
    - **b.** Check that the amount you applied equals the amount received.
    - **c.** If the invoice is paid in full, mark it paid and stop.
    - **d.** If the payment is short or a credit applies, apply what arrived, record the remaining balance as open with a new due date [N5] days out, and tell the Account Manager the same business day. Then go to step 6 for the remaining balance.
-   - **e.** If a payment does not match any open invoice, record it as unapplied, tell the Account Manager the same business day, and do not apply it until the payer is confirmed.
+   - **e.** If a payment does not match any open invoice, record it as unapplied, tell the Account Manager the same business day, and apply it once the payer is confirmed.
 
-   *Why this matters:* An unmatched payment leaves an invoice showing as open after it has been paid, so your receivables list does not show your real cash position.
+   *Why this matters:* Matching every payment keeps your receivables list showing your real cash position.
 
-## Exceptions and troubleshooting
+## When something comes up
 
-- **If** A client disputes an invoice amount. **Then:** Stop the reminders. Pull the contract or SOW and any time or project records, walk through the difference line by line with the Account Manager, and tell the client the outcome in writing. If an error is confirmed, issue a credit memo instead of deleting and reissuing the invoice, then send the corrected balance and return to step 6. If no error is found, send the client the supporting records and resume step 6 from the point where you stopped.
+- **If** A client disputes an invoice amount. **Then:** Stop the reminders. Pull the contract or SOW and any time or project records, walk through the difference line by line with the Account Manager, and tell the client the outcome in writing. If an error is confirmed, issue a credit memo, then send the corrected balance and return to step 6. If no error is found, send the client the supporting records and resume step 6 from the point where you stopped.
 - **If** A client says they never received the invoice. **Then:** Check the proof of sending saved in step 4 and the delivery channel on the billing profile. Resend using the invoice email wording, then phone the billing contact or check the portal to confirm it arrived this time. Restart the reminder schedule from the date of the resend.
 - **If** A client requests a payment plan on an overdue balance. **Then:** Write the plan down with specific dates and amounts and send it to the Owner for sign-off. If the Owner has not replied within [N4] business days, ask [backup approver]. If neither replies within a further [N4] business days, tell the Account Manager and keep step 6 running. Once signed off, record the plan in the client billing profile so each installment gets its own due date in step 6.
 - **If** A partial payment comes in. **Then:** Follow step 7: apply it, record the remaining balance with its own due date, and tell the Account Manager the same business day. Chase the difference under step 6 with the new due date.
 - **If** You are not sure which invoices need step 6. **Then:** This is the first action in step 6. Each [day of the week], run the accounts receivable aging report in [your accounting software], list every invoice past due, and send each one through step 6 at its next reminder.
-- **If** There is no second person available to be the Reviewer. **Then:** Name a backup Reviewer on your worksheet before you need one. If your team has only one person, the Owner reviews and initials a sample of [N7] sent invoices each [period] after they go out and records any errors found.
+- **If** There is no second person available to be the Reviewer. **Then:** Name a backup Reviewer on your worksheet before you need one. If your team has only one person, the Owner reviews and initials a sample of [N7] sent invoices each [period] after they go out and records what they find.
 
 ## Quality checklist
 
@@ -154,13 +154,13 @@ This procedure takes one client invoice from a confirmed billing trigger to a pa
 - [ ] Reminders sent on the [N1] / [N2] / [N3] day schedule and every contact attempt recorded
 - [ ] Payment matched to the invoice with the deposit reference recorded, and any short pay reported to the Account Manager the same business day
 
-## Common mistakes
+## What a clean run looks like
 
-- **Mistake:** Invoicing before confirming the deliverable or billing period is complete. **Fix:** Do not create the invoice until the trigger is verified against the contract or project record.
-- **Mistake:** Sending the invoice to whichever contact you happen to have instead of the client's AP channel. **Fix:** Confirm the required delivery channel, contact, and any PO or reference requirement once per client, and record it in the billing profile.
-- **Mistake:** Letting overdue invoices sit without a documented follow-up schedule. **Fix:** Follow step 6 and the same [N1] / [N2] / [N3] day schedule every time, not only when cash gets tight.
-- **Mistake:** One person creates, sends, and matches every invoice with no second set of eyes. **Fix:** Keep the Reviewer initials in step 3 on every invoice. If your team is too small for that, use the small-team entry in the troubleshooting section.
-- **Mistake:** Sending the invoice as soon as it is created, before the Reviewer has initialed it. **Fix:** Save every new invoice as a draft in step 2 and send it only after step 3 is complete.
+- **What it looks like:** Each invoice is created after the deliverable or billing period is confirmed complete. **How:** Create the invoice once the trigger is verified against the contract or project record, so the invoice is right the first time.
+- **What it looks like:** Each invoice goes to the client's AP channel and contact. **How:** Confirm the required delivery channel, contact, and any PO or reference requirement once per client, and record it in the billing profile.
+- **What it looks like:** Overdue invoices follow a documented schedule. **How:** Follow step 6 and the same [N1] / [N2] / [N3] day schedule every time, whether or not cash is tight, so every client gets the same clear expectation.
+- **What it looks like:** A second set of eyes reviews every invoice. **How:** Keep the Reviewer initials in step 3 on every invoice. If your team is too small for that, use the small-team entry in the troubleshooting section.
+- **What it looks like:** Each invoice is sent after the Reviewer has initialed it. **How:** Save every new invoice as a draft in step 2 and send it once step 3 is complete.
 
 ## How to know it is working
 

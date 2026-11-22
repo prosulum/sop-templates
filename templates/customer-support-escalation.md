@@ -1,6 +1,6 @@
 # Customer Support Escalation
 
-Updated September 28, 2026
+Updated November 22, 2026
 
 This SOP is the path one support ticket follows from first classification to a closed resolution, confirmed by the customer or closed under your unresponsive-customer rule, when it crosses an escalation trigger. It exists so every escalated ticket has one named owner and a response clock nobody can miss without it showing. The Tier 1 agent classifies and routes the ticket, the Tier 2 owner acknowledges the customer, works the issue on a fixed update cadence, escalates to the support lead if the SLA (service level agreement, the response and resolution times you promise) is at risk, closes with the customer's confirmation, and documents the root cause. It applies to any business running tiered support, from two people sharing an inbox to a formal multi-tier structure, and it starts each time a ticket meets a trigger in your matrix.
 
@@ -29,9 +29,9 @@ This SOP is the path one support ticket follows from first classification to a c
 
    - **a.** Set the ticket severity from your closed list, using the written definitions, at first contact.
    - **b.** Set the customer tier on the ticket so routing and the SLA clock start correctly.
-   - **c.** Check the trigger matrix (for example: beyond front-line authority or access, past the first-response or resolution window, the customer asks for escalation, or a billing error, data loss, or security concern). If no trigger is met, handle it through [your standard Tier 1 ticket procedure] and stop here.
+   - **c.** Check the trigger matrix (for example: beyond front-line authority or access, past the first-response or resolution window, the customer asks for escalation, or a billing error). If no trigger is met, handle it through [your standard Tier 1 ticket procedure] and stop here.
 
-   *Why this matters:* Consistent classification at intake makes the rest of the process predictable. An under-classified ticket sits in the wrong queue and misses its SLA.
+   *Why this matters:* Consistent classification at intake makes the rest of the process predictable. A ticket classified right at intake lands in the right queue and meets its SLA.
 
 2. **Route to the correct tier with a complete context handoff** (Owner: Tier 1 agent)
 
@@ -42,7 +42,7 @@ This SOP is the path one support ticket follows from first classification to a c
    - **e.** Check that the SLA clock and severity carried over. They do not reset when a ticket changes tier.
    - **f.** If the ticket involves a refund or return, also start the Refund and Return Processing procedure and link it in the ticket.
 
-   *Why this matters:* A handoff without context forces the customer to re-explain their problem, which is how a fixable issue becomes a churn risk.
+   *Why this matters:* A handoff with full context means the customer explains their problem once, and a fixable issue stays a fixable issue.
 
 3. **Acknowledge the customer within the tier's response SLA** (Owner: Tier 2 owner)
 
@@ -69,17 +69,17 @@ This SOP is the path one support ticket follows from first classification to a c
    > 
    > Hi [customer name], an update on [ticket number]: [what we have done since the last update]. What is left: [next action and who is doing it]. My next update will be by [time of next update]. If anything changes before then, I will tell you right away.
 
-   *Why this matters:* Regular updates keep the customer's trust intact while the real work happens in the background, and they create a paper trail if the issue needs further escalation.
+   *Why this matters:* Regular updates keep the customer informed while the real work happens in the background, and they build the trail anyone can pick up if the issue goes higher.
 
 5. **Escalate further if the SLA is at risk** (Owner: Tier 2 owner)
 
    - **a.** Check this step every time you check the SLA clock in step 4. Start it the moment the ticket reaches the "at risk" point, or when you have no path to a resolution.
    - **b.** Escalate to [support lead] in the ticket before the deadline is missed, not after. State what has been tried, what is blocking, and the time left on the clock.
-   - **c.** If the severity is [severity 1] (for example data loss or a security issue) or the account is a [customer tier 1] account at risk, also tell the [account owner role] straight away. Outside business hours, use the on-call schedule.
+   - **c.** If the severity is [severity 1] (for example a billing error) or the account is a [customer tier 1] account at risk, also tell the [account owner role] straight away. Outside business hours, use the on-call schedule.
    - **d.** If anyone sees that the Tier 2 owner is unavailable, they tell [support lead], who reassigns the ticket to a named person within [N minutes] and records the new owner in the ticket.
    - **e.** Log every escalation hop in the ticket so the full chain is visible to anyone who picks it up later. Then return to step 4.
 
-   *Why this matters:* Escalating proactively at the risk point, rather than reactively after a miss, protects the SLA and the relationship.
+   *Why this matters:* Escalating proactively at the risk point, rather than reactively after a miss, keeps the SLA and the relationship on track.
 
 6. **Resolve, confirm with the customer, and close the loop** (Owner: Tier 2 owner)
 
@@ -96,7 +96,7 @@ This SOP is the path one support ticket follows from first classification to a c
    > 
    > Hi [customer name], I have not heard back on [ticket number], so I am going to close it on [date]. If the issue is not fully fixed, reply to this message and I will reopen it right away.
 
-   *Why this matters:* A ticket closed without customer confirmation can still be open for the customer; it is off your dashboard until they reopen it, frustrated.
+   *Why this matters:* A ticket closed on the customer's confirmation is closed for them too, and they know it.
 
 7. **Document the root cause and resolution** (Owner: Tier 2 owner)
 
@@ -106,12 +106,12 @@ This SOP is the path one support ticket follows from first classification to a c
 
    *Why this matters:* A documented escalation can prevent the next one and shortens the time to resolve it if it happens again.
 
-## Exceptions and troubleshooting
+## When something comes up
 
-- **If** A ticket is about to breach its SLA and the assigned owner is unresponsive or unavailable. **Then:** Tell [support lead] immediately. They reassign the ticket to a named person and record it in the ticket. Do not wait for the original owner to resurface.
+- **If** A ticket is about to miss its SLA and the assigned owner is unresponsive or unavailable. **Then:** Tell [support lead] immediately. They reassign the ticket to a named person and record it in the ticket.
 - **If** The customer disputes that the issue is resolved after the ticket was closed. **Then:** Reopen the original ticket rather than starting a new one, so the full history stays intact, and start again at step 1. Treat it as a fresh escalation trigger if it involves a [customer tier 1] account or a repeat issue.
 - **If** An issue requires engineering or a vendor and there is no clear timeline. **Then:** Get a documented estimate, even a rough one, from the dependency owner within [N hours]. If you cannot, escalate under step 5. Set the customer's expectation to that estimate plus a buffer, and keep updating on the standard cadence regardless.
-- **If** The same root cause keeps generating new escalations from different customers. **Then:** Treat it as a product or process issue, not a support-volume issue. Send it to [product or engineering role] with the documented pattern and push for a permanent fix instead of repeated individual workarounds.
+- **If** The same root cause keeps generating new escalations from different customers. **Then:** Treat it as a product or process improvement. Send it to [product or engineering role] with the documented pattern and push for a permanent fix instead of repeated individual workarounds.
 - **If** You want to see the patterns behind escalations over time. **Then:** This runs on a different cadence from the per-ticket steps, so it is its own procedure. Write it as [your escalation pattern review procedure]: on [weekly or monthly, and which day], [role] pulls escalation volume, SLA hit rate, and time to resolution by tier and severity, looks for repeat root causes and any tier that keeps missing its SLA, and feeds the findings back into training, documentation, or product fixes.
 
 ## Quality checklist
@@ -124,13 +124,13 @@ This SOP is the path one support ticket follows from first classification to a c
 - [ ] Resolution confirmed directly with the customer, or the unresponsive-customer rule followed and logged
 - [ ] Root cause and resolution documented in the knowledge base with the link in the ticket
 
-## Common mistakes
+## What a clean run looks like
 
-- **Mistake:** Letting severity and tier classification be inconsistent between agents. **Fix:** Use the documented trigger matrix at intake every time, not a judgment call ticket by ticket.
-- **Mistake:** Handing off an escalation with a one-line note instead of full context. **Fix:** Require a structured handoff (history, prior attempts, sentiment, timeline) before a ticket moves tiers.
-- **Mistake:** Going silent while working a hard problem. **Fix:** Enforce the update cadence by severity regardless of whether there is real news to share.
-- **Mistake:** Closing a ticket on an internal "it should be fixed now" assumption. **Fix:** Require direct customer confirmation before marking any ticket resolved, unless the unresponsive-customer rule has been followed and logged.
-- **Mistake:** Escalating to the person who is already handling the ticket. **Fix:** Escalate to the support lead, a different role from the Tier 2 owner, and name the support lead's backup in the worksheet.
+- **What it looks like:** Classification uses the documented trigger matrix at intake, so every agent sets severity and tier the same way. **How:** Use the documented trigger matrix at intake every time, not a judgment call ticket by ticket.
+- **What it looks like:** Every handoff carries full context. **How:** Require a structured handoff (history, prior attempts, sentiment, timeline) before a ticket moves tiers.
+- **What it looks like:** The customer hears from the owner on the update cadence, even when there is no news. **How:** Send the update cadence by severity regardless of whether there is real news to share.
+- **What it looks like:** A ticket closes on the customer's confirmation. **How:** Require direct customer confirmation before marking any ticket resolved, unless the unresponsive-customer rule has been followed and logged.
+- **What it looks like:** Escalation goes to the support lead, a different role from the Tier 2 owner. **How:** Escalate to the support lead, a different role from the Tier 2 owner, and name the support lead's backup in the worksheet.
 
 ## How to know it is working
 
@@ -145,7 +145,7 @@ This SOP is the path one support ticket follows from first classification to a c
 | First response time by severity and tier | Meets the documented SLA in your SLA table |
 | First contact resolution (FCR) rate | [Your target, set from your own baseline] |
 | Escalation rate (tickets requiring Tier 2 or above) | [Your target], trending down |
-| SLA breach rate | [Your target] |
+| SLA miss rate | [Your target] |
 
 ## Related procedures
 

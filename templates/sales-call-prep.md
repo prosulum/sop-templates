@@ -1,6 +1,6 @@
 # Sales Call Prep
 
-Updated September 28, 2026
+Updated November 22, 2026
 
 This SOP is the routine a sales rep runs once for each scheduled sales call, from the moment the call lands on the calendar to the first minute of the conversation. It exists so the rep walks in knowing the history and the goal. The rep reviews the CRM record, researches the company, sets a goal, prepares questions and proof points, sends the agenda, and sets up the call space, with the depth of prep scaled to whether the call is higher-stakes. It applies to first discovery calls and later-stage calls alike.
 
@@ -31,7 +31,7 @@ This SOP is the routine a sales rep runs once for each scheduled sales call, fro
    - **d.** Confirm who is on the call and their role: the economic buyer (the person who approves the spend), an influencer (someone who shapes the decision), or an end user (someone who will use what you sell), so you know who you are talking to.
    - **e.** Write down the stated reason they reached out or booked this call. That is the trigger you open with.
 
-   *Why this matters:* Starting from what you already know instead of asking again keeps a call from feeling like a cold restart.
+   *Why this matters:* Starting from what you already know lets every call pick up where the last one ended.
 
 2. **Research the company and decide how deep to prep** (Owner: Sales rep)
 
@@ -46,10 +46,10 @@ This SOP is the routine a sales rep runs once for each scheduled sales call, fro
 3. **Set your goal and desired outcome for this specific call** (Owner: Sales rep)
 
    - **a.** Decide, before the call, what a successful outcome looks like: a next meeting booked, a specific question answered, a clear yes or no.
-   - **b.** Identify your relative strengths for this prospect (a directly relevant case study, a unique fit) and any vulnerabilities you should be ready to address (a gap, a past miss, a tough comparison). Write one line for each in your notes document.
+   - **b.** Identify your relative strengths for this prospect (a directly relevant case study, a unique fit) and any tough questions you should be ready to answer (a gap, a past miss, a comparison). Write one line for each in your notes document.
    - **c.** Write the single next step you will ask for at the end of the call in your notes document, before the call starts.
 
-   *Why this matters:* A call without a defined outcome tends to end with "let me follow up," which is not a real next step.
+   *Why this matters:* A call with a defined outcome ends with a real next step on the calendar.
 
 4. **Prepare discovery questions specific to their situation** (Owner: Sales rep)
 
@@ -57,13 +57,13 @@ This SOP is the routine a sales rep runs once for each scheduled sales call, fro
    - **b.** Organize the questions to uncover their current state, what is not working, what they have tried, and what changes if nothing changes.
    - **c.** Plan to talk less than half the call. Prepared questions make that possible without dead air.
 
-   *Why this matters:* Generic questions get generic answers. Questions that reference their actual situation get the real problem, not the rehearsed one.
+   *Why this matters:* Questions that reference their actual situation get the real problem in the prospect's own words.
 
 5. **Queue relevant proof points** (Owner: Sales rep)
 
    - **a.** Identify one or two client stories where you solved a problem similar to what this prospect likely faces, based on their industry or what they have said.
    - **b.** If no story fits, write "none fits" in your notes document and plan to ask more questions about the problem instead of offering proof.
-   - **c.** Have the case study link, a one-paragraph summary, or a short clip ready to share at the moment it answers a doubt, not as a scripted pitch slide.
+   - **c.** Have the case study link, a one-paragraph summary, or a short clip ready to share at the moment it answers a doubt.
 
    *Why this matters:* Proof shown at the exact moment it answers a doubt can land better than the same proof presented up front as a credential.
 
@@ -72,7 +72,7 @@ This SOP is the routine a sales rep runs once for each scheduled sales call, fro
    - **a.** Write the agenda from [your call agenda template]: the topics, how long each takes, and any prep you are asking of the prospect.
    - **b.** Send the message below at least [24] hours before the call. If the call starts in less than [24] hours, send it now.
    - **c.** Open the calendar invite and check that the meeting link, dial-in, or location in your message matches the invite.
-   - **d.** Log the sent message in the activity history for this contact in [your CRM]. That entry is your proof it went out.
+   - **d.** Log the sent message in the activity history for this contact in [your CRM]. That entry is your record that it went out.
    - **e.** If the prospect has not confirmed [N hours, e.g. 2] before the call, send one short follow-up on [the contact channel on record]. If there is still no reply, keep the slot and go to step 7.
 
    > **Use this wording: Agenda and reminder**
@@ -92,14 +92,14 @@ This SOP is the routine a sales rep runs once for each scheduled sales call, fro
    > 
    > Thanks for making the time, [prospect first name]. We have [call length]. I would like to cover [agenda point 1] and [agenda point 2], and leave with [the next step you set in step 3]. Does that work for you?
 
-   *Why this matters:* A clean setup and a live notes document mean nothing gets lost to a bad connection or a memory gap after the call ends.
+   *Why this matters:* A clean setup and a live notes document mean every detail from the call is captured and ready for the follow-up.
 
-## Exceptions and troubleshooting
+## When something comes up
 
 - **If** You cannot find much public information about the prospect company. **Then:** Fall back on the CRM record and the inquiry itself; ask more open discovery questions early in the call to build the picture live instead of guessing.
 - **If** A last-minute attendee joins who was not on the original invite. **Then:** Take 60 seconds at the start to learn their role and what they hope to get from the call before continuing your planned agenda.
-- **If** The call is running short on time with key questions unanswered. **Then:** Protect the single most important question, cut the rest, and offer to continue by email or a follow-up call rather than rushing the close.
-- **If** Technical issues (bad connection, screen share failure) disrupt the call. **Then:** Switch to the backup channel from your prerequisites, as in step 7, so a technical failure does not become a rescheduled call.
+- **If** The call is running short on time with key questions unanswered. **Then:** Ask the single most important question first, then offer to continue the rest by email or a follow-up call.
+- **If** Technical issues (bad connection, screen share failure) disrupt the call. **Then:** Switch to the backup channel from your prerequisites, as in step 7, so the call goes ahead on time.
 - **If** You want someone else to assemble part of the prep packet. **Then:** Hand off the research in step 2 and the proof points in step 5 to [the person who assists you]. Keep the goal in step 3, the questions in step 4, and the message in step 6 with the rep, because those depend on how the rep runs the call.
 
 ## Quality checklist
@@ -108,26 +108,26 @@ This SOP is the routine a sales rep runs once for each scheduled sales call, fro
 - [ ] Higher-stakes test answered yes or no, and prep depth matched to it
 - [ ] At least one specific, accurate observation about the company ready to open with
 - [ ] A defined goal and specific next step to ask for at the end of the call
-- [ ] Discovery questions tailored to this prospect, not a generic script
+- [ ] Discovery questions tailored to this prospect
 - [ ] One or two relevant proof points queued, or "none fits" noted
 - [ ] Agenda and reminder sent and logged in the CRM, with the meeting link checked against the invite
 - [ ] Video, audio, and screen share tested, and a backup channel ready
 - [ ] Notes document open (started in step 1) with prospect name, company, date, and goal
 
-## Common mistakes
+## What a clean run looks like
 
-- **Mistake:** Opening the call with "So, tell me about your business" when the CRM already has the answer. **Fix:** Review the CRM record first and open with what you already know, asking only what you do not know.
-- **Mistake:** Walking in without a defined goal, so the call drifts and ends with a vague "let me follow up." **Fix:** Set the specific outcome and next step you will ask for before the call starts.
-- **Mistake:** Using the same generic discovery questions on every call. **Fix:** Tailor at least half the questions to what you already know about this specific prospect.
-- **Mistake:** Leading with the pitch or case studies before understanding the problem. **Fix:** Hold proof points until they answer a specific doubt that comes up in the conversation, not as an opening move.
-- **Mistake:** Sending the reminder before the agenda and goal exist, so it says nothing useful. **Fix:** Finish steps 1 to 5 first, then send the agenda and reminder in step 6.
+- **What it looks like:** The call opens with what the CRM already shows. **How:** Review the CRM record first and open with what you already know, asking about what is still unknown.
+- **What it looks like:** The call starts with a defined goal. **How:** Set the specific outcome and next step you will ask for before the call starts, so the call ends on a real next step.
+- **What it looks like:** Discovery questions are tailored to each prospect. **How:** Tailor at least half the questions to what you already know about this specific prospect.
+- **What it looks like:** Proof points arrive once the problem is understood. **How:** Hold proof points until they answer a specific doubt that comes up in the conversation.
+- **What it looks like:** The reminder goes out once the agenda and goal exist. **How:** Finish steps 1 to 5 first, then send the agenda and reminder in step 6.
 
 ## How to know it is working
 
-- The call opens with a specific, accurate reference to the prospect, not a generic greeting.
+- The call opens with a specific, accurate reference to the prospect.
 - The rep talks less than half the call.
-- The call ends with a defined, agreed next step, not a vague "I will follow up."
-- Notes captured during the call are complete enough that no follow-up requires re-asking the prospect something they already said.
+- The call ends with a defined, agreed next step.
+- Notes captured during the call are complete enough that every follow-up builds on what the prospect already said.
 - The agenda and reminder went out on time and are logged in the CRM.
 
 | Metric | Target |

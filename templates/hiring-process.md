@@ -1,8 +1,8 @@
 # Hiring Process
 
-Updated October 4, 2026
+Updated November 22, 2026
 
-This SOP is the full hiring cycle for one open role, from defining the role to an accepted offer and a handoff to onboarding, run by the hiring manager. It exists so every candidate is judged on the same evidence and every outcome, including a rejection or a declined offer, has a next step. The hiring manager defines and posts the role, screens applications, runs a phone screen and a structured panel interview, selects a finalist, checks references, and extends a written offer. It applies to any open headcount, employee or contractor, and it starts when the headcount is approved. Treat this as a process template rather than legal advice. Rules on pay-range disclosure, interview questions, background and reference checks, and offer-letter contents vary by country and state, so have an employment attorney or HR adviser review your posting, question set, and offer letter once.
+This SOP is the full hiring cycle for one open role, from defining the role to an accepted offer and a handoff to onboarding, run by the hiring manager. It exists so every candidate is judged on the same evidence and every outcome, including a rejection or a declined offer, has a next step. The hiring manager defines and posts the role, screens applications, runs a phone screen and a structured panel interview, selects a finalist, checks references, and extends a written offer. It applies to any open headcount, employee or contractor, and it starts when the headcount is approved.
 
 **What this gives you:** Hiring on the same evidence every time lets you build a team you chose on purpose, people who share the work you care about and can carry it further than you could alone. That team is part of what you leave behind.
 
@@ -17,7 +17,7 @@ This SOP is the full hiring cycle for one open role, from defining the role to a
 - [Your job description template], built around outcomes, not just tasks
 - [Your interview scorecard] with [4 to 6] weighted competencies agreed before the role is posted, stored at [scorecard location]
 - Your minimum score to advance a candidate from the phone screen: [advance score]. Your minimum weighted total to be a finalist: [finalist minimum]
-- A reference-check script (the starting wording is in step 7) and [your written offer letter template], reviewed once by [your labor attorney or HR adviser]
+- A reference-check script (the starting wording is in step 7) and [your written offer letter template]
 - Your hiring limits for the role: compensation range [range], latest acceptable start date [date], and classification (employee or contractor) [classification]
 - [Your new-hire onboarding procedure] and the IT Access Provisioning procedure, ready to start when an offer is accepted
 
@@ -25,29 +25,29 @@ This SOP is the full hiring cycle for one open role, from defining the role to a
 
 1. **Define the role before you post it** (Owner: Hiring manager)
 
-   - **a.** Write what success looks like at 30, 60, and 90 days before listing required skills or years of experience.
+   - **a.** Write what success looks like at 30, 60, and 90 days, then list the required skills.
    - **b.** Confirm the approved compensation range and the reporting manager with [approver role].
    - **c.** Build the scorecard now: [4 to 6] weighted competencies the role needs ([competency 1], [competency 2], and so on), each with a one-line description of what a strong answer looks like.
    - **d.** Write the pass, fail, or maybe checklist for step 3 from the required qualifications: [5 to 7] items, with the ones that are must-haves marked.
    - **e.** Write [4 to 5] opening questions for the phone screen ([question 1], [question 2], and so on) and the core interview questions, one or two per competency.
 
-   *Why this matters:* A role defined by outcomes tells candidates what they will own, and a scorecard written before you post the role keeps the evaluation criteria from drifting to match whoever you liked best.
+   *Why this matters:* A role defined by outcomes tells candidates what they will own, and a scorecard written before you post the role gives every candidate the same yardstick.
 
 2. **Write and post the job description** (Owner: Hiring manager)
 
-   - **a.** Open with what the person will own, not a list of duties.
-   - **b.** List [3 to 5] required qualifications only; move nice-to-haves to a separate line so they do not screen out strong candidates.
+   - **a.** Open with what the person will own.
+   - **b.** List [3 to 5] required qualifications only; put nice-to-haves on a separate line so strong candidates stay in the pool.
    - **c.** State the compensation range and the classification (employee or contractor).
    - **d.** Post to [2 to 3] channels that match the role: [a general job board], [a niche board, for specialized roles], and [your network or referral channel].
    - **e.** Write the closing date for applications in the ATS: [closing date].
 
-   *Why this matters:* A tightly written posting on the right channels can keep the applicant pool to a size you can screen properly.
+   *Why this matters:* A tightly written posting on the right channels brings in an applicant pool of a size you can screen well.
 
 3. **Screen applications against a pass, fail, or maybe checklist** (Owner: Hiring manager)
 
    - **a.** Start screening on [the closing date, or on a rolling basis if you choose that].
    - **b.** Open each application only after the checklist from step 1 is written.
-   - **c.** Score every applicant against the same checklist: pass, fail, or maybe. No subjective read at this stage.
+   - **c.** Score every applicant against the same checklist: pass, fail, or maybe.
    - **d.** Pass means every must-have item is met. Fail means a must-have item is missing. Maybe means no must-have item is missing, but at least one cannot be confirmed from the application.
    - **e.** For a fail, send the rejection notice below and close the candidate in the ATS.
    - **f.** For a maybe, send the clarifying question below with a reply date of [N] business days. If the answer confirms the item, mark pass. If the answer does not, or there is no reply by that date, mark fail and send the rejection notice.
@@ -61,7 +61,7 @@ This SOP is the full hiring cycle for one open role, from defining the role to a
    > 
    > Hi [candidate first name], thank you for applying for the [role title] position. Before we decide on next steps, could you tell us [the one thing to confirm, for example whether you have done X]? A short reply by [reply date] is enough.
 
-   *Why this matters:* A consistent checklist can reduce first-look bias and keeps screening time proportional to the role, not the applicant volume.
+   *Why this matters:* A consistent checklist keeps screening fast and sized to the role, so you reach your strongest candidates sooner.
 
 4. **Run a structured phone or video screen** (Owner: Hiring manager)
 
@@ -76,16 +76,16 @@ This SOP is the full hiring cycle for one open role, from defining the role to a
    > 
    > Hi [candidate first name], thank you for talking with us about the [role title] position. We have decided not to move forward. We appreciate your time and wish you well in your search.
 
-   *Why this matters:* Structured screens catch mismatches early and keep the comparison fair across every candidate, not just the ones interviewed last.
+   *Why this matters:* Structured screens show fit early and give you a clean comparison across every candidate, so you spend interview time on the best matches.
 
 5. **Run the structured interview with a panel** (Owner: Hiring manager)
 
    - **a.** Assign each panel interviewer one or two competencies from the scorecard so no one is trying to evaluate everything at once.
-   - **b.** Ask every candidate the same core questions from step 1, with follow-up probes as needed, and require a specific example, not a hypothetical.
-   - **c.** Have each interviewer submit their scores independently in [scorecard location] within [N hours] after their interview and before the group discusses any candidate, so no one anchors on the first opinion voiced.
+   - **b.** Ask every candidate the same core questions from step 1, with follow-up probes as needed, and ask for a specific example from their work.
+   - **c.** Have each interviewer submit their scores independently in [scorecard location] within [N hours] after their interview and before the group discusses any candidate, so every score reflects that interviewer's own read.
    - **d.** Check that every panel interviewer has submitted scores for every candidate. If one has not by the deadline, ask them once, and if the scores are still missing after [N hours], go ahead without them and note it in the ATS.
 
-   *Why this matters:* Independent scoring against the same rubric keeps the interview a comparison of evidence instead of a popularity contest.
+   *Why this matters:* Independent scoring against the same rubric gives you a comparison of evidence, so the best candidate stands out.
 
 6. **Select the finalist and close out the other candidates** (Owner: Hiring manager)
 
@@ -93,20 +93,20 @@ This SOP is the full hiring cycle for one open role, from defining the role to a
    - **b.** Name the candidate with the highest weighted score that is at or above [finalist minimum] as the finalist. Name the next highest, also above the minimum, as the runner-up.
    - **c.** If two candidates tie, hold a focused follow-up conversation on the one competency where their scores diverge, then re-score that one competency for both candidates and take the higher weighted total. If they still tie, [approver role] decides and the reason is written in the ATS. See troubleshooting.
    - **d.** If no candidate is at or above [finalist minimum], tell [approver role] and go back to step 2 with a revised posting.
-   - **e.** Send every other candidate who was interviewed the notice below and close them in the ATS. Keep the runner-up open and do not tell them yet. Send them the notice only after an offer is accepted.
+   - **e.** Send every other candidate who was interviewed the notice below and close them in the ATS. Keep the runner-up open and tell them after an offer is accepted, using the same notice.
    - **f.** Write the reasons for the choice in the ATS, citing scorecard evidence.
 
    > **Use this wording: Non-selected notice (after interviews)**
    > 
    > Hi [candidate first name], thank you for the time you gave us in interviewing for the [role title] position. We have decided to move forward with another candidate. We valued the conversation and appreciate your interest in [your company].
 
-   *Why this matters:* Naming one finalist against a written minimum stops the decision from drifting to whoever the panel liked most, and closing out the rest promptly is fair to candidates.
+   *Why this matters:* Naming one finalist against a written minimum makes the decision quick and clear, and closing out the rest promptly leaves every candidate with a good impression of your company.
 
 7. **Check references before extending an offer** (Owner: Hiring manager)
 
    - **a.** Ask the finalist for [2 to 3] professional references, ideally former managers, and confirm they are expecting the call.
    - **b.** Use the wording below for every candidate, covering role, performance, and reason for leaving.
-   - **c.** Document responses in the candidate record and flag anything that contradicts what the candidate reported.
+   - **c.** Record the responses in the candidate record and mark anything that differs from what the candidate reported.
    - **d.** If a reference contradicts the candidate on [role, dates, or reason for leaving], ask the candidate to explain. If the explanation does not resolve it, tell [approver role], set this finalist aside, and repeat step 7 with the runner-up.
    - **e.** If the references are clear, go to step 8.
 
@@ -114,12 +114,12 @@ This SOP is the full hiring cycle for one open role, from defining the role to a
    > 
    > Hi [reference name], this is [your name] from [your company]. [Candidate name] gave your name as a reference for a [role title] position, and said you would expect my call. Do you have [10 minutes]? First, how do you know [candidate name], and what was the role? How would you describe their performance? What was the reason they left? Would you work with them again?
 
-   *Why this matters:* A consistent reference-check script surfaces real signal instead of a rubber-stamp formality, and gives you a record if a hire does not work out.
+   *Why this matters:* A consistent reference-check script surfaces real signal about how the finalist works, so you extend the offer with confidence.
 
 8. **Extend the offer and hand off to onboarding** (Owner: Hiring manager)
 
    - **a.** Before you make the verbal offer or send anything, have [approver role] check the offer letter against the approved headcount: title, compensation and pay frequency, start date, classification, and reporting manager. Have them initial the check in [offer check location] and date it. That initialed check is the artifact for this step.
-   - **b.** Make a verbal offer first, using the wording below, then send the written offer letter the same business day. Do not wait.
+   - **b.** Make a verbal offer first, using the wording below, then send the written offer letter the same business day.
    - **c.** Set an acceptance window of [N hours, e.g. 48 to 72] and stay reachable for questions during it.
    - **d.** If the candidate accepts, save the signed letter in the candidate record and tell the runner-up and any candidates still open, using the non-selected notice from step 6.
    - **e.** Then submit the new-hire access request for IT Access Provisioning (start date, role, department, reporting manager, and the approval IT Access Provisioning requires) and start [your new-hire onboarding procedure] so the new hire is fully set up before day one.
@@ -134,14 +134,14 @@ This SOP is the full hiring cycle for one open role, from defining the role to a
    > 
    > Hi [candidate first name], a quick note on the offer letter I sent on [date]. The acceptance date is [acceptance deadline]. Do you have any questions I can answer before then?
 
-   *Why this matters:* A prompt, complete written offer can reach the candidate before a competing offer does, and the handoff keeps day one from becoming a scramble.
+   *Why this matters:* A prompt, complete written offer can reach the candidate before a competing offer does, and the handoff gives the new hire a ready day one.
 
-## Exceptions and troubleshooting
+## When something comes up
 
 - **If** The candidate pool is thin after two weeks of posting. **Then:** Widen to a specialty board or a referral push, and re-check that the compensation range and required qualifications are not screening out qualified people.
-- **If** The interview panel disagrees sharply after independent scoring, or two candidates tie. **Then:** Walk through the scorecard evidence for each competency where scores diverge, not a general gut-check discussion. If the disagreement is about one competency, run a focused follow-up conversation on just that area, then return to step 6.
-- **If** A reference gives a lukewarm or evasive answer. **Then:** Ask a direct follow-up, such as whether they would rehire the candidate, and weigh the response against the rest of the interview evidence rather than leaning on one data point.
-- **If** The candidate needs more time to decide than your acceptance window allows. **Then:** Ask what specifically they need to decide (a question, a second conversation, more detail on the role) rather than extending the window blindly. A vague delay is a signal worth addressing directly. Any extension needs [approver role]'s OK and a new written deadline.
+- **If** The interview panel disagrees sharply after independent scoring, or two candidates tie. **Then:** Walk through the scorecard evidence for each competency where scores diverge, for a focused discussion. If the disagreement is about one competency, run a focused follow-up conversation on just that area, then return to step 6.
+- **If** A reference gives a lukewarm or evasive answer. **Then:** Ask a direct follow-up, such as whether they would rehire the candidate, and weigh the response alongside the rest of the interview evidence.
+- **If** The candidate needs more time to decide than your acceptance window allows. **Then:** Ask what specifically they need to decide (a question, a second conversation, more detail on the role). Any extension needs [approver role]'s OK and a new written deadline.
 - **If** The role is filled and you want to keep strong candidates for later. **Then:** Ask their permission in the non-selected notice, note it in the ATS, and start from that list the next time you hire for a similar role.
 
 ## Quality checklist
@@ -156,22 +156,22 @@ This SOP is the full hiring cycle for one open role, from defining the role to a
 - [ ] Offer letter checked and initialed by a second person before it was sent, and sent the same business day as the verbal offer
 - [ ] New hire handed off to onboarding and IT access provisioning before day one
 
-## Common mistakes
+## What a clean run looks like
 
-- **Mistake:** Writing the job description around a list of tasks instead of the outcomes the role owns. **Fix:** Start with what success looks like at 30, 60, and 90 days, then work backward into the required skills.
-- **Mistake:** Letting the first interviewer's opinion set the tone before everyone else scores independently. **Fix:** Require every interviewer to submit scores on the rubric before the group discusses the candidate.
-- **Mistake:** Skipping or rubber-stamping reference checks because the interviews went well. **Fix:** Run the reference script on the finalist, no exceptions, before the offer goes out.
-- **Mistake:** Sending a verbal offer with no written follow-up, or leaving classification and start date vague. **Fix:** Follow every verbal offer with a written offer letter the same business day, checked and initialed by a second person for compensation, start date, and classification.
-- **Mistake:** Leaving rejected or maybe candidates without an answer. **Fix:** Every fail and every non-selected candidate gets a notice, and every maybe gets a clarifying question with a reply date.
+- **What it looks like:** The job description is written around the outcomes the role owns. **How:** Start with what success looks like at 30, 60, and 90 days, then work backward into the required skills, so candidates see what they will own.
+- **What it looks like:** Every interviewer scores independently before the group discusses the candidate. **How:** Have every interviewer submit scores on the rubric first, so the group meets with every score in hand.
+- **What it looks like:** The finalist's references are checked after strong interviews. **How:** Run the reference script on the finalist before the offer goes out, so the offer rests on the full picture.
+- **What it looks like:** Every verbal offer is followed by a written offer letter with classification and start date stated. **How:** Send the written offer letter the same business day, checked and initialed by a second person for compensation, start date, and classification.
+- **What it looks like:** Every candidate gets an answer. **How:** Every fail and every non-selected candidate gets a notice, and every maybe gets a clarifying question with a reply date.
 
 ## How to know it is working
 
 - The hire's actual first 90 days track the outcomes defined before the role was posted.
-- Every candidate who reached the interview stage was evaluated on the same scorecard, with scores documented in the ATS.
+- Every candidate who reached the interview stage was evaluated on the same scorecard, with scores recorded in the ATS.
 - Every candidate who was screened out or not selected received a notice.
 - The written offer went out the same business day as the verbal offer, after a second person checked it.
-- The new hire was fully provisioned and productive without a day-one access scramble.
-- The hiring manager and panel can point to specific evidence, not general impressions, for the final decision.
+- The new hire was fully provisioned and productive on day one.
+- The hiring manager and panel can point to specific evidence for the final decision.
 
 | Metric | Target |
 | --- | --- |

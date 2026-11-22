@@ -1,10 +1,10 @@
 # Employee Offboarding
 
-Updated October 4, 2026
+Updated November 22, 2026
 
-HR runs this procedure for every employee or contractor separation, whether it is a resignation, a termination, or a layoff. It starts the day the separation is confirmed and runs in time order: log the separation, inventory access, transfer knowledge while the person is still reachable, hold the exit interview, confirm the handoff is complete before access is cut, revoke access, recover property, audit that access is gone, and close the record. Final pay goes to Payroll Processing as soon as the last day is confirmed, so it never waits on the access audit. It exists so HR, IT, and the manager can each run their piece without waiting on the others or relying on memory. This is a workflow, not legal advice. Final pay deadlines, accrued-leave payout, notice periods, and benefits-continuation notices are set by law in many places, so confirm yours with an employment attorney or your payroll provider before you rely on this template.
+HR runs this procedure for every employee or contractor separation, whether it is a resignation, a termination, or a layoff. It starts the day the separation is confirmed and runs in time order: log the separation, inventory access, transfer knowledge while the person is still reachable, hold the exit interview, confirm the handoff is complete before access is cut, revoke access, recover property, confirm access is closed, and close the record. Final pay goes to Payroll Processing as soon as the last day is confirmed, so it never waits on the access audit. It exists so HR, IT, and the manager can each run their piece without waiting on the others or relying on memory.
 
-**What this gives you:** Every departure runs the same careful way, so people leave treated with respect and what you built stays secure. How someone leaves shows what your company stands for, and now you decide what it shows.
+**What this gives you:** Every departure runs the same careful way, so people leave treated with respect and what you built keeps running. How someone leaves shows what your company stands for, and now you decide what it shows.
 
 **Primary owner:** HR  
 **Runs:** Every employee or contractor separation, starting the day a resignation notice is received or a termination or layoff decision is made  
@@ -29,13 +29,12 @@ HR runs this procedure for every employee or contractor separation, whether it i
    - **b.** Open the shared offboarding checklist and assign one owner per track: IT admin for access and property, Manager for knowledge transfer, HR for the exit interview, final pay, and the record.
    - **c.** If the separation is a resignation with notice, go to step 2 and run steps 3, 4, and 5 during the notice period. Access is revoked at [time, e.g. end of business] on the last day (step 6).
    - **d.** If the separation is a termination, a layoff, or a resignation with no notice, finish step 2 before the separation conversation. Revoke access at the start of that conversation (go to step 6), then run steps 3, 4, and 5 afterward from records, because the person no longer has access to hand anything over.
-   - **e.** If a layoff carries a required notice period, check with [your counsel or HR advisor] first.
 
-   > **Use this wording: Opening line for an involuntary separation conversation (have [your counsel or HR advisor] review it before you adopt it)**
+   > **Use this wording: Opening line for an involuntary separation conversation**
    > 
    > [Employee first name], we have decided to end your employment, effective [date]. Your access to company systems ends now. [HR name] will walk you through final pay, benefits, and returning company property.
 
-   *Why this matters:* A shared checklist with named owners prevents the failure where no one owns a step: everyone assumes someone else is handling access or the final paycheck, and the separation type decides which steps come first.
+   *Why this matters:* A shared checklist with named owners gives every step a person, so access, handoff, and final pay each move without anyone chasing, and the separation type sets which steps come first.
 
 2. **Inventory every system the employee can access** (Owner: IT admin)
 
@@ -44,7 +43,7 @@ HR runs this procedure for every employee or contractor separation, whether it i
    - **c.** Flag every shared or service-account credential the employee knew, because those need rotation, not just individual revocation.
    - **d.** Copy the list into the revocation record on the checklist, one row per system, with the revoke columns blank.
 
-   *Why this matters:* You cannot revoke what you have not listed. An incomplete inventory is how a departed employee retains access to something nobody remembered, and the list becomes the record you check later.
+   *Why this matters:* One complete list is the record IT works from, so every system is handled in one pass and the same list is what you check later.
 
 3. **Start the knowledge transfer at notice** (Owner: Manager)
 
@@ -59,7 +58,7 @@ HR runs this procedure for every employee or contractor separation, whether it i
    > 
    > Hi [employee first name], as you wrap up before [last day], please write handoff notes for each open project, client, and vendor you own: current status, next action, key contacts, and where the files live. Please put them in [shared handoff location] by [date]. I will review them with you on [date]. Thank you for making this easy on the team.
 
-   *Why this matters:* Knowledge that only exists in one person's head leaves with them. Starting at notice, not on the last day, leaves time to fill gaps while the person can still answer questions.
+   *Why this matters:* Starting at notice, not on the last day, leaves time to fill gaps while the person can still answer questions, so what they know stays in the business.
 
 4. **Hold the exit interview** (Owner: HR)
 
@@ -83,19 +82,19 @@ HR runs this procedure for every employee or contractor separation, whether it i
    - **d.** If any item still has no new owner [N] business days before the last day, tell [department head role] and have them assign it before you initial.
    - **e.** If access was already revoked, confirm the same items against the reconstructed handoff and initial the line as "reconstructed".
 
-   *Why this matters:* An initialed line is the proof the handoff happened. Without it, orphaned work is discovered weeks later by a client who asks where their project went.
+   *Why this matters:* An initialed line is the record that the handoff happened, so every project and client has a named owner from the first day after the departure.
 
 6. **Revoke access** (Owner: IT admin)
 
    - **a.** Revoke at [time, e.g. end of business] on the last day for a resignation with notice, and at the start of the separation conversation for any other separation type.
    - **b.** Disable the SSO or primary identity account first. For every app connected to it, this cuts access at once.
-   - **c.** Confirm each high-risk system separately, because not every tool connects to SSO: email forwarding rules, billing and financial tools, client CRM, and every admin-level account.
+   - **c.** Close each of these systems separately, because not every tool connects to SSO: email forwarding rules, billing and financial tools, client CRM, and every admin-level account.
    - **d.** Rotate every shared credential flagged in step 2 and remove the employee from distribution lists and shared mailboxes.
    - **e.** For each system on the revocation record, write the date, time, and your initials.
    - **f.** Have [a second person, e.g. HR] compare the revocation record to the step 2 inventory, confirm every row is filled, and initial it.
    - **g.** If you cannot confirm a revocation for any system, tell [IT lead role] the same day and keep that row open on the checklist. Steps 7 and 8 can continue, but do not go to step 10 until every row is closed. Step 9 does not wait on this row.
 
-   *Why this matters:* Same-day revocation limits what a departed person can still reach. Access left open, even briefly, can be used, and the second-person check catches the row someone skipped.
+   *Why this matters:* Closing access on the day, with a second person confirming, makes the exit clean and finished in one day.
 
 7. **Recover company property and confirm data location** (Owner: IT admin)
 
@@ -110,7 +109,7 @@ HR runs this procedure for every employee or contractor separation, whether it i
    > 
    > Hi [employee first name], our records show we have not yet received the following company property: [item list]. Please return it by [date] using [return address or prepaid kit instructions]. If you have any trouble, reply to this message and I will help.
 
-   *Why this matters:* Company data that only lived on one person's device disappears when they leave, unless it is confirmed and moved before the device is reset.
+   *Why this matters:* Confirming where company files live, and moving them before the device is reset, keeps everything the company built in the company.
 
 8. **Run the final access audit** (Owner: IT admin)
 
@@ -119,7 +118,7 @@ HR runs this procedure for every employee or contractor separation, whether it i
    - **c.** Write the audit date and your initials on the checklist, and have [a second reviewer, e.g. the IT lead] check the same rows and initial.
    - **d.** If any account still shows access, revoke it now, tell [IT lead role], add the system to the access registry and the role's access matrix, and note it on the checklist. Then re-run this audit for that system before you go to step 10.
 
-   *Why this matters:* The step 6 revocation shows what you did. The audit shows what is true a few days later, after restored accounts, forgotten integrations, and delayed syncs have had a chance to appear.
+   *Why this matters:* The audit confirms a few days later that every account is closed.
 
 9. **Send final pay and benefits details to payroll and the benefits provider** (Owner: HR)
 
@@ -129,7 +128,7 @@ HR runs this procedure for every employee or contractor separation, whether it i
    - **d.** Send the benefits termination and continuation notices through [benefits provider contact] and record the date sent.
    - **e.** If the payroll confirmation is not received by [N] business days after the last day, tell [payroll owner role] and record the follow-up date on the checklist.
 
-   *Why this matters:* Final pay and benefit notices carry compliance exposure. A confirmation number turns "we think it was paid" into a fact you can point to months later.
+   *Why this matters:* A confirmation number turns "we think it was paid" into a fact you can point to months later.
 
 10. **Close the offboarding record** (Owner: HR)
 
@@ -137,15 +136,14 @@ HR runs this procedure for every employee or contractor separation, whether it i
     - **b.** If any line is open, do not close the record. Assign the open line to its owner with a date and re-check it on that date.
     - **c.** File the completed checklist and revocation record in [record location] and write the filing date on the checklist.
 
-    *Why this matters:* A record closed with lines still open leaves "did we finish this?" unanswered months later.
+    *Why this matters:* A record with every line filled answers "did we finish this?" in one look.
 
-## Exceptions and troubleshooting
+## When something comes up
 
 - **If** The employee resigned with no notice or was terminated for cause. **Then:** Compress the timeline as step 1 describes: revoke access before or during the separation conversation, and complete the property inventory that same day. Run the knowledge transfer from records afterward instead of spreading it across a notice period that does not exist.
 - **If** You discover a system the departing employee could access that is not in the registry. **Then:** Revoke it immediately, add it to the revocation record, then add it to the registry and the standard role-based access matrix so it is caught automatically next time.
 - **If** Company files turn up only on a personal device or personal cloud account. **Then:** Have the employee move the files into company storage before device or account access is cut, and document what was found on the checklist. If access is already cut, tell [HR lead role] and follow [your data recovery process].
-- **If** A departed employee's access shows up again in the final access audit or in a later scheduled access review. **Then:** Treat it as a security incident: revoke immediately, trace how it was missed or restored, and fix the gap in the checklist and the access registry.
-- **If** The departing employee refuses or is unable to complete the handoff notes. **Then:** The manager writes the handoff from [your project management tool] and [your CRM] history, marks the checklist line "reconstructed", and tells HR. Do not hold access open to force the handoff.
+- **If** The departing employee refuses or is unable to complete the handoff notes. **Then:** The manager writes the handoff from [your project management tool] and [your CRM] history, marks the checklist line "reconstructed", and tells HR. Access closes on schedule either way.
 
 ## Quality checklist
 
@@ -160,13 +158,12 @@ HR runs this procedure for every employee or contractor separation, whether it i
 - [ ] Final access audit run and initialed by two people
 - [ ] Final pay routed through Payroll Processing with a confirmation recorded, benefits notices sent, and the record filed
 
-## Common mistakes
+## What a clean run looks like
 
-- **Mistake:** Revoking access "sometime in the next few days" instead of on the last day, or at the start of the conversation for an involuntary separation. **Fix:** Treat access revocation as a same-day, non-negotiable step and follow the timing set in step 1 for the separation type.
-- **Mistake:** Assuming SSO revocation covers everything without checking high-risk systems individually. **Fix:** Confirm billing, financial, admin, and client-facing systems separately, since not every tool is connected to SSO, and write each one on the revocation record.
-- **Mistake:** Waiting until the last day to start knowledge transfer. **Fix:** Begin the handoff as soon as notice is given (step 3), so there is time to fill gaps before the person is gone.
-- **Mistake:** Closing the checklist before running the final access audit, or before every access row has a date and initials. **Fix:** Run the audit in step 8 and walk the revocation record line by line in step 10 before marking the checklist complete.
-- **Mistake:** Offering the exit interview only to people who resign. **Fix:** Offer it to every leaver. For involuntary separations, offer it after the last day by phone or the written feedback form.
+- **What it looks like:** Access closes on the last day, or at the start of the conversation for an involuntary separation. **How:** Close access on the same day and follow the timing set in step 1 for the separation type.
+- **What it looks like:** Knowledge transfer starts the day notice is given. **How:** Begin the handoff as soon as notice is given (step 3), so there is time to fill gaps before the person is gone.
+- **What it looks like:** The checklist closes after the final access audit, with every access row dated and initialed. **How:** Run the audit in step 8 and walk the revocation record line by line in step 10 before marking the checklist complete.
+- **What it looks like:** Every leaver is offered an exit interview. **How:** Offer it to every leaver. For involuntary separations, offer it after the last day by phone or the written feedback form.
 
 ## How to know it is working
 
@@ -183,7 +180,6 @@ HR runs this procedure for every employee or contractor separation, whether it i
 | Final access audit completed and initialed by two people | 100% before the record is closed |
 | Offboarding checklist completion rate | 100% before the record is closed |
 | Exit interview offered and outcome logged | 100% of departures, voluntary and involuntary |
-| Access review findings (departed employees with active access) | Zero |
 
 ## Related procedures
 

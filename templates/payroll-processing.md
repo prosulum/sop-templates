@@ -1,8 +1,8 @@
 # Payroll Processing
 
-Updated October 4, 2026
+Updated November 22, 2026
 
-This procedure runs one payroll cycle from the hours cutoff reminder through submission and filing of the records, for both W-2 employees and 1099 contractors. It exists so people are paid the right amount on the right day, and so no one person both enters the pay data and approves the submission. The Payroll Admin collects and enters the data, a named Second Reviewer checks the payroll register and signs off, and the Payroll Admin submits and files. Run it once every pay period, starting on the reminder date on your payroll calendar (weekly, biweekly, semimonthly, or monthly). W-2 and 1099 are U.S. worker classifications, so use the equivalent terms for your country. This template describes a process and is not tax or legal advice. Your payroll provider or accountant can confirm the filing, deposit, and record-keeping rules that apply to you.
+This procedure runs one payroll cycle from the hours cutoff reminder through submission and filing of the records, for both W-2 employees and 1099 contractors. It exists so people are paid the right amount on the right day, and so a second person checks every run. The Payroll Admin collects and enters the data, a named Second Reviewer checks the payroll register and signs off, and the Payroll Admin submits and files. Run it once every pay period, starting on the reminder date on your payroll calendar (weekly, biweekly, semimonthly, or monthly). W-2 and 1099 are U.S. worker classifications, so use the equivalent terms for your country.
 
 **What this gives you:** Payday runs the same checked way every pay period, so the people who depend on you are paid right and on time and can plan their lives around it. That makes you an employer people can trust with their livelihood.
 
@@ -49,7 +49,7 @@ This procedure runs one payroll cycle from the hours cutoff reminder through sub
    > Thank you,\
    > [Payroll Admin name]
 
-   *Why this matters:* A missed hours cutoff either delays pay or forces an off-cycle correction; a reminder before the cutoff is a simple way to avoid both.
+   *Why this matters:* A reminder before the cutoff gets every approved hour in on time, so payday goes out on schedule.
 
 2. **Collect and verify approved hours** (Owner: Payroll Admin)
 
@@ -69,7 +69,7 @@ This procedure runs one payroll cycle from the hours cutoff reminder through sub
    > Thank you,\
    > [Payroll Admin name]
 
-   *Why this matters:* Unapproved or estimated hours can be wrong, and a wrong entry is harder to fix after money has moved.
+   *Why this matters:* Approved hours entered once, correctly, are the fastest path to a clean run.
 
 3. **Verify contractor invoices, new hires, rate changes, and terminations** (Owner: Payroll Admin)
 
@@ -80,7 +80,7 @@ This procedure runs one payroll cycle from the hours cutoff reminder through sub
    - **e.** Apply each approved rate change or raise effective this period, and confirm the effective date matches [your rate and change log].
    - **f.** Apply each termination effective this period, including final pay items, following the Employee Offboarding procedure.
 
-   *Why this matters:* A classification or rate error carries into every pay period until someone corrects it, so check them at the source.
+   *Why this matters:* Checking classification and rates at the source keeps every later pay period right.
 
 4. **Enter hours and apply documented exceptions** (Owner: Payroll Admin)
 
@@ -88,7 +88,7 @@ This procedure runs one payroll cycle from the hours cutoff reminder through sub
    - **b.** Apply exceptions (bonuses, commissions, deductions, garnishments, reimbursements) only from the documented exception list for this period, not from memory or a side conversation. If someone asks for an exception that is not on the list, decline it for this period and ask them to get it approved and added.
    - **c.** Save a copy of the exception list to [where the payroll records are filed] with this period's payroll records.
 
-   *Why this matters:* A documented exception list creates an audit trail and keeps "just this once" changes on the record.
+   *Why this matters:* A documented exception list keeps every change on the record, so the next cycle starts from a clean list.
 
 5. **Run a second-person review and get sign-off before submission** (Owner: Second Reviewer)
 
@@ -98,7 +98,7 @@ This procedure runs one payroll cycle from the hours cutoff reminder through sub
    - **d.** If you find an error, return the register to the Payroll Admin with the error written down. The Payroll Admin corrects it in step 4, and you repeat this step from the beginning.
    - **e.** If you have not signed off by [N3] hours before the submission deadline, the Payroll Admin sends the register to the backup Second Reviewer. If neither can review before the submission deadline, do not submit without a review. Follow the missed submission deadline entry in the troubleshooting section below.
 
-   *Why this matters:* A second reviewer checks what the preparer is too close to see. It is the check that does not depend on the preparer being right.
+   *Why this matters:* A second reviewer sees what the preparer is too close to see, so every run goes out with two sets of eyes on it.
 
 6. **Submit payroll and confirm transmission** (Owner: Payroll Admin)
 
@@ -107,7 +107,7 @@ This procedure runs one payroll cycle from the hours cutoff reminder through sub
    - **c.** Confirm that direct deposit transmissions were accepted and that contractor ACH or check payments were started. If any were rejected, fix the bank detail with the employee or contractor by phone or in person, then resubmit that payment and record the new confirmation.
    - **d.** Check that the expected settlement date matches the pay date on the calendar. If it does not, contact [your payroll provider] the same business day.
 
-   *Why this matters:* Submission is not the same as confirmed delivery. Checking for the accepted confirmation lets you catch a failed payment before payday.
+   *Why this matters:* Checking for the accepted confirmation lets you fix a rejected payment before payday.
 
 7. **File the payroll register and update records** (Owner: Payroll Admin)
 
@@ -115,15 +115,15 @@ This procedure runs one payroll cycle from the hours cutoff reminder through sub
    - **b.** Mark this period complete on the payroll calendar.
    - **c.** Write down any open items (a pending correction, a new hire missing paperwork, a held line) in [the open items list for this pay period], with an owner and a due date before the next reminder date.
 
-   *Why this matters:* A complete, filed record for every period turns a tax filing, an audit, or a pay dispute into a quick lookup.
+   *Why this matters:* A complete, filed record for every period turns a tax filing or a pay question into a quick lookup.
 
-## Exceptions and troubleshooting
+## When something comes up
 
 - **If** A payroll error is discovered after submission but before settlement. **Then:** Contact your payroll provider immediately. Some platforms can void or correct a submission before the funds settle; find out whether yours can and know its same-day correction deadline in advance. Record the correction and a new sign-off, and file both.
-- **If** An error is discovered after the payment has already settled. **Then:** Correct an underpayment with an off-cycle payment rather than holding it until the next regular cycle, unless your payroll provider or local rules say otherwise. Recover an overpayment on the next payroll cycle only if the rules allow it. Wage-deduction rules vary by jurisdiction, so confirm your local requirements with your payroll provider or an employment attorney, and get the employee's written acknowledgment before recouping.
-- **If** A contractor is misclassified or a new hire is missing tax paperwork at the hours cutoff. **Then:** Hold that individual's payment out of the batch rather than delay the whole run, tell the Second Reviewer, and resolve the paperwork before the next cycle. Never guess at a classification to make a deadline.
+- **If** An error is discovered after the payment has already settled. **Then:** Correct an underpayment with an off-cycle payment rather than holding it until the next regular cycle, and confirm the steps with your payroll provider. Recover an overpayment on the next payroll cycle and note it in the register.
+- **If** A new hire is missing paperwork, or a contractor's classification is unconfirmed, at the hours cutoff. **Then:** Hold that individual's payment out of the batch so the rest of the run goes on time, tell the Second Reviewer, and complete the paperwork before the next cycle. Confirm the classification before the person goes in a run.
 - **If** Payroll totals differ from the prior period by more than the variance limit with no obvious cause. **Then:** Stop before submitting. Reconcile headcount and hours against the roster line by line; an unexplained difference can point to a duplicate entry or a missed termination. Write the finding next to the register, then return to step 5.
-- **If** The submission deadline will be missed (no Second Reviewer is available, or the data is late). **Then:** Do not submit an unreviewed payroll. Tell the Owner, ask [your payroll provider] what the options are for a late submission, and tell affected employees the expected pay date in writing the same business day.
+- **If** The submission deadline will be missed (no Second Reviewer is available, or the data is late). **Then:** Get the register reviewed first. Tell the Owner, ask [your payroll provider] what the options are for a late submission, and tell affected employees the expected pay date in writing the same business day.
 
 ## Quality checklist
 
@@ -137,13 +137,13 @@ This procedure runs one payroll cycle from the hours cutoff reminder through sub
 - [ ] Submitted total equals the signed-off total, and the confirmation number is recorded; the settlement date matches the pay date
 - [ ] Payroll register, exception list, sign-off, and confirmation number filed together
 
-## Common mistakes
+## What a clean run looks like
 
-- **Mistake:** The same person enters the hours and approves the final submission. **Fix:** Require the Second Reviewer's sign-off in step 5 for every payroll run, even if it is a short scan of the register.
-- **Mistake:** Processing payroll with estimated or unapproved hours to hit the hours cutoff. **Fix:** Do not enter hours without Manager approval. Hold that person's line and return it to the Manager rather than guess at hours.
-- **Mistake:** Making a one-off exception (a bonus, a rate change) verbally without documenting it. **Fix:** Put every exception on the documented list for that period before it is entered, along with who approved it.
-- **Mistake:** Not confirming submission transmitted before moving on. **Fix:** Check for the confirmation number or accepted status in step 6 on every run. A failed transmission can look like a successful one until payday.
-- **Mistake:** Changing the payroll after the Second Reviewer signed off, then submitting. **Fix:** Compare the submitted total to the signed-off total in step 6. Any change after sign-off goes back to step 5.
+- **What it looks like:** The Second Reviewer signs off on the register in step 5 for every payroll run, even a short scan of it. **How:** Require the Second Reviewer's sign-off in step 5 for every payroll run, even if it is a short scan of the register.
+- **What it looks like:** Payroll runs on Manager-approved hours. **How:** Enter hours only with Manager approval. Hold that person's line and return it to the Manager rather than guess at hours.
+- **What it looks like:** Every exception sits on the documented list for its period. **How:** Put every exception on the documented list for that period before it is entered, along with who approved it.
+- **What it looks like:** Every submission is confirmed as transmitted. **How:** Check for the confirmation number or accepted status in step 6 on every run.
+- **What it looks like:** The submitted total equals the signed-off total. **How:** Compare the submitted total to the signed-off total in step 6. Any change after sign-off goes back to step 5.
 
 ## How to know it is working
 

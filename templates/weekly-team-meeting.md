@@ -1,6 +1,6 @@
 # Weekly Team Meeting
 
-Updated September 28, 2026
+Updated November 22, 2026
 
 This SOP runs one weekly team meeting from agenda prep through published notes: a fixed agenda, time boxes that total 35 to 45 minutes, and every action item logged with an owner and a due date. The Team lead runs it once a week at [day and time], and it applies to any team of two or more that needs a regular checkpoint on priorities, blockers, and metrics. The notetaker for the week publishes the notes.
 
@@ -12,11 +12,11 @@ This SOP runs one weekly team meeting from agenda prep through published notes: 
 
 ## Before you start
 
-- A standing agenda template with fixed sections, used every week instead of rebuilt from scratch: [agenda template title and location]
+- A standing agenda template with fixed sections, used every week: [agenda template title and location]
 - [Scorecard name and location], the live scorecard or metrics sheet the whole team can see during the meeting
 - The action items list from the prior meeting in [shared doc name and location], with owners and due dates still visible
 - [Issues list name and location], the running list where blockers and issues are kept between meetings
-- [Task tracker name], where action items get logged after the meeting, not just written in notes
+- [Task tracker name], where action items get logged after the meeting, as well as written in notes
 - A screen share or call tool: [your meeting tool]
 - A notetaker for each meeting, picked by [rotation rule, e.g. one person per week in a fixed order]
 - A definition of "off track" for each scorecard metric: [number or named status, e.g. red] and a stale-item limit of [stale-item limit in weeks] weeks in a row, used in steps 2, 3 and 5
@@ -30,55 +30,55 @@ This SOP runs one weekly team meeting from agenda prep through published notes: 
    - **a.** Copy [agenda template title and location] into [shared doc name and location]. Keep the same order every week: last week's action items, scorecard, priorities and blockers, issues, decisions and announcements, action item recap.
    - **b.** Pre-load the scorecard numbers and pull forward every open action item from last time.
    - **c.** Send the agenda [lead time, e.g. 24 hours] before the meeting, at the same time every week, using the message below.
-   - **d.** If you notice the agenda was not sent on time, send it right away and start the meeting by giving everyone two minutes to read it. Note the late send in the notes. Take the two minutes from the scorecard box.
+   - **d.** If the agenda was not sent on time, send it right away and start the meeting by giving everyone two minutes to read it. Note the late send in the notes. Take the two minutes from the scorecard box.
 
    > **Use this wording: Agenda message**
    > 
    > Agenda for [day] at [time] is here: [link]. Please update your line on the scorecard and your priorities before the meeting. If you cannot attend, add a written update to the doc by [time].
 
-   *Why this matters:* A fixed structure with fresh content each week means the team spends the meeting on real issues, not on figuring out what the meeting is for.
+   *Why this matters:* A fixed structure with fresh content each week means the team spends the meeting on real issues.
 
 2. **Open by checking last week's action items (5 minutes)** (Owner: Team lead)
 
    - **a.** Go down the list from the prior meeting: each owner reports done or not done, in one line.
-   - **b.** Anything not done gets a new due date and stays on the list. It does not disappear.
+   - **b.** Anything not done gets a new due date and stays on the list.
    - **c.** If an item has slipped [stale-item limit in weeks] weeks in a row, mark it "stale" and add it to the issues list for step 5.
 
-   *Why this matters:* If action items are never checked in public, the team learns that commitments made in the meeting do not matter.
+   *Why this matters:* Checking action items in front of the team shows that commitments made in the meeting count.
 
 3. **Review the scorecard against target (5 minutes)** (Owner: Team lead)
 
    - **a.** Walk through the team's key metrics on [scorecard name and location], number versus target, in the same fixed order every week.
-   - **b.** Call out anything off track by name. A metric is off track when it meets [number or named status]. Do not debate it here; add it to the issues list for step 5.
+   - **b.** Call out anything off track by name. A metric is off track when it meets [number or named status]. Add it to the issues list for step 5 and keep moving.
    - **c.** If a metric has been off track [stale-item limit in weeks] weeks in a row, add it to the issues list marked "stale" and rank it first in step 5.
 
-   *Why this matters:* Starting with the numbers sets an objective tone. The team is not arguing about whether things are going well; the scorecard says so.
+   *Why this matters:* Starting with the numbers sets an objective tone. The scorecard shows how the week is going.
 
 4. **Run priorities and blockers (5 to 10 minutes)** (Owner: Team lead)
 
    - **a.** Each person states their top priority for the week and any blocker in their way.
-   - **b.** The Team lead adds each blocker to [issues list name and location] with the person's name attached. Blockers are not solved in this section.
-   - **c.** Keep each person's turn short. This is a status pass, not a discussion. If someone runs past their turn, say "I have added that to the issues list" and move to the next person.
+   - **b.** The Team lead adds each blocker to [issues list name and location] with the person's name attached. Blockers are solved in step 5.
+   - **c.** Keep each person's turn short. This section is a quick status pass. If someone runs past their turn, say "I have added that to the issues list" and move to the next person.
 
-   *Why this matters:* Surfacing blockers fast, without solving them on the spot, keeps the status pass moving and saves problem-solving time for the people who need to be in the room for it.
+   *Why this matters:* Surfacing blockers fast keeps the status pass moving and saves problem-solving time for the people who need to be in the room for it.
 
 5. **Solve the top issues on the list (10 to 15 minutes)** (Owner: Team lead)
 
    - **a.** Mark any issue that has been on the list [stale-item limit in weeks] weeks in a row as "stale".
    - **b.** Rank the issues list: stale items first, then [ranking rule, e.g. the issue that blocks the most people]. Pick the top one to three.
-   - **c.** For each, identify the real cause, not just the symptom, before jumping to a fix.
+   - **c.** For each, identify the real cause before choosing a fix.
    - **d.** Close every issue you discuss with a decision, one owner and one due date, and say them aloud so the notetaker writes them down.
    - **e.** If an issue needs someone who is not in the room, assign an owner to set a follow-up outside the meeting and move on.
    - **f.** If the time box ends with an issue open, leave it on the issues list for next week. If it is marked "stale", send it to [escalation role] instead.
 
-   *Why this matters:* This is the only part of the meeting meant for actual problem-solving. Everything else exists to feed this section good material.
+   *Why this matters:* This is the part of the meeting meant for problem-solving, and everything else feeds this section good material.
 
 6. **Cover decisions and announcements (5 minutes)** (Owner: Team lead)
 
    - **a.** Address anything the whole team needs to hear: process changes, policy updates, cross-team dependencies.
    - **b.** Keep this section pre-written in the agenda. If a topic starts a discussion, add it to the issues list and move on. It waits for next week's step 5.
 
-   *Why this matters:* Announcements handled here, instead of scattered across side channels, means everyone hears the same thing at the same time.
+   *Why this matters:* Announcements handled here mean everyone hears the same thing at the same time.
 
 7. **Recap action items and close on time (5 minutes)** (Owner: Team lead)
 
@@ -89,7 +89,7 @@ This SOP runs one weekly team meeting from agenda prep through published notes: 
    > 
    > [Owner], you will [action] by [date]. Is that right?
 
-   *Why this matters:* A meeting that ends on time gives people a reason to prepare. One that always runs long can teach them to arrive late or check out.
+   *Why this matters:* A meeting that ends on time gives people a reason to prepare and gives everyone their time back.
 
 8. **Document and distribute notes within [notes deadline, in hours] hours** (Owner: Notetaker)
 
@@ -103,20 +103,20 @@ This SOP runs one weekly team meeting from agenda prep through published notes: 
    > 
    > Notes from [date] are here: [link]. Decisions: [decision]. Your action items: [owner] will [action] by [date]. Next meeting: [day and time].
 
-   *Why this matters:* A meeting that produces no written record did not really happen as far as anyone who missed it is concerned.
+   *Why this matters:* Written notes give everyone, including anyone who missed the meeting, the same record of what was decided.
 
-## Exceptions and troubleshooting
+## When something comes up
 
-- **If** The same issue shows up on the list for [stale-item limit in weeks] weeks in a row. **Then:** It is not being solved by the current owner. Mark it "stale" in step 5. If it is still open when the step 5 time box ends, send it to [escalation role] with a note of what has been tried, and either reassign it or break it into a smaller first step.
-- **If** Attendance is inconsistent and updates get lost. **Then:** Require a short written update in the shared doc from anyone who cannot attend, due before the meeting starts, so they are not missing from the record. The Team lead reads it aloud at the point in the agenda where that person would speak.
-- **If** The meeting is consistently running past the time boxes. **Then:** Audit the agenda for topics that belong in a different meeting or a one-on-one, and move them out. A recurring overrun is a sign the meeting is carrying too much. If it still overruns after two meetings, change the time boxes in this SOP and record the change and the date.
+- **If** The same issue shows up on the list for [stale-item limit in weeks] weeks in a row. **Then:** Mark it "stale" in step 5. If it is still open when the step 5 time box ends, send it to [escalation role] with a note of what has been tried, and either reassign it or break it into a smaller first step.
+- **If** Attendance is inconsistent and updates get lost. **Then:** Ask anyone who cannot attend for a short written update in the shared doc, due before the meeting starts, so their voice is in the record. The Team lead reads it aloud at the point in the agenda where that person would speak.
+- **If** The meeting is consistently running past the time boxes. **Then:** Review the agenda for topics that belong in a different meeting or a one-on-one, and move them out. If it still overruns after two meetings, change the time boxes in this SOP and record the change and the date.
 - **If** The Team lead cannot attend. **Then:** [Backup role] runs the meeting from the same agenda. If nobody can run it, cancel it, ask everyone to add their written update to the shared doc by the usual time, and have the Team lead review it and log the action items within [notes deadline, in hours] hours.
 - **If** The notetaker is absent. **Then:** The Team lead names a replacement at the start of the meeting from the rotation, and writes the replacement's name in the notes.
 
 ## Quality checklist
 
 - [ ] Agenda sent at the same time every week, before the meeting
-- [ ] Scorecard reviewed with actual numbers, not just a general status
+- [ ] Scorecard reviewed with actual numbers
 - [ ] Every action item from last week checked off or explicitly carried forward with a new date
 - [ ] Every issue discussed closed with one owner and one due date
 - [ ] Time boxes kept: the meeting ran for the total the boxes add up to (35 to 45 minutes) and ended at the scheduled time
@@ -124,20 +124,20 @@ This SOP runs one weekly team meeting from agenda prep through published notes: 
 - [ ] Every action item logged in the task tracker, and the item count in the notes matches the tracker
 - [ ] No metric or issue has been sitting unresolved for [stale-item limit in weeks] weeks in a row without going to the escalation role
 
-## Common mistakes
+## What a clean run looks like
 
-- **Mistake:** Letting one topic turn into a working session while everyone else waits. **Fix:** Park it. Assign an owner and a follow-up time outside the meeting, then move on.
-- **Mistake:** Treating the scorecard review as a status readout instead of watching for numbers moving off track. **Fix:** Name off-track metrics out loud and send them straight to the issues list for step 5.
-- **Mistake:** Letting incomplete action items drop instead of carrying them forward. **Fix:** Start every meeting by checking the prior list. Nothing gets removed without being marked done or reassigned.
-- **Mistake:** Running the meeting from memory with no agenda in front of anyone. **Fix:** Use the same standing template every week and send it before the meeting without exception.
-- **Mistake:** Logging action items only in the notes, where nobody sees them until the next meeting. **Fix:** Step 8 requires every item in the task tracker and a count check between the notes and the tracker.
+- **What it looks like:** Each topic stays inside its time box. **How:** When a topic grows into a working session, assign an owner and a follow-up time outside the meeting, then move on, so everyone's time goes to the agenda.
+- **What it looks like:** The scorecard review spots numbers moving off track. **How:** Name off-track metrics out loud and send them straight to the issues list for step 5.
+- **What it looks like:** Incomplete action items carry forward. **How:** Start every meeting by checking the prior list. Every item leaves the list marked done or reassigned.
+- **What it looks like:** The meeting runs from an agenda everyone has in front of them. **How:** Use the same standing template every week and send it before the meeting.
+- **What it looks like:** Action items are logged in the task tracker, where everyone sees them. **How:** Step 8 puts every item in the task tracker and includes a count check between the notes and the tracker.
 
 ## How to know it is working
 
 - Someone who missed the meeting can read the notes and know exactly what was decided and who owns what.
-- Action items from two meetings ago are closed, not still sitting open.
-- Off-track metrics get flagged and addressed before they become a crisis, not after.
-- The meeting reliably starts and ends on time without a running joke about it.
+- Action items from two meetings ago are closed.
+- Off-track metrics get flagged and addressed early.
+- The meeting reliably starts and ends on time.
 
 | Metric | Target |
 | --- | --- |

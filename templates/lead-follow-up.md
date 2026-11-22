@@ -1,10 +1,10 @@
 # Lead Follow-Up
 
-Updated October 4, 2026
+Updated November 22, 2026
 
-This SOP covers one lead, from the moment it enters the pipeline through the point the lead books a call, is handed off, opts out, or moves to nurture. It applies to inbound leads (form fills, calls, chat) and outbound-sourced leads alike. The SDR (whoever follows up new leads) runs it for every new lead: a first response as fast as the lead's channel allows (minutes for a live inbound lead), then the remaining touches of a seven-touch sequence at stated intervals, each one closed by logging it in the CRM. It is written so anyone trained on it can run the full sequence without the sales owner chasing status. The template sets out a process; it does not give legal advice. Rules on cold email, calls, texts, and consent differ by country and state, so check with an attorney before you run any sequence.
+This SOP covers one lead, from the moment it enters the pipeline through the point the lead books a call, is handed off, opts out, or moves to nurture. It applies to inbound leads (form fills, calls, chat) and outbound-sourced leads alike. The SDR (whoever follows up new leads) runs it for every new lead: a first response as fast as the lead's channel allows (minutes for a live inbound lead), then the remaining touches of a seven-touch sequence at stated intervals, each one closed by logging it in the CRM. It is written so anyone trained on it can run the full sequence without the sales owner chasing status.
 
-**What this gives you:** How your company treats people before they buy stops being luck and becomes a standard you set. Every lead is answered and none is dropped or pestered, which is the start of a reputation you earn one conversation at a time.
+**What this gives you:** How your company treats people before they buy stops being luck and becomes a standard you set. Every lead is answered and none is dropped, which is the start of a reputation you earn one conversation at a time.
 
 **Primary owner:** SDR  
 **Runs:** Every new lead, from the moment it arrives, with seven touches at set intervals until the lead books, opts out, or moves to nurture  
@@ -16,27 +16,27 @@ This SOP covers one lead, from the moment it enters the pipeline through the poi
 - The touch plan, which this SOP sets at seven touches on email and phone (touch 1 goes out on the channel the lead used): (1) first response, (2) qualification call, (3) question email, (4) resource email, (5) second call, (6) case study email, (7) direct ask email. Intervals are set in each step and are yours to adjust
 - A value library of resources and case studies to send instead of "just checking in" messages: [location of your resources and case studies]
 - The wording in each step (first response, call opener, voicemail, one email for each angle, a reply to an engaged lead, opt-out acknowledgement), loaded as saved replies in [your email tool] with your company name and contact filled in
-- Engagement means one of these four things: the lead replies, answers a call, clicks a link in your message, or books a call. Email opens and website visits are not engagement and never change what you do or say
+- Engagement means one of these four things: the lead replies, answers a call, clicks a link in your message, or books a call. What you do and say next builds on those four
 - Opt-out means any message on any channel asking you to stop, or a clear no. Both stop every scheduled touch
 - The qualification criteria: budget of at least [minimum budget], a start within [timeline window, e.g. 90 days], and a conversation with the [decision-maker role] or a named path to them
 - A do-not-contact list kept in [location of the do-not-contact list], the role that receives handoffs: [closer role], and the role that is told when a handoff is not acknowledged or a message goes out after a stop: [sales owner role]
-- Authority to move a lead between stages without owner approval
+- The SDR moves leads between stages without waiting on the owner
 
 ## Procedure
 
 1. **Log the lead and check the do-not-contact list** (Owner: SDR)
 
    - **a.** The moment the lead arrives, create or update the record in [your CRM] with the source, contact details, what they asked for, and the date and time it arrived.
-   - **b.** Assign yourself as the single owner on the record. If another person is already the owner, stop and hand the lead to them.
-   - **c.** Search [location of the do-not-contact list] for the lead's email address and phone number. If either is on it, set the status to "Do not contact", write the date on the record, and stop.
+   - **b.** Assign yourself as the single owner on the record. If another person is already the owner, hand the lead to them.
+   - **c.** Search [location of the do-not-contact list] for the lead's email address and phone number. If either is on it, set the status to "Do not contact", write the date on the record, and close the lead.
    - **d.** If the lead is not on the list, go to step 2.
 
-   *Why this matters:* A record with one owner and a checked opt-out list keeps two people from chasing the same lead and keeps you from contacting someone who has already said no.
+   *Why this matters:* A record with one owner and a checked list means one person follows up on each lead, and your time goes to leads who want to hear from you.
 
 2. **Touch 1: send the first response** (Owner: SDR)
 
    - **a.** Send the first response on the channel the lead used. For a live inbound lead (form fill, call, or chat), send it within [N] minutes (for example 5 minutes). For any other lead, send it within [N] business hours (for example 1 business hour).
-   - **b.** Use the wording below. Replace the slots with what this lead asked, and answer their question in one sentence. Do not send a generic autoresponse.
+   - **b.** Use the wording below. Replace the slots with what this lead asked, and answer their question in one sentence, so the reply is written for this lead.
    - **c.** Log the touch in [your CRM]: date, time, channel, and the angle ("first response"). Schedule touch 2 for [N] business days after this touch (for example 1). Go to step 3.
 
    > **Use this wording: First response**
@@ -52,12 +52,12 @@ This SOP covers one lead, from the moment it enters the pipeline through the poi
    > [Your name]\
    > [Your company]
 
-   *Why this matters:* A fast first reply is the part of follow-up you fully control, so make it the one that never slips.
+   *Why this matters:* A fast first reply is the part of follow-up you fully control, so make it the one that always goes out on time.
 
 3. **Touch 2: make the qualification call** (Owner: SDR)
 
    - **a.** Call the lead [N] business days after touch 1. If the lead already replied and named a time, call at that time instead. Use the call wording below.
-   - **b.** If you reach them, confirm three things without turning it into an interrogation: budget of at least [minimum budget], a start within [timeline window], and that they are the [decision-maker role] or can name and bring in that person. Write each answer on the record.
+   - **b.** If you reach them, confirm three things as a friendly conversation: budget of at least [minimum budget], a start within [timeline window], and that they are the [decision-maker role] or can name and bring in that person. Write each answer on the record.
    - **c.** If all three are met and they agree to a call with the [closer role], book it and go to step 10. If all three are met and they do not agree to a call, write their reason on the record, then schedule touch 3 as below and go to step 4.
    - **d.** If the timing is not right (start later than [timeline window]), write what would need to be true for them to move forward on the record as the re-engagement trigger, and go to step 9.
    - **e.** If the budget or decision role is not there and there is no path to it, set the status to "Closed, not a fit" with the reason, and go to step 11.
@@ -77,13 +77,13 @@ This SOP covers one lead, from the moment it enters the pipeline through the poi
    > 
    > Hi [first name], this is [your name] from [your company], following up on your question about [what they asked about]. I'll send you an email with a bit more and a couple of times that work for a short call. You can also reach me at [your phone number]. Thanks.
 
-   *Why this matters:* Qualifying early stops the team from spending equal effort on every lead regardless of fit, and the fit criteria are written down so two SDRs make the same call.
+   *Why this matters:* Qualifying early puts the team's effort on the leads who fit, and the fit criteria are written down so two SDRs make the same call.
 
 4. **Touch 3: send the question email** (Owner: SDR)
 
    - **a.** Before sending, open the record. If the lead booked a call, go to step 10. If the lead opted out or said no, go to step 11.
    - **b.** If the lead has engaged since the last touch (a reply, a link click, an answered call), respond the same day using the reply wording below, log it, and move this touch to [N] business days after your response (for example 2).
-   - **c.** Send the wording below, replacing the slots with what you know about this lead. Never mention that you saw an email open or a website visit.
+   - **c.** Send the wording below, replacing the slots with what you know about this lead. Build the message from what the lead told you.
    - **d.** Log the touch in [your CRM]: date, time, channel, and the angle ("question"). Schedule touch 4 for [N] business days after this touch (for example 3). Go to step 5.
 
    > **Use this wording: Question email**
@@ -151,7 +151,7 @@ This SOP covers one lead, from the moment it enters the pipeline through the poi
 
    - **a.** Before sending, open the record. If the lead booked a call, go to step 10. If the lead opted out or said no, go to step 11.
    - **b.** If the lead has engaged since the last touch, respond the same day using the reply wording in step 4, log it, and move this touch to [N] business days after your response.
-   - **c.** Choose one case study from [location of your resources and case studies] closest to this lead's situation, and send it using the wording below with no ask attached. Do not use a case study you do not have permission to share.
+   - **c.** Choose one case study from [location of your resources and case studies] closest to this lead's situation, and send it using the wording below with no ask attached.
    - **d.** Log the touch in [your CRM]: date, time, channel, angle ("case study"), and which case study. Schedule touch 7 for [N] business days after this touch (for example 7). Go to step 8.
 
    > **Use this wording: Case study email**
@@ -195,19 +195,19 @@ This SOP covers one lead, from the moment it enters the pipeline through the poi
    - **b.** Set the next contact date [N] days out (for example 30) and the track: [name of your nurture track]. The nurture track runs as its own procedure. This template set does not include it; write one and name it here: [your nurture procedure].
    - **c.** Cancel every remaining scheduled touch from this sequence in [your CRM] and [your email tool]. Open the lead's scheduled activity list, confirm that only the nurture date remains, and write the date and your initials next to "sequence stopped" on the record.
 
-   *Why this matters:* Every lead should end the sequence in a clear state: booked, closed, or parked for later, never just abandoned mid-sequence.
+   *Why this matters:* Every lead ends the sequence in a clear state: booked, closed, or parked for later, so your pipeline always shows where each lead stands.
 
 10. **Hand off a lead who has booked a call** (Owner: SDR)
 
     - **a.** Reach this step when a lead books a call or agrees to one. Cancel every remaining scheduled touch from this sequence in [your CRM] and [your email tool].
-    - **b.** Hand off to the [closer role] with the full record: source, the answers to the three qualification questions, every touch and the reply, and any objection raised. Nothing should have to be re-asked. The closer prepares for the call under the Sales Call Prep procedure.
+    - **b.** Hand off to the [closer role] with the full record: source, the answers to the three qualification questions, every touch and the reply, and any objection raised. The closer has every answer already. The closer prepares for the call under the Sales Call Prep procedure.
     - **c.** Ask the [closer role] to acknowledge the handoff in the CRM within [N] business hours. If they have not by then, message the [sales owner role]. The [sales owner role] reassigns the handoff and writes the new closer on the record. Then set the status to "Booked", and log the touch in [your CRM].
 
-    *Why this matters:* A lead who has already answered your questions should not be asked them again, and a scheduled touch landing after they booked makes the team look disorganized.
+    *Why this matters:* A lead who has answered your questions is not asked them again, and a clean handoff shows the team working as one.
 
 11. **Stop the sequence for a no, an opt-out, or a lead who is not a fit, and confirm it stopped** (Owner: SDR)
 
-    - **a.** Reach this step from any touch when the lead says no, asks you to stop, or does not fit. Respect an opt-out the first time it is stated, on any channel.
+    - **a.** Reach this step from any touch when the lead says no, asks you to stop, or does not fit. Act on an opt-out the first time it is stated, on any channel.
     - **b.** Set the status to "Do not contact" for a no or an opt-out, or "Closed, not a fit" if they do not fit, and write the reason and the date on the record. For a no or an opt-out, add them to [location of the do-not-contact list].
     - **c.** Cancel every scheduled touch, task, and automated email for the lead in [your CRM] and [your email tool].
     - **d.** Open the lead's scheduled activity list and confirm zero scheduled touches remain. Write "stopped, 0 scheduled touches", the date, and your initials on the record. Send the acknowledgement wording below if the lead asked to stop or said no.
@@ -222,14 +222,14 @@ This SOP covers one lead, from the moment it enters the pipeline through the poi
     > [Your name]\
     > [Your company]
 
-    *Why this matters:* Contacting someone after they asked you to stop can create legal and reputation problems, and the only proof that the stop worked is checking the scheduled list yourself.
+    *Why this matters:* A confirmed stop leaves the lead with a good impression of your company, and checking the scheduled list yourself shows the stop took effect.
 
-## Exceptions and troubleshooting
+## When something comes up
 
-- **If** A lead has gone silent for several touches but has not said no. **Then:** Keep the sequence at its stated intervals through touch 7. Silence is not a no. After touch 7, go to step 9.
+- **If** A lead has gone silent for several touches but has not said no. **Then:** Keep the sequence at its stated intervals through touch 7. After touch 7, go to step 9.
 - **If** A lead responds but is not ready to buy yet. **Then:** Ask what needs to change (a budget cycle, a specific event), write it on the record as the re-engagement trigger, and go to step 9 instead of continuing the active sequence.
 - **If** A nurture lead replies or clicks something. **Then:** Respond the same day. Set the status back to active, go to step 3, and restart the sequence from touch 2 with a new record note explaining why.
-- **If** The lead gave only a phone number. **Then:** Call using the wording in step 3 in place of the email in step 2, and log it as touch 1 and touch 2 together. Ask for an email address on the call. Send text messages only if the lead has told you they agree to text. If you get an email address, continue from step 4. If not, repeat the call and voicemail at the intervals in steps 4 to 8 and skip the email touches.
+- **If** The lead gave only a phone number. **Then:** Call using the wording in step 3 in place of the email in step 2, and log it as touch 1 and touch 2 together. Ask for an email address on the call. Send text messages when the lead has told you they agree to text. If you get an email address, continue from step 4. If not, repeat the call and voicemail at the intervals in steps 4 to 8 and skip the email touches.
 - **If** Two team members are following up with the same lead. **Then:** The record has a single owner, set in step 1. The other person stops, and every touch is logged before the next one goes out.
 - **If** A high volume of leads makes seven touches per lead impractical. **Then:** Decide in advance which lead sources get the full sequence and which get a lighter one. This template set does not include a lighter sequence; write one and name it here: [your lighter sequence]. Write the tier on the record in step 1, and send a lead on the lighter sequence to step 9 when that sequence ends without a reply. Every lead that reaches a call in step 3 follows the outcomes in step 3 whichever tier it is on.
 
@@ -239,23 +239,23 @@ This SOP covers one lead, from the moment it enters the pipeline through the poi
 - [ ] First response sent within the stated time, with the touch logged
 - [ ] Qualification answers (budget, timeline, decision role) written on the record
 - [ ] All seven touches sent in order at their stated intervals, each with a different angle and none repeating "just checking in"
-- [ ] Touches 4 and 6 carry no ask, and no message references an email open or a website visit
+- [ ] Touches 4 and 6 carry no ask, and every message builds on what the lead said or did
 - [ ] Every touch logged in the CRM with the channel, result, and next scheduled action
 - [ ] Booked leads handed off with full context, and the handoff acknowledged by the closer role
 - [ ] Opt-outs and stated nos stopped every scheduled touch, with "0 scheduled touches" written and initialed, and re-checked the next business day
 
-## Common mistakes
+## What a clean run looks like
 
-- **Mistake:** Sending one or two "just checking in" emails then giving up. **Fix:** Run all seven touches, and change the angle on each: answer, call, question, resource, call, case study, direct ask.
-- **Mistake:** Following a fixed daily or weekly calendar regardless of what the lead does. **Fix:** Run the pre-touch check on every touch: if the lead engaged, answer the same day and log it; if they went quiet, keep the stated interval and do not speed up.
-- **Mistake:** Referencing tracking details like "I saw you opened my email" in outreach. **Fix:** Engagement means a reply, an answered call, a link click, or a booked call. Never mention an email open or a website visit to the lead; it can feel like surveillance, not attentiveness.
-- **Mistake:** Treating every touch as a pitch. **Fix:** Touch 4 (resource) and touch 6 (case study) carry no ask. Save the email that asks for the call and nothing else for touch 7 unless the lead engages sooner.
-- **Mistake:** Cancelling the next touch for an opt-out but leaving an automated email scheduled. **Fix:** In step 11, cancel every scheduled item, open the list yourself, confirm zero remain, and re-check the next business day.
+- **What it looks like:** All seven touches run, each with a fresh angle. **How:** Run all seven touches, and change the angle on each: answer, call, question, resource, call, case study, direct ask.
+- **What it looks like:** Each touch follows what the lead did. **How:** Run the pre-touch check on every touch: if the lead engaged, answer the same day and log it; if they went quiet, keep the stated interval.
+- **What it looks like:** Outreach builds on what the lead said and did. **How:** Engagement means a reply, an answered call, a link click, or a booked call. Write each message around what the lead told you, so it reads as attentive.
+- **What it looks like:** Touches 4 and 6 give value first. **How:** Touch 4 (resource) and touch 6 (case study) carry no ask. The email that asks for the call and nothing else waits for touch 7 unless the lead engages sooner.
+- **What it looks like:** An opt-out stops every scheduled item, automated emails included. **How:** In step 11, cancel every scheduled item, open the list yourself, confirm zero remain, and re-check the next business day.
 
 ## How to know it is working
 
 - Every lead has a scheduled next touch or a final status, and none sits with no next action.
-- Leads that eventually convert show varied touches in their history, not a single pitch.
+- Leads that eventually convert show varied touches in their history.
 - Every opt-out has "0 scheduled touches" written on the record and no message sent afterward.
 - The CRM record for any lead tells the full story: what was sent, what happened, and what is next.
 

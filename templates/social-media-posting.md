@@ -1,6 +1,6 @@
 # Social Media Posting
 
-Updated September 28, 2026
+Updated November 22, 2026
 
 The Social manager runs this procedure once for every post on the content calendar. It starts when the post's calendar slot comes up and ends when its results are logged: write the post and one variant per platform, send every variant to the Approver, lock what is approved, schedule it, confirm it went live, answer the comments on it, and log engagement at 24 and 72 hours. Building the calendar itself runs weekly and is its own routine, so this procedure assumes the calendar already exists. It is written so a Social manager can take a post from slot to results without the owner reviewing every post.
 
@@ -14,9 +14,9 @@ The Social manager runs this procedure once for every post on the content calend
 
 - A content calendar ([your calendar tool or shared sheet]) already filled in with the date, platform, format, and topic for each planned post. Building it, on [your planning cadence, e.g. weekly], is its own routine, and this procedure does not include it.
 - The brand voice guide and an approved visual/brand asset library
-- Login access to each platform's native scheduler or [your scheduling tool]
+- Each platform's native scheduler or [your scheduling tool]
 - A documented approval workflow with a named [Approver role], a [backup Approver role], and a turnaround of [N] hours (e.g. 24 to 48)
-- A written list of what counts as a "sensitive" post, for example [what counts as sensitive, e.g. names a client or competitor, makes a pricing, legal, or health claim, or responds to news or a complaint]. Any post tied to a campaign or launch on the calendar is a "campaign" post.
+- A written list of what counts as a "sensitive" post, for example [what counts as sensitive, e.g. names a client or competitor, makes a pricing claim, or responds to news or a complaint]. Any post tied to a campaign or launch on the calendar is a "campaign" post.
 - A named [crisis contact role] to escalate to when a public complaint keeps going
 - A tracking sheet or dashboard for engagement metrics, and the [baseline] you compare posts against (e.g. the average of your last [N] posts on that platform)
 
@@ -27,15 +27,15 @@ The Social manager runs this procedure once for every post on the content calend
    - **a.** Open the calendar and pick the next post whose slot has come up. Read its date, platforms, format, and topic.
    - **b.** Check the content type against [your content mix, e.g. education, proof, offer, engagement] so the week does not skew all-promotional. If it does, tell the calendar owner and go to step 2 with the slot unchanged.
    - **c.** Mark the post as "campaign", "sensitive", or "routine" using the written list in the prerequisites. If a post is both campaign and sensitive, mark it "sensitive". If you cannot decide, treat it as sensitive.
-   - **d.** If the slot has no topic or format, write to [calendar owner role] and stop until they fill it in.
+   - **d.** If the slot has no topic or format, write to [calendar owner role] and pick the post up when they fill it in.
 
-   *Why this matters:* Deciding the review tier and the brief before you write stops a sensitive post from being discovered halfway through approval.
+   *Why this matters:* Deciding the review tier and the brief before you write puts each post on the right review path from the start.
 
 2. **Draft the post and a variant for each platform** (Owner: Social manager)
 
-   - **a.** Write the core copy using the approved brand voice guide, not one caption copy-pasted across platforms.
+   - **a.** Write the core copy using the approved brand voice guide.
    - **b.** For each platform on the slot, write that platform's own variant of the copy. Check each platform's current norms for length, tone, and hashtags.
-   - **c.** Resize images and video to each platform's current specifications from [your asset library]. Do not reuse one crop everywhere. Brief [your design contact] if you need something new, and wait for it before continuing.
+   - **c.** Resize images and video to each platform's current specifications from [your asset library]. Brief [your design contact] if you need something new, and continue when it arrives.
    - **d.** Build every link with its tracking tags (UTM tags, which tell your analytics which post sent the visitor) in [your UTM builder], and list every @mention. Open each link and confirm it goes to the right page.
    - **e.** Attach all variants to the calendar slot and set the status to "In Draft".
 
@@ -51,7 +51,7 @@ The Social manager runs this procedure once for every post on the content calend
    > 
    > Hi [Approver name], the [platform list] post for [date] is ready for [routine or campaign or sensitive] review: [link to draft]. It includes a variant for each platform, with links and images. Please approve, request changes, or reject by [date and time].
 
-   *Why this matters:* A documented approval step lets someone other than the owner post publicly without every post needing a live check first.
+   *Why this matters:* A documented approval step lets someone other than the owner post for the brand without the owner checking every post first.
 
 4. **Review the draft and decide** (Owner: Approver)
 
@@ -59,37 +59,37 @@ The Social manager runs this procedure once for every post on the content calend
    - **b.** If you approve, set the status to "Approved" and lock the post. Nothing changes after this point without going back through steps 2 to 4.
    - **c.** If changes are needed, write them on the draft and set the status to "Changes requested". The Social manager edits every variant (go to step 2) and resubmits (step 3).
    - **d.** If you reject the post, set the status to "Rejected" and write the reason. The Social manager removes it from the calendar or replaces the slot with a new topic, and this post ends here.
-   - **e.** If no decision has come within [N] hours, the Social manager sends the request to the [backup Approver role]. If the backup has not decided within [N] more hours, the post is not published: move the slot to the next open date and tell [calendar owner role].
+   - **e.** If no decision has come within [N] hours, the Social manager sends the request to the [backup Approver role]. If the backup has not decided within [N] more hours, the post waits: move the slot to the next open date and tell [calendar owner role].
 
-   *Why this matters:* Naming the approver's outcomes, including the ones where nobody answers, keeps a stuck post from being published without approval to hit a deadline.
+   *Why this matters:* Naming every outcome, including the one where nobody answers, keeps every post moving to an approved, scheduled slot.
 
 5. **Check the approved variants and schedule them** (Owner: Social manager)
 
    - **a.** Open each approved variant in [your scheduling tool] and put it in the slot at the posting time set for that platform in [your posting windows].
    - **b.** Confirm the destination account, page, or profile for each variant against [your account list]. This matters most on multi-brand or multi-client accounts.
-   - **c.** Confirm the links, tags, images, and mentions in the scheduler match the approved variant exactly. Do not edit any wording.
+   - **c.** Confirm the links, tags, images, and mentions in the scheduler match the approved variant exactly. Keep the wording as approved.
    - **d.** If a link, image, or mention is wrong, or any wording has to change, set the status back to "Changes requested" and go to step 2. The change goes through approval again.
    - **e.** If only a setting is wrong (time, account), fix the setting here.
    - **f.** Set the calendar status to "Scheduled".
 
-   *Why this matters:* Consistent timing can build an audience habit, and a wrong-account mistake is damaging and easy to prevent. Keeping this step to checks, not edits, protects the approval.
+   *Why this matters:* Consistent timing can build an audience habit, and confirming the account puts each post on the right page. Keeping this step to checks keeps the approved wording as approved.
 
 6. **Verify the post went live correctly** (Owner: Social manager)
 
-   - **a.** Within [N] hours of the scheduled time, check each post directly on its native platform. Do not rely on the scheduler's "sent" status.
+   - **a.** Within [N] hours of the scheduled time, check each post directly on its native platform.
    - **b.** Confirm images render, links resolve, and tags or mentions display correctly.
    - **c.** If a link or image is broken, fix only that, without changing any wording, and note what went wrong on the calendar slot.
    - **d.** If wording needs to change, delete the live post and go to step 2, so the new version is approved again.
    - **e.** If the post did not appear at all, note it on the calendar slot and go to step 5 to schedule it again.
    - **f.** Set the calendar status to "Live".
 
-   *Why this matters:* Scheduling tools can fail without warning, a stripped link or a cropped image, and catching it fast limits the damage.
+   *Why this matters:* Checking each post where readers see it confirms the link and image came through, so any fix happens fast.
 
 7. **Respond to comments and messages on the post** (Owner: Social manager)
 
    - **a.** Check the comments and messages on the post during business hours and reply within [N] business hours, and within [N] hours for a complaint, using the wording below.
-   - **b.** If a comment is negative, reply once using "Reply to a complaint", offer to continue in a private message, and do not delete it unless it violates the platform's policy.
-   - **c.** If the complaint continues after your reply, or it involves a legal threat, a safety concern, or a claim about the business you cannot answer, stop replying and tell the [crisis contact role] with a link to the thread.
+   - **b.** If a comment is negative, reply once using "Reply to a complaint", offer to continue in a private message, and keep the comment up unless it violates the platform's policy.
+   - **c.** If the complaint continues after your reply, or it needs an answer about the business that you cannot give, tell the [crisis contact role] with a link to the thread.
    - **d.** If a message asks for something you cannot answer, reply with the holding line, forward it to [routing role], and record the date you forwarded it.
 
    > **Use this wording: Reply to a comment**
@@ -104,23 +104,23 @@ The Social manager runs this procedure once for every post on the content calend
    > 
    > Thanks for asking, [name]. I am passing this to [role or team] and someone will reply by [time].
 
-   *Why this matters:* Unanswered comments read as neglect, and a complaint answered in public with no next step gets worse.
+   *Why this matters:* Answered comments show readers an active channel, and a public reply with a next step moves a complaint to a private message.
 
 8. **Log engagement at 24 and 72 hours** (Owner: Social manager)
 
    - **a.** At 24 hours after the post went live, record impressions, engagement ([your definition, e.g. reactions, comments, and shares added together]), and click-throughs in the tracking sheet.
    - **b.** Record the same figures at 72 hours.
    - **c.** Compare the post to the [baseline]. If it is more than [N percent] above or below, flag it on the calendar slot for the next content review, and write the one thing that differed (topic, format, time).
-   - **d.** If a figure is missing because the platform does not show it, write "not available" in that cell and do not estimate.
+   - **d.** If a figure is missing because the platform does not show it, write "not available" in that cell.
 
-   *Why this matters:* Metrics left uncollected mean the next calendar gets built on guesses instead of data.
+   *Why this matters:* Logged metrics let the next calendar be built on data.
 
-## Exceptions and troubleshooting
+## When something comes up
 
 - **If** A scheduled post published with a broken link or missing image. **Then:** Fix the link or image only, verify on the native platform, and note the root cause (asset upload issue vs. scheduler bug) on the calendar slot so it does not repeat. If wording has to change, delete the post and go to step 2.
-- **If** The Approver is unavailable and a time-sensitive post is stuck. **Then:** Follow step 4: send the request to the [backup Approver role]. Never bypass approval to hit a deadline; that is when off-brand mistakes happen. If neither answers in time, the post waits for the next open date.
-- **If** A post is getting negative comments or a complaint is going public. **Then:** Do not delete the comment unless it violates platform policy. Reply once using "Reply to a complaint", move to a private channel to resolve directly, then escalate to the [crisis contact role] if it continues, as step 7 says.
-- **If** Engagement has been declining for several weeks. **Then:** Pull the last [N] weeks of logged metrics, identify which content types underperformed, and give the result to the calendar owner so the next calendar's content mix changes instead of repeating the same pattern. Calendar building and monthly metrics review are separate routines from this procedure.
+- **If** The Approver is unavailable and a time-sensitive post is stuck. **Then:** Follow step 4: send the request to the [backup Approver role]. Every post keeps its approval step, so if neither answers in time, the post waits for the next open date.
+- **If** A post is getting negative comments or a complaint is going public. **Then:** Keep the comment up unless it violates platform policy. Reply once using "Reply to a complaint", move to a private channel to resolve directly, then escalate to the [crisis contact role] if it continues, as step 7 says.
+- **If** Engagement has been declining for several weeks. **Then:** Pull the last [N] weeks of logged metrics, identify which content types underperformed, and give the result to the calendar owner so the next calendar's content mix changes. Calendar building and monthly metrics review are separate routines from this procedure.
 - **If** The calendar has no slot ready when you need to post. **Then:** This procedure starts from a filled calendar. Run your calendar-planning routine ([your planning cadence]) first, then start at step 1.
 
 ## Quality checklist
@@ -128,25 +128,25 @@ The Social manager runs this procedure once for every post on the content calend
 - [ ] Post marked campaign, sensitive, or routine using the written list before drafting
 - [ ] Post and a variant for every platform written against the brand voice guide, with images sized and links tested, before approval
 - [ ] Every variant sent to the Approver and approved before anything was scheduled
-- [ ] Approved variants locked, with no wording edited afterward; any change went back through steps 2 to 4
+- [ ] Approved variants locked with their wording unchanged; any change went back through steps 2 to 4
 - [ ] Destination account, links, tags, images, and mentions checked before the post was scheduled
 - [ ] Post confirmed live and rendering correctly on the native platform within [N] hours of publish time
 - [ ] Comments and messages answered within the documented response times, with complaints escalated as step 7 says
 - [ ] Engagement metrics logged at 24 and 72 hours
 - [ ] Calendar status accurately reflects each post's stage (draft, awaiting approval, changes requested, rejected, approved, scheduled, live)
 
-## Common mistakes
+## What a clean run looks like
 
-- **Mistake:** Posting the same copy and image across every platform unchanged. **Fix:** Write and size a variant for each platform in step 2, before the approval request, not as an afterthought after approval.
-- **Mistake:** Editing or adapting a post after it is approved and locked. **Fix:** Do all wording, sizing, and link work before step 3. If anything has to change after approval, set the status back to "Changes requested", go to step 2, and get the change approved again.
-- **Mistake:** Skipping the approval step for "quick" or "small" posts. **Fix:** Route every post through the workflow, even routine ones; use the light-review tier for low-risk posts instead of skipping review entirely.
-- **Mistake:** Scheduling and walking away without verifying the post went live correctly. **Fix:** Check every post on the native platform within [N] hours of publish time; treat "scheduled" and "live" as two separate statuses.
-- **Mistake:** Letting comments and direct messages go unanswered for days. **Fix:** Reply within the documented response times in step 7 and use the reply wording provided.
+- **What it looks like:** Each platform gets its own variant of the copy and image. **How:** Write and size a variant for each platform in step 2, before the approval request.
+- **What it looks like:** An approved post stays locked as approved. **How:** Do all wording, sizing, and link work before step 3. If anything has to change after approval, set the status back to "Changes requested", go to step 2, and get the change approved again.
+- **What it looks like:** Every post goes through the approval workflow, including quick ones. **How:** Route every post through the workflow, even routine ones; the light-review tier covers routine posts, so every post gets reviewed.
+- **What it looks like:** Every post is verified live on its native platform. **How:** Check every post on the native platform within [N] hours of publish time; "scheduled" and "live" are two separate statuses.
+- **What it looks like:** Comments and direct messages are answered within the documented response times. **How:** Reply within the documented response times in step 7 and use the reply wording provided.
 
 ## How to know it is working
 
 - Every post in the current cycle was drafted, approved, scheduled, and verified live without the owner reviewing every post.
-- No post went out with a broken link, wrong account, or off-brand copy, and no approved post was edited after approval.
+- Every post went out with working links, the right account, on-brand copy, and its approved wording.
 - Engagement metrics are logged consistently and used to inform the next calendar.
 - Comments and messages are answered within the documented response times, every time.
 

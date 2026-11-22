@@ -1,10 +1,10 @@
 # New Client Onboarding
 
-Updated October 4, 2026
+Updated November 22, 2026
 
-This SOP covers one new client, from the moment their agreement is fully signed through the kickoff recap and the booking of the 30-day check-in. It applies to any service business handing a new client from sales to delivery. The onboarding specialist opens the file, sends the welcome, collects the intake form, and sets up the tools, and the account lead reviews the intake, runs the kickoff, and sends the recap. It is written so a trained team member can run it end to end without the owner in the loop, and the trigger is always a signed agreement, so nothing here sends or collects the agreement.
+This SOP covers one new client, from the moment their agreement is fully signed through the kickoff recap and the booking of the 30-day check-in. It applies to any service business handing a new client from sales to delivery. The onboarding specialist opens the file, sends the welcome, collects the intake form, and sets up the tools, and the account lead reviews the intake, runs the kickoff, and sends the recap. It is written so a trained team member can run it end to end without the owner in the loop, and the trigger is always a signed agreement, so the agreement itself is sent and collected before this SOP begins.
 
-**What this gives you:** When every new client starts the same clear way, the first impression of your company stops depending on who was free that week, and you become known for the standard you set, not the scramble you covered.
+**What this gives you:** When every new client starts the same clear way, the first impression of your company stops depending on who was free that week, and you become known for the standard you set.
 
 **Primary owner:** Onboarding Specialist  
 **Runs:** Once per new client, starting the moment the agreement is fully signed  
@@ -25,12 +25,12 @@ This SOP covers one new client, from the moment their agreement is fully signed 
 
 1. **Log the signed client and open their file** (Owner: Onboarding Specialist)
 
-   - **a.** Open the signed agreement and confirm every required signature is on it. If a signature is missing, do not continue. Send it back to [the sales owner] and stop until you have the complete signed copy. Then start again at step 1.
+   - **a.** Open the signed agreement and confirm every required signature is on it. If a signature is missing, send it back to [the sales owner] and pause until you have the complete signed copy. Then start again at step 1.
    - **b.** Create the client record in [your CRM] before you send the welcome email, with contact details, contract value, start date, and the account lead assigned by [assignment rule]. Write the account lead's name and role on the record.
    - **c.** Create the client folder using [folder structure and naming convention], and save the signed agreement in it.
    - **d.** Set the client status to "Onboarding". Go to step 2.
 
-   *Why this matters:* Centralizing the client on day one lets anyone on the team pick the work up without a handoff meeting, and a complete signed copy in the folder settles any later question about scope.
+   *Why this matters:* Centralizing the client on day one lets anyone on the team pick the work up without a handoff meeting, and a complete signed copy in the folder gives the whole team the agreed scope in one place.
 
 2. **Send the welcome email** (Owner: Onboarding Specialist)
 
@@ -56,7 +56,7 @@ This SOP covers one new client, from the moment their agreement is fully signed 
    > [Your name]\
    > [Your company]
 
-   *Why this matters:* A client who hears nothing after signing is left to wonder what happens next. A prompt welcome fills that gap.
+   *Why this matters:* A prompt welcome tells the client what happens next, so their first week with you starts with confidence.
 
 3. **Collect the completed intake form** (Owner: Onboarding Specialist)
 
@@ -64,7 +64,7 @@ This SOP covers one new client, from the moment their agreement is fully signed 
    - **b.** If it has not arrived [N] hours after the welcome email (for example 48), send the first nudge using the wording below, and write the date on the record.
    - **c.** If it has not arrived [N] hours after the first nudge, send the second nudge, then call the client with the call wording below and offer to fill it in together on the call.
    - **d.** If it has not arrived [N] business days after the welcome email, set the status to "Onboarding, on hold", tell the account lead in writing, and stop.
-   - **e.** The account lead decides with the client whether to continue or pause. Do not start steps 5 to 7 until the form is back or the account lead writes on the record that you may proceed.
+   - **e.** The account lead decides with the client whether to continue or pause. Start steps 5 to 7 once the form is back or the account lead writes on the record that you may proceed.
 
    > **Use this wording: Intake nudge (first and second)**
    > 
@@ -80,7 +80,7 @@ This SOP covers one new client, from the moment their agreement is fully signed 
    > 
    > Hi [first name], this is [your name] from [your company]. I'm calling about your intake form for [project]. Is now a good time for a [N]-minute call so we can fill it in together? I have the questions in front of me and I can type your answers in as we go.
 
-   *Why this matters:* Starting work before intake is complete means guessing at details, and a wrong guess becomes rework. A clear stopping point keeps a silent client from stalling the whole onboarding.
+   *Why this matters:* Starting with a complete intake means delivery begins from the client's own details, with no rework. A clear stopping point keeps the rest of onboarding moving.
 
 4. **Review the returned intake form** (Owner: Account lead)
 
@@ -105,16 +105,16 @@ This SOP covers one new client, from the moment their agreement is fully signed 
    > 
    > [Your name]
 
-   *Why this matters:* A returned form is not a complete form. The review is the check that delivery has what it needs before setup and the kickoff depend on it.
+   *Why this matters:* The review confirms delivery has everything it needs before setup and the kickoff begin.
 
 5. **Provision tools, access, and internal setup** (Owner: Onboarding Specialist)
 
    - **a.** Create their board from [your client board template] in [your project management tool], add one task per deliverable named in the signed agreement, and add the first milestones named in the agreement or the reviewed intake form.
    - **b.** Grant access using the access list per tool: add each delivery role listed for each tool, and add the client to any shared channels. Write each grant (tool, person, level) on the client record.
-   - **c.** Ask the account lead to compare the record to the access list and write their initials and the date next to it. Do not go on until they have.
+   - **c.** Ask the account lead to compare the record to the access list and write their initials and the date next to it. Go on once they have.
    - **d.** Add the first deliverable date from the agreement to the shared calendar. Go to step 6.
 
-   *Why this matters:* Doing the unglamorous setup up front means the kickoff call is about the client, not about logistics, and a second person checking access keeps grants to what the list allows.
+   *Why this matters:* Doing the setup up front means the kickoff call is about the client and their goals, and the account lead's initials confirm the team is ready to start.
 
 6. **Schedule and run the kickoff call** (Owner: Account lead)
 
@@ -122,7 +122,7 @@ This SOP covers one new client, from the moment their agreement is fully signed 
    - **b.** On the call, confirm goals, success metrics, communication preferences, and delivery cadence. The Project Kickoff procedure has the full agenda if you use it.
    - **c.** Capture decisions and action items directly in the client record before you close the call. Go to step 7.
 
-   *Why this matters:* The kickoff aligns expectations while they are fresh. Notes captured live do not depend on anyone's memory afterward.
+   *Why this matters:* The kickoff aligns expectations while they are fresh. Notes captured live give everyone the same record afterward.
 
 7. **Send the kickoff recap and book the 30-day check-in** (Owner: Account lead)
 
@@ -153,12 +153,12 @@ This SOP covers one new client, from the moment their agreement is fully signed 
 
    *Why this matters:* A written recap puts what was agreed in writing, and a pre-booked check-in gives month one a fixed next touch.
 
-## Exceptions and troubleshooting
+## When something comes up
 
-- **If** The client has not returned the intake form after two nudges. **Then:** Call them and offer to fill it in together, as in step 3. If it is still not back by the on-hold time limit, follow the on-hold path in step 3.
-- **If** The kickoff surfaces goals that are bigger than the signed scope. **Then:** Note them, confirm what is in scope now, and log the rest on the client record with the date and what was asked. Do not silently absorb new scope.
-- **If** Delivery and sales disagree on what was promised. **Then:** The signed agreement and the reviewed intake form are the source of truth. Reconcile against those, then update the record so it never happens twice.
-- **If** The agreement arrives with a missing signature or a change. **Then:** This SOP starts only from a fully signed agreement. Send it back to sales in step 1 and do not open the client file as "Onboarding" until the complete signed copy is in the folder.
+- **If** The client has not returned the intake form after two nudges. **Then:** Call them and offer to fill it in together, as in step 3. If it is still not back by the on-hold time limit, use the on-hold path in step 3.
+- **If** The kickoff surfaces goals that are bigger than the signed scope. **Then:** Note them, confirm what is in scope now, and log the rest on the client record with the date and what was asked, so the account lead can discuss it with the client.
+- **If** Delivery and sales disagree on what was promised. **Then:** The signed agreement and the reviewed intake form are the source of truth. Reconcile against those, then update the record so the whole team works from one picture.
+- **If** The agreement arrives with a missing signature or a change. **Then:** This SOP starts only from a fully signed agreement. Send it back to sales in step 1 and open the client file as "Onboarding" once the complete signed copy is in the folder.
 - **If** The 30-day check-in is due. **Then:** It is its own procedure, run on its own date. This template set does not include it; write one and name it here: [your 30-day check-in procedure]. Record the outcome on the client record.
 
 ## Quality checklist
@@ -173,19 +173,19 @@ This SOP covers one new client, from the moment their agreement is fully signed 
 - [ ] Kickoff call held within the target time
 - [ ] Written kickoff recap sent, and the 30-day check-in booked on the calendar
 
-## Common mistakes
+## What a clean run looks like
 
-- **Mistake:** Going silent between the signature and the first real contact. **Fix:** Send the welcome email in step 2 within your target time and state exactly what happens next and when.
-- **Mistake:** Starting delivery before the intake form is complete and reviewed. **Fix:** Steps 5 to 7 do not begin until step 4 is marked reviewed or the account lead writes that you may proceed.
-- **Mistake:** Running onboarding out of one person's head instead of the shared system. **Fix:** Every step logs to the CRM and shared folder, so anyone can pick it up if the owner is out.
-- **Mistake:** Letting an unreturned intake form sit indefinitely. **Fix:** Follow the nudges in step 3, then set the status to on hold and tell the account lead when the time limit passes.
-- **Mistake:** Ending the kickoff without a written recap or a scheduled next touch. **Fix:** Book the 30-day check-in before you send the recap in step 7, and send the recap within the target time.
+- **What it looks like:** The client hears from you right after signing. **How:** Send the welcome email in step 2 within your target time and state exactly what happens next and when.
+- **What it looks like:** Delivery starts from a complete, reviewed intake form. **How:** Steps 5 to 7 begin once step 4 is marked reviewed or the account lead writes that you may proceed.
+- **What it looks like:** Onboarding runs from the shared system. **How:** Every step logs to the CRM and shared folder, so anyone can pick it up while the owner is out.
+- **What it looks like:** An unreturned intake form reaches a decision on time. **How:** Follow the nudges in step 3, then set the status to on hold and tell the account lead when the time limit passes, so the account lead decides the next move.
+- **What it looks like:** The kickoff ends with a written recap and a scheduled next touch. **How:** Book the 30-day check-in before you send the recap in step 7, and send the recap within the target time.
 
 ## How to know it is working
 
 - The client can state what happens next and who their contact is after week one.
 - Delivery started with a complete, reviewed intake and no back-and-forth about basics.
-- Every onboarding artifact lives in the shared system, not in one inbox.
+- Every onboarding artifact lives in the shared system.
 - The 30-day check-in is on the calendar before onboarding is marked complete.
 
 | Metric | Target |

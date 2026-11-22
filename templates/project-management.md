@@ -1,8 +1,8 @@
 # Project Management
 
-Updated September 28, 2026
+Updated November 22, 2026
 
-This SOP covers one recurring task: the weekly project control run for a client or internal project that has already been through Project Kickoff. Each week the project manager updates the tracker against the scope baseline, sets each workstream's status by written criteria, decides or routes pending change requests, reviews the risk and issue log, publishes the status update to the distribution list, and escalates anything that has passed its limit. It runs on [day of week] every week from the week after kickoff until closeout begins, so the owner or sponsor only sees the status update and the escalations.
+This SOP covers one recurring task: the weekly project run for a client or internal project that has already been through Project Kickoff. Each week the project manager updates the tracker against the scope baseline, sets each workstream's status by written criteria, decides or routes pending change requests, reviews the risk and issue log, publishes the status update to the distribution list, and escalates anything that has passed its limit. It runs on [day of week] every week from the week after kickoff until closeout begins, so the owner or sponsor only sees the status update and the escalations.
 
 **What this gives you:** Every project gets the same check every week, so slips show up while they are small. That lets you say yes to the ambitious project, because you can see whether it is holding its course.
 
@@ -13,7 +13,7 @@ This SOP covers one recurring task: the weekly project control run for a client 
 ## Before you start
 
 - A completed Project Kickoff: signed charter with the definition of done, RACI, milestone timeline, risk log, and communication plan with a named escalation path. If any of these is missing, run Project Kickoff first
-- One-time setup before the first weekly run: save the approved charter, milestone timeline, and approved budget (if the project has one) as the scope baseline at [read-only baseline location], with edit rights limited to [baseline custodian role], separate from the working project plan
+- One-time setup before the first weekly run: save the approved charter, milestone timeline, and approved budget (if the project has one) as the scope baseline at [baseline location], saved by [baseline custodian role], separate from the working project plan
 - Every workstream owner has seen and agreed to the baseline, confirmed in writing at [baseline confirmation location]
 - Your [task tracker], with one row per workstream and per milestone, and the baseline dates copied into it
 - A change request template, saved at [change request template location], and a change log saved at [change log location]
@@ -28,13 +28,13 @@ This SOP covers one recurring task: the weekly project control run for a client 
 1. **Update the tracker against the baseline** (Owner: Project manager)
 
    - **a.** Ask each workstream owner for progress since last week, and enter the new percent complete and forecast dates for each workstream in the [task tracker].
-   - **b.** Compare each forecast milestone date to the date in the most recent approved baseline version at [read-only baseline location]. Write the difference in business days in the variance column.
+   - **b.** Compare each forecast milestone date to the date in the most recent approved baseline version at [baseline location]. Write the difference in business days in the variance column.
    - **c.** If the project has a budget, enter spend to date and forecast at completion for each workstream, and write the difference from the baseline budget in the budget variance column. If it has no budget, skip this action and the budget tests in step 2.
    - **d.** For each milestone due this week, check the deliverable against the definition of done in the charter, then ask the accountable owner per the RACI to sign it off and write their initials and the date in [sign-off location].
    - **e.** If the deliverable does not meet the definition of done, leave the milestone open, add a rework item with an owner and a date, and record the added delay in the variance column.
    - **f.** If a workstream owner has not replied by [time], enter "no report" for that workstream and go to step 2.
 
-   *Why this matters:* Without a locked baseline and a weekly comparison, scope creep and schedule slips can go unnoticed because nothing fixed is being compared against the current state.
+   *Why this matters:* A saved baseline and a weekly comparison show scope and schedule movement the week it happens.
 
 2. **Set each workstream's status by the written criteria** (Owner: Project manager)
 
@@ -44,37 +44,37 @@ This SOP covers one recurring task: the weekly project control run for a client 
    - **d.** Enter the status for each workstream in the [task tracker]. For At risk and Blocked, write the specific reason and the decision or resource needed to unblock it.
    - **e.** A workstream with "no report" from step 1 is set to At risk until its owner reports.
 
-   *Why this matters:* A three-value status only means something when each value has a stated test. Otherwise the report can keep saying "on track" until the milestone is missed.
+   *Why this matters:* A three-value status with a stated test for each value turns a slipping milestone to At risk before it is missed.
 
 3. **Process pending change requests** (Owner: Project manager)
 
    - **a.** Open each pending change request at [change request template location]. If it is not on the change request template, return it to the requester and ask them to resubmit it on the template. Any request that changes scope, timeline, or budget counts, however small.
    - **b.** Write the impact on scope, timeline, and budget against the baseline on the request.
    - **c.** If the impact is within [approval threshold], you decide it as project manager. If it is above [approval threshold], send it to the [sponsor role], who decides it.
-   - **d.** If it is approved, add a dated entry to the change log at [change log location], update the working plan and the [task tracker], and ask [baseline custodian role] to save a new dated version of the baseline at [read-only baseline location] (if you are the baseline custodian, save it yourself). Never edit the original baseline in place.
+   - **d.** If it is approved, add a dated entry to the change log at [change log location], update the working plan and the [task tracker], and ask [baseline custodian role] to save a new dated version of the baseline at [baseline location] (if you are the baseline custodian, save it yourself). Each approved change becomes its own dated baseline version.
    - **e.** Then tell the requester and the affected workstream owners using the wording under "Use this wording: Change approved".
    - **f.** Then redo steps 1 and 2 for the workstreams the approved change affects, so this week's status uses the new baseline version, and continue at step 4.
-   - **g.** If it is rejected, record the rejection and the reason in the change log, tell the requester within [N] business days using the wording under "Use this wording: Change rejected", and start no work on it.
-   - **h.** If the [sponsor role] has not decided within [N] business days of receiving it, treat the request as not approved, start no work on it, tell the requester it is waiting on the [sponsor role], and list it in step 6.
+   - **g.** If it is rejected, record the rejection and the reason in the change log, tell the requester within [N] business days using the wording under "Use this wording: Change rejected".
+   - **h.** If the [sponsor role] has not decided within [N] business days of receiving it, treat the request as not approved, tell the requester it is waiting on the [sponsor role], and list it in step 6.
 
    > **Use this wording: Change approved**
    > 
-   > Change request [number], [short description], was approved on [date] by [approver role]. The new scope, date, or budget is [detail]. The updated baseline is saved at [read-only baseline location]. Work on it can start on [date].
+   > Change request [number], [short description], was approved on [date] by [approver role]. The new scope, date, or budget is [detail]. The updated baseline is saved at [baseline location]. Work on it can start on [date].
 
    > **Use this wording: Change rejected**
    > 
-   > Change request [number], [short description], was not approved on [date] by [approver role]. The reason is [reason]. No work will start on it. If you want it reconsidered, resubmit it with [what would change the answer].
+   > Change request [number], [short description], was not approved on [date] by [approver role]. The reason is [reason]. The request is closed. If you want it reconsidered, resubmit it with [what would change the answer].
 
-   *Why this matters:* An unrouted "quick favor" is how a fixed-scope project can become a different, unbudgeted project, and the request record and change log keep the history visible.
+   *Why this matters:* Routing every request through one record keeps the project on its scope and budget, and the change log keeps the history visible.
 
 4. **Review the risk and issue log** (Owner: Project manager)
 
    - **a.** Add every new risk or issue raised since last week to the log at [risk log location].
-   - **b.** Give every open item an owner, a next action, and a committed resolution date no more than [N] business days out. An item with no owner and no date is not accepted into the log.
+   - **b.** Give every open item an owner, a next action, and a committed resolution date no more than [N] business days out. Every item enters the log with an owner and a date.
    - **c.** Close every item that was resolved this week and write the resolution and the date next to it.
    - **d.** Mark every item whose committed resolution date has passed, and list it in step 6.
 
-   *Why this matters:* A risk log touched only at kickoff can stop reflecting reality after a few weeks. The committed date lets step 6 tell a slow item from a stuck one.
+   *Why this matters:* A log updated every week reflects the project as it is now. The committed date lets step 6 tell a slow item from a stuck one.
 
 5. **Publish the status update** (Owner: Project manager)
 
@@ -88,7 +88,7 @@ This SOP covers one recurring task: the weekly project control run for a client 
    > 
    > Project [name], week of [date]. Overall status: [on track / at risk / blocked]. [Workstream]: [status], because [reason]. Decision needed: [decision], from [role], by [date]. Change requests decided: [number and outcome]. Next week: [milestones and actions].
 
-   *Why this matters:* An update that slips "just this week" can become an update stakeholders stop trusting, and they may start asking for one-off updates instead.
+   *Why this matters:* An update that arrives on the same day every week gives stakeholders what they need without a one-off ask.
 
 6. **Escalate anything past its limit** (Owner: Project manager)
 
@@ -103,20 +103,20 @@ This SOP covers one recurring task: the weekly project control run for a client 
    > 
    > [Item] on project [name] has been [blocked / past its committed date of [date]] since [date]. The impact is [impact on the baseline]. I need [decision or resource] from [role] by [date] to unblock it. The options are [option 1] or [option 2].
 
-   *Why this matters:* A blocked item that sits in the tracker without escalation can let a project miss its deadline without anyone seeing it coming.
+   *Why this matters:* Escalating a blocked item the week it stalls gets the decision made while the deadline still holds.
 
-## Exceptions and troubleshooting
+## When something comes up
 
-- **If** A stakeholder requests a change directly to a team member instead of through the change request process. **Then:** Ask the team member to send the request to you, do no work on it, and record it as a pending change request for step 3. Say in the status update that it is pending a decision.
+- **If** A stakeholder requests a change directly to a team member instead of through the change request process. **Then:** Ask the team member to send the request to you, and record it as a pending change request for step 3. Say in the status update that it is pending a decision.
 - **If** The status report keeps showing "on track" right up until the project misses a milestone. **Then:** Check whether the [x], [y], and [$ or %] values in step 2 are set tightly enough, and lower them if a milestone slipped without turning At risk first. Keep writing the specific reason for every At risk or Blocked status.
 - **If** Two workstreams both claim ownership of the same overlapping deliverable. **Then:** Resolve it against the RACI from kickoff. If the RACI does not cover the overlap, fix the RACI right away and tell both owners in writing.
-- **If** The project is trending over budget or behind schedule by more than the escalation limit. **Then:** Escalate it in step 6 with the variance against the baseline and the options: cut scope, extend the timeline, or add resources. Do not absorb the overrun without telling anyone.
+- **If** The project is trending over budget or behind schedule by more than the escalation limit. **Then:** Escalate it in step 6 with the variance against the baseline and the options: cut scope, extend the timeline, or add resources.
 - **If** The project is finished, or is being stopped early. **Then:** Stop the weekly run and start [your project closeout procedure]. This template set does not include a closeout procedure. Write one before your first project ends and name it here. Closeout confirms every deliverable is accepted against the baseline, captures lessons learned, and archives the record at [project archive location].
 - **If** A workstream owner does not report for [number of weeks] weeks in a row. **Then:** Keep the workstream's status at At risk under step 2, and escalate it in step 6 (a workstream with no report for [number of weeks] weeks in a row is on the step 6 list) to [escalation contact role] with the name of the workstream and the dates you asked.
 
 ## Quality checklist
 
-- [ ] Scope baseline saved at [read-only baseline location] and confirmed by every workstream owner before the first weekly run
+- [ ] Scope baseline saved at [baseline location] and confirmed by every workstream owner before the first weekly run
 - [ ] Tracker updated against the most recent approved baseline version, with the variance (and budget variance, if the project has a budget) written for every workstream and milestone
 - [ ] Every milestone marked complete was checked against the definition of done and initialed by the accountable owner
 - [ ] Every workstream status set by the written criteria, with a specific reason for every At risk and Blocked status
@@ -127,13 +127,13 @@ This SOP covers one recurring task: the weekly project control run for a client 
 - [ ] Status update sent by [day and time] and the send time recorded in the status log
 - [ ] Every item past its limit escalated with a specific ask and a date
 
-## Common mistakes
+## What a clean run looks like
 
-- **Mistake:** Letting scope changes happen informally because "it's a small ask." **Fix:** Route every change through the change request in step 3, whatever its size, and save a new dated baseline version once it is approved.
-- **Mistake:** Skipping a status update when there is nothing new to report. **Fix:** Send the update every week, even a one-line "[Current overall status], nothing new." A skipped update sends stakeholders looking for their own one-off check-ins.
-- **Mistake:** Marking a milestone done because the date arrived, not because the deliverable met the definition of done. **Fix:** Check every milestone against the definition of done in the charter and get the accountable owner's initials before marking it complete.
-- **Mistake:** Setting the status by feel, so everything reads "on track" until a milestone is missed. **Fix:** Apply the written criteria in step 2 to every workstream every week, and write the specific reason for At risk and Blocked.
-- **Mistake:** Adding a risk or issue to the log with no owner and no committed date. **Fix:** Do not accept the item into the log until it has an owner, a next action, and a committed resolution date, so step 6 can tell when it has stalled.
+- **What it looks like:** Every scope change comes in as a change request, however small the ask. **How:** Route every change through the change request in step 3, whatever its size, and save a new dated baseline version once it is approved.
+- **What it looks like:** The status update goes out every week, including weeks with nothing new. **How:** Send the update every week, even a one-line "[Current overall status], nothing new." Stakeholders know where to look and what they will find.
+- **What it looks like:** A milestone is marked done when its deliverable meets the definition of done. **How:** Check every milestone against the definition of done in the charter and get the accountable owner's initials before marking it complete.
+- **What it looks like:** Status is set by the written criteria, so a slip turns At risk before the milestone is missed. **How:** Apply the written criteria in step 2 to every workstream every week, and write the specific reason for At risk and Blocked.
+- **What it looks like:** Every risk or issue in the log has an owner and a committed date. **How:** Enter the item in the log with an owner, a next action, and a committed resolution date, so step 6 can tell when it has stalled.
 
 ## How to know it is working
 
@@ -146,7 +146,7 @@ This SOP covers one recurring task: the weekly project control run for a client 
 | Metric | Target |
 | --- | --- |
 | Status updates sent by the scheduled day and time | 100% |
-| Scope changes with a documented change request | 100%, zero informal changes |
+| Scope changes with a documented change request | 100% |
 | Change requests decided within [N] business days | 100% |
 | Open risks and issues with an owner and a committed resolution date | 100% |
 | Milestone hit rate against the baseline timeline | Baseline it in month one, then set [your target] |
